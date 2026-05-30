@@ -119,7 +119,3 @@ Common env references:
 2. Start the Go service (`programs_skills/`)
 3. Start the frontend (`frontend/`)
 4. Use Docker Compose for a unified local environment
-
-## License
-
-No explicit license is included in the repository. Add a license file if needed.
