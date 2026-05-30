@@ -1,0 +1,229 @@
+{
+    "Curiosity": {
+        "degree_courses": [
+            "ENG/260",
+            "GLG/220"
+        ],
+        "total_degree_courses": 2,
+        "pd_courses": 0
+    },
+    "Cultural Diversity": {
+        "degree_courses": [
+            "CCMH/510",
+            "CCMH/510CA",
+            "MFCC/510CA"
+        ],
+        "total_degree_courses": 3,
+        "pd_courses": [
+            "Ensuring Inclusion"
+        ],
+        "total_pd_courses": 1
+    },
+    "Sales": {
+        "degree_courses": [
+            "COM/539",
+            "MKT/431"
+        ],
+        "total_degree_courses": 2,
+        "pd_courses": [
+            "Auditing for HR",
+            "Communication in Different Settings",
+            "Analyzing Financial Metrics in Business Reports"
+        ],
+        "total_pd_courses": 3
+    },
+    "Customer Experience Improvement": {
+        "total_degree_courses": 0,
+        "pd_courses": [
+            "Handling Difficult Customer Situations",
+            "Creating Positive Customer Experiences"
+        ],
+        "total_pd_courses": 2
+    },
+    "Collaboration": {
+        "degree_courses": [
+            "ADMIN/518",
+            "AJS/534",
+            "APE/522",
+            "BIS/221T",
+            "BSCOM/310",
+            "CUR/550",
+            "EDU/301",
+            "EDU/301CA",
+            "ELM/532",
+            "ENG/340",
+            "MPH/680",
+            "OPS/445",
+            "PMH/503",
+            "PMH/503CA",
+            "PSYCH/644",
+            "PSYDA/644",
+            "SEC/532",
+            "NRP/555",
+            "NRP/555CA",
+            "NRP/556",
+            "NRP/556CA",
+            "NSG/468",
+            "NSGCB/468"
+        ],
+        "total_degree_courses": 23,
+        "pd_courses": [
+            "Communication & Conflict Resolution in Cross-Functional Teams",
+            "Communication & Conflict Resolution in Cross-Functional Teams",
+            "Scrum Master Fundamentals: Serve Scrum Team Members",
+            "Building a Culture of Empathy at Work",
+            "Conflict Resolution Strategies for Change Management",
+            "Streamlining Project Workflows with AI Tools"
+        ],
+        "total_pd_courses": 6
+    },
+    "Mentorship": {
+        "degree_courses": [
+            "CUR/540",
+            "HCS/475",
+            "NSG/533",
+            "MHA/543",
+            "MHACB/543"
+        ],
+        "total_degree_courses": 5,
+        "pd_courses": [
+            "Career Development Strategies",
+            "Brave Conversations in the Workplace"
+        ],
+        "total_pd_courses": 2
+    },
+    "Computer Science": {
+        "degree_courses": [
+            "PRG/211T",
+            "PRGDA/211"
+        ],
+        "total_degree_courses": 2,
+        "pd_courses": 0
+    },
+    "Leadership": {
+        "degree_courses": [
+            "ADMIN/518",
+            "CUR/506",
+            "SPE/594",
+            "ADMIN/518",
+            "CHL/620",
+            "DHA/733",
+            "PSYCH/642",
+            "ADMIN/565",
+            "AET/560",
+            "AJS/534",
+            "IOP/460",
+            "PSYCH/668",
+            "ADMIN/591A",
+            "BPA/422",
+            "CJA/486",
+            "CMGT/545",
+            "CMGTCB/545",
+            "CUR/550",
+            "DSC/495",
+            "ETH/120",
+            "ETHDA/120",
+            "HIS/301",
+            "HISDA/301",
+            "IOP/470",
+            "LDR/300T",
+            "POL/215",
+            "POLDA/215",
+            "BUS/700",
+            "BUS/700",
+            "BUS/721",
+            "CCMH/568",
+            "MFCC/568",
+            "CNSL/523R",
+            "DHA/700",
+            "EDD/700",
+            "EDD/724",
+            "ORG/726",
+            "HCS/475",
+            "IST/724",
+            "IST/732",
+            "LDR/305T",
+            "LDR/305T",
+            "LDR/308",
+            "LDR/309",
+            "LDR/535",
+            "LDRCB/535",
+            "LDR/711A",
+            "LDR/731",
+            "LDR/736",
+            "MGT/726",
+            "MHA/542",
+            "MHACB/542",
+            "MPA/503",
+            "MPA/583",
+            "NSG/468",
+            "NSGCB/468",
+            "NSG/508",
+            "NSG/567"
+        ],
+        "total_degree_courses": 58,
+        "pd_courses": [
+            "Analyzing DEIB Initiatives",
+            "Delegation and Empowerment",
+            "Leading with Effective Communication",
+            "Adapting Leadership Styles",
+            "Adapting Leadership Styles",
+            "Dialogue across Differences",
+            "Adapting Leadership Styles",
+            "Leadership Skills for Human Resource Professionals Recertification Pathway",
+            "Product Owner: Accurate Forecasting",
+            "Leading Through Difficult Times 2025",
+            "Leading Through Difficult Times",
+            "Fostering Belonging [Evolve]",
+            "EQ for the Workplace",
+            "Enhancing Business Outcomes with Effective Leadership",
+            "Culturally Transformative Leadership Behaviors",
+            "Culturally Transformative Leadership Behaviors",
+            "Leading Through Difficult Times 2025",
+            "Inclusive Leadership Practices",
+            "Leading Through Difficult Times",
+            "Fostering Belonging [Evolve]",
+            "Leading with Effective Communication",
+            "Leading with Effective Communication",
+            "Leading and Motivating Teams",
+            "Leading with Integrity",
+            "Enhancing Business Outcomes with Effective Leadership",
+            "Enhancing Business Outcomes with Effective Leadership",
+            "Minimizing Implicit Bias"
+        ],
+        "total_pd_courses": 27
+    },
+    "Customer Service": {
+        "degree_courses": [
+            "BSCOM/450",
+            "HCS/131T",
+            "HCSDA/131",
+            "MGT/418"
+        ],
+        "total_degree_courses": 4,
+        "pd_courses": 0
+    },
+    "Team Management": {
+        "degree_courses": [
+            "LDR/726",
+            "PM/570"
+        ],
+        "total_degree_courses": 2,
+        "pd_courses": [
+            "Active and Empathetic Listening",
+            "Active and Empathetic Listening",
+            "Analyzing DEIB Initiatives",
+            "Adapting Leadership Styles",
+            "Communicating Change",
+            "Communicating Change",
+            "Active and Empathetic Listening 2025",
+            "Sourcing and Nurturing Talent",
+            "Demographic Decision-making",
+            "Evaluating Learning Impact",
+            "Leading and Motivating Teams",
+            "EQ for the Workplace",
+            "Utilizing the Time Value of Money in Financial Decisions"
+        ],
+        "total_pd_courses": 13
+    }
+}

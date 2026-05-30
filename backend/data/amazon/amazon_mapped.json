@@ -1,0 +1,153 @@
+{
+    "Safety Assurance": {
+        "total_degree_courses": 0,
+        "pd_courses": [
+            "Enhancing Emotional and Psychological Safety for Mental Wellness",
+            "Enhancing Emotional and Psychological Safety for Mental Wellness"
+        ],
+        "total_pd_courses": 2
+    },
+    "Verbal Communication Skills": {
+        "degree_courses": [
+            "APMT/460",
+            "ENG/380"
+        ],
+        "total_degree_courses": 2,
+        "pd_courses": 0
+    },
+    "Professionalism": {
+        "degree_courses": [
+            "AJS/544",
+            "APMT/430",
+            "CJA/456",
+            "HCS/305",
+            "HCS/321",
+            "HCSDA/321",
+            "MPH/600",
+            "PSYCH/660",
+            "PSYDA/660",
+            "SWRK/200",
+            "CJS/221"
+        ],
+        "total_degree_courses": 11,
+        "pd_courses": 0
+    },
+    "Amazon Web Services": {
+        "degree_courses": [
+            "BSA/531",
+            "BSACB/531"
+        ],
+        "total_degree_courses": 2,
+        "pd_courses": 0
+    },
+    "Collaboration": {
+        "degree_courses": [
+            "ADMIN/518",
+            "AJS/534",
+            "APE/522",
+            "BIS/221T",
+            "BSCOM/310",
+            "CUR/550",
+            "EDU/301",
+            "EDU/301CA",
+            "ELM/532",
+            "ENG/340",
+            "MPH/680",
+            "OPS/445",
+            "PMH/503",
+            "PMH/503CA",
+            "PSYCH/644",
+            "PSYDA/644",
+            "SEC/532",
+            "NRP/555",
+            "NRP/555CA",
+            "NRP/556",
+            "NRP/556CA",
+            "NSG/468",
+            "NSGCB/468"
+        ],
+        "total_degree_courses": 23,
+        "pd_courses": [
+            "Communication & Conflict Resolution in Cross-Functional Teams",
+            "Communication & Conflict Resolution in Cross-Functional Teams",
+            "Scrum Master Fundamentals: Serve Scrum Team Members",
+            "Building a Culture of Empathy at Work",
+            "Conflict Resolution Strategies for Change Management",
+            "Streamlining Project Workflows with AI Tools"
+        ],
+        "total_pd_courses": 6
+    },
+    "AWS CloudFormation": {
+        "total_degree_courses": 0,
+        "pd_courses": [
+            "AWS Cloud Practitioner Certification Pathway"
+        ],
+        "total_pd_courses": 1
+    },
+    "Complex Problem Solving": {
+        "degree_courses": [
+            "BPA/304",
+            "LDR/731"
+        ],
+        "total_degree_courses": 2,
+        "pd_courses": 0
+    },
+    "Innovation": {
+        "degree_courses": [
+            "APMT/470",
+            "ARTS/230",
+            "BIO/101",
+            "BIO/351",
+            "BSCOM/370T",
+            "CMGT/558",
+            "CMGTCB/558",
+            "CSS/450",
+            "DHA/732",
+            "ENT/527",
+            "ETH/316",
+            "ETHDA/316",
+            "HCS/490",
+            "HCS/493",
+            "HCSDA/493",
+            "LDR/300T",
+            "LIT/410",
+            "MHA/599",
+            "MHACB/599",
+            "MPA/TM544",
+            "MPH/560",
+            "PSY/110",
+            "PSYCB/110",
+            "PSYDA/110",
+            "IST/724"
+        ],
+        "total_degree_courses": 25,
+        "pd_courses": 0
+    },
+    "Software Development": {
+        "degree_courses": [
+            "BSA/385",
+            "BSADA/385",
+            "CMGT/555",
+            "CMGTCB/555",
+            "CSS/435",
+            "CSS/435",
+            "PRG/310"
+        ],
+        "total_degree_courses": 7,
+        "pd_courses": [
+            "Scrum Master Fundamentals: Serve Scrum Team Members",
+            "Product Owner: Accurate Forecasting",
+            "Product Owner: Managing Agile Environments",
+            "Product Owner: Daily Scrum",
+            "Scrum Master Fundamentals: Serve Scrum Team Members"
+        ],
+        "total_pd_courses": 5
+    },
+    "Telephone Skills": {
+        "total_degree_courses": 0,
+        "pd_courses": [
+            "Communication in Different Settings"
+        ],
+        "total_pd_courses": 1
+    }
+}

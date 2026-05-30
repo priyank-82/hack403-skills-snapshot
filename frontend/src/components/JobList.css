@@ -1,0 +1,25 @@
+.job-description {
+  line-height: 1.6;
+  color: #333;
+  font-size: 1rem;
+}
+.job-description ul {
+  margin: 0 0 0.5em 1.5em;
+  padding: 0;
+  list-style: disc inside;
+}
+.job-description li {
+  margin-bottom: 0.25em;
+  font-size: 1rem;
+}
+.job-description h5 {
+  margin: 0.5em 0 0.25em 0;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+.job-description b, .job-description strong {
+  font-weight: bold;
+}
+.job-description i, .job-description em {
+  font-style: italic;
+} 

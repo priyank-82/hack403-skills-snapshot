@@ -1,0 +1,226 @@
+/* Navbar Component Styles */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 64px;
+  background-color: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  z-index: 1200;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.navbar__toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.navbar__left-section {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.navbar__logo-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.navbar__logo {
+  height: 32px;
+  width: auto;
+}
+
+.navbar__brand-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  background: linear-gradient(135deg, #DB3725, #B82E1F);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin: 0;
+}
+
+.navbar__right-section {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.navbar__icon-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: transparent;
+  border: none;
+  color: #212121;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  position: relative;
+}
+
+.navbar__icon-button:hover {
+  background-color: rgba(219, 55, 37, 0.1);
+}
+
+.navbar__badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background-color: #f44336;
+  color: white;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 500;
+  min-width: 16px;
+}
+
+.navbar__user-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  border: none;
+  color: #212121;
+  cursor: pointer;
+  padding: 8px 16px;
+  border-radius: 20px;
+  transition: all 0.2s ease-in-out;
+  margin-left: 8px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.navbar__user-button:hover {
+  background-color: rgba(219, 55, 37, 0.1);
+}
+
+.navbar__user-avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #DB3725;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.navbar__user-menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e0e0e0;
+  min-width: 200px;
+  padding: 8px 0;
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.2s ease-in-out;
+}
+
+.navbar__user-menu--open {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.navbar__menu-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 16px;
+  background: transparent;
+  border: none;
+  color: #212121;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  font-size: 0.875rem;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.navbar__menu-item:hover {
+  background-color: #f5f5f5;
+}
+
+.navbar__menu-item--danger {
+  color: #f44336;
+}
+
+.navbar__menu-item--danger:hover {
+  background-color: rgba(244, 67, 54, 0.1);
+}
+
+.navbar__menu-icon {
+  width: 16px;
+  height: 16px;
+}
+
+/* Animation for the navbar brand */
+.navbar__brand-animation {
+  animation: fadeInLeft 0.5s ease-out;
+}
+
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .navbar__toolbar {
+    padding: 0 16px;
+  }
+  
+  .navbar__left-section {
+    gap: 16px;
+  }
+  
+  .navbar__brand-text {
+    font-size: 1.25rem;
+  }
+  
+  .navbar__right-section {
+    gap: 4px;
+  }
+  
+  .navbar__user-button {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+  }
+  
+  .navbar__user-avatar {
+    width: 28px;
+    height: 28px;
+    font-size: 0.8rem;
+  }
+}

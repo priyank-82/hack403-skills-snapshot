@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  # Go programs_skills server
+  programs-skills:
+    build:
+      context: ./programs_skills
+      dockerfile: Dockerfile
+    container_name: programs-skills-server
+    ports:
+      - "8009:8009"
+    environment:
+      - GIN_MODE=release
+    networks:
+      - skillmore-network
+    restart: unless-stopped
+
+  # Python backend server
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: skillmore-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DEBUGPY=0
+    volumes:
+      - ./backend/data:/app/data
+    depends_on:
+      - programs-skills
+    networks:
+      - skillmore-network
+    restart: unless-stopped
+
+networks:
+  skillmore-network:
+    driver: bridge 

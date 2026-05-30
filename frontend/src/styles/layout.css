@@ -1,0 +1,272 @@
+/* Global Layout System - Consistent widths and spacing */
+
+/* CSS Variables for consistent layout */
+:root {
+  /* Layout dimensions */
+  --layout-max-width: 1200px;
+  --layout-sidebar-width: 240px;
+  --layout-navbar-height: 64px;
+  
+  /* Container padding */
+  --container-padding-xs: 8px;
+  --container-padding-sm: 16px;
+  --container-padding-md: 24px;
+  --container-padding-lg: 32px;
+  --container-padding-xl: 48px;
+  
+  /* Grid gaps */
+  --grid-gap-xs: 8px;
+  --grid-gap-sm: 16px;
+  --grid-gap-md: 24px;
+  --grid-gap-lg: 32px;
+  
+  /* Breakpoints */
+  --breakpoint-xs: 480px;
+  --breakpoint-sm: 768px;
+  --breakpoint-md: 1024px;
+  --breakpoint-lg: 1280px;
+  --breakpoint-xl: 1920px;
+}
+
+/* Base container classes */
+.layout-container {
+  max-width: var(--layout-max-width);
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 var(--container-padding-md);
+}
+
+.layout-container--full {
+  max-width: none;
+  width: 100%;
+}
+
+.layout-container--narrow {
+  max-width: 800px;
+}
+
+.layout-container--wide {
+  max-width: 1400px;
+}
+
+/* Page wrapper with consistent padding */
+.page-wrapper {
+  min-height: calc(100vh - var(--layout-navbar-height));
+  padding: var(--container-padding-md);
+}
+
+.page-wrapper--full {
+  padding: 0;
+}
+
+.page-wrapper--large {
+  padding: var(--container-padding-lg);
+}
+
+/* Content sections */
+.content-section {
+  margin-bottom: var(--container-padding-lg);
+}
+
+.content-section:last-child {
+  margin-bottom: 0;
+}
+
+/* Grid layouts */
+.layout-grid {
+  display: grid;
+  gap: var(--grid-gap-md);
+}
+
+.layout-grid--1 {
+  grid-template-columns: 1fr;
+}
+
+.layout-grid--2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.layout-grid--3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.layout-grid--2-1 {
+  grid-template-columns: 2fr 1fr;
+}
+
+.layout-grid--1-2 {
+  grid-template-columns: 1fr 2fr;
+}
+
+.layout-grid--sidebar {
+  grid-template-columns: 300px 1fr;
+}
+
+.layout-grid--auto {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+/* Flex layouts */
+.layout-flex {
+  display: flex;
+  gap: var(--grid-gap-md);
+}
+
+.layout-flex--column {
+  flex-direction: column;
+}
+
+.layout-flex--wrap {
+  flex-wrap: wrap;
+}
+
+.layout-flex--center {
+  align-items: center;
+  justify-content: center;
+}
+
+.layout-flex--between {
+  justify-content: space-between;
+}
+
+.layout-flex--start {
+  align-items: flex-start;
+}
+
+.layout-flex--end {
+  align-items: flex-end;
+}
+
+/* Card layouts */
+.layout-card {
+  background: white;
+  border-radius: 12px;
+  padding: var(--container-padding-md);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.layout-card--large {
+  padding: var(--container-padding-lg);
+  border-radius: 16px;
+}
+
+.layout-card--small {
+  padding: var(--container-padding-sm);
+  border-radius: 8px;
+}
+
+.layout-card--elevated {
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* Spacing utilities */
+.layout-space-xs { margin-bottom: var(--container-padding-xs); }
+.layout-space-sm { margin-bottom: var(--container-padding-sm); }
+.layout-space-md { margin-bottom: var(--container-padding-md); }
+.layout-space-lg { margin-bottom: var(--container-padding-lg); }
+.layout-space-xl { margin-bottom: var(--container-padding-xl); }
+
+.layout-space-top-xs { margin-top: var(--container-padding-xs); }
+.layout-space-top-sm { margin-top: var(--container-padding-sm); }
+.layout-space-top-md { margin-top: var(--container-padding-md); }
+.layout-space-top-lg { margin-top: var(--container-padding-lg); }
+.layout-space-top-xl { margin-top: var(--container-padding-xl); }
+
+/* Responsive utilities */
+@media (max-width: 1024px) {
+  .layout-container {
+    padding: 0 var(--container-padding-sm);
+  }
+  
+  .page-wrapper {
+    padding: var(--container-padding-sm);
+  }
+  
+  .layout-grid--sidebar {
+    grid-template-columns: 1fr;
+  }
+  
+  .layout-grid--2-1,
+  .layout-grid--1-2 {
+    grid-template-columns: 1fr;
+  }
+  
+  .layout-grid--2 {
+    grid-template-columns: 1fr;
+  }
+  
+  .layout-grid--3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .layout-container {
+    padding: 0 var(--container-padding-sm);
+  }
+  
+  .page-wrapper {
+    padding: var(--container-padding-sm);
+  }
+  
+  .layout-grid--3 {
+    grid-template-columns: 1fr;
+  }
+  
+  .layout-grid--auto {
+    grid-template-columns: 1fr;
+  }
+  
+  .layout-card {
+    padding: var(--container-padding-sm);
+  }
+  
+  .layout-card--large {
+    padding: var(--container-padding-md);
+  }
+}
+
+@media (max-width: 480px) {
+  .layout-container {
+    padding: 0 var(--container-padding-xs);
+  }
+  
+  .page-wrapper {
+    padding: var(--container-padding-xs);
+  }
+  
+  .layout-card {
+    padding: var(--container-padding-xs);
+    border-radius: 8px;
+  }
+  
+  .layout-card--large {
+    padding: var(--container-padding-sm);
+    border-radius: 12px;
+  }
+  
+  .layout-flex {
+    gap: var(--grid-gap-sm);
+  }
+  
+  .layout-grid {
+    gap: var(--grid-gap-sm);
+  }
+}
+
+/* Print styles */
+@media print {
+  .layout-container {
+    max-width: none;
+    padding: 0;
+  }
+  
+  .page-wrapper {
+    padding: 0;
+  }
+  
+  .layout-card {
+    box-shadow: none;
+    border: 1px solid #e5e7eb;
+  }
+}

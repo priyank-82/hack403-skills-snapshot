@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+aiohttp
+pydantic
+python-dotenv
+openpyxl
+boto3
+requests 

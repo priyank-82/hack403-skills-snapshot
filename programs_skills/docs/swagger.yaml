@@ -1,0 +1,75 @@
+basePath: /
+definitions:
+  main.CompetitorSkillsRequest:
+    properties:
+      competitors:
+        description: |-
+          List of competitors to analyze
+          Example: ["Amazon", "Google", "Microsoft"]
+        items:
+          type: string
+        type: array
+    type: object
+info:
+  contact: {}
+  description: API for competitor skills analysis
+  title: Competitor Skills API
+  version: "1.0"
+paths:
+  /getCompetitorsSkills:
+    get:
+      description: Runs the getCompetitorsSkills logic with default competitors
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            additionalProperties: true
+            type: object
+        "500":
+          description: Internal Server Error
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Get Competitors Skills (GET default)
+      tags:
+      - competitors
+    post:
+      consumes:
+      - application/json
+      description: Runs the getCompetitorsSkills logic with custom competitor list
+      parameters:
+      - description: Competitor list
+        in: body
+        name: request
+        required: true
+        schema:
+          $ref: '#/definitions/main.CompetitorSkillsRequest'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            additionalProperties: true
+            type: object
+        "400":
+          description: Bad Request
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+        "500":
+          description: Internal Server Error
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Get Competitors Skills (POST with custom competitors)
+      tags:
+      - competitors
+schemes:
+- http
+swagger: "2.0"

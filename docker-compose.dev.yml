@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  # Go programs_skills server (development)
+  programs-skills-dev:
+    build:
+      context: ./programs_skills
+      dockerfile: Dockerfile
+    container_name: programs-skills-server-dev
+    ports:
+      - "8009:8009"
+    environment:
+      - GIN_MODE=debug
+    volumes:
+      - ./programs_skills:/app
+      - /app/vendor
+    networks:
+      - skillmore-network-dev
+    restart: unless-stopped
+
+  # Python backend server (development)
+  backend-dev:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: skillmore-backend-dev
+    ports:
+      - "8000:8000"
+    environment:
+      - DEBUGPY=1
+    volumes:
+      - ./backend:/app
+      - ./backend/data:/app/data
+    depends_on:
+      - programs-skills-dev
+    networks:
+      - skillmore-network-dev
+    restart: unless-stopped
+    command: ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+
+networks:
+  skillmore-network-dev:
+    driver: bridge 

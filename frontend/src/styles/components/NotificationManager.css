@@ -1,0 +1,123 @@
+/* NotificationManager Component Styles */
+.notification-manager {
+  position: fixed;
+  top: 80px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 400px;
+  pointer-events: none;
+}
+
+.notification {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  border-left: 4px solid #e5e7eb;
+  pointer-events: auto;
+  min-width: 320px;
+}
+
+.notification--success {
+  border-left-color: #10b981;
+}
+
+.notification--success .notification__icon {
+  color: #10b981;
+}
+
+.notification--error {
+  border-left-color: #ef4444;
+}
+
+.notification--error .notification__icon {
+  color: #ef4444;
+}
+
+.notification--warning {
+  border-left-color: #f59e0b;
+}
+
+.notification--warning .notification__icon {
+  color: #f59e0b;
+}
+
+.notification--info {
+  border-left-color: #3b82f6;
+}
+
+.notification--info .notification__icon {
+  color: #3b82f6;
+}
+
+.notification__icon {
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.notification__content {
+  flex: 1;
+  min-width: 0;
+}
+
+.notification__message {
+  color: #374151;
+  font-size: 0.875rem;
+  line-height: 1.4;
+  margin: 0;
+  word-wrap: break-word;
+}
+
+.notification__close {
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  color: #9ca3af;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+  margin-top: -2px;
+}
+
+.notification__close:hover {
+  color: #6b7280;
+  background: #f3f4f6;
+}
+
+.notification__close:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .notification-manager {
+    top: 70px;
+    right: 16px;
+    left: 16px;
+    max-width: none;
+  }
+  
+  .notification {
+    min-width: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .notification-manager {
+    top: 60px;
+    right: 8px;
+    left: 8px;
+  }
+  
+  .notification {
+    padding: 12px;
+  }
+}

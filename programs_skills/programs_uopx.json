@@ -1,0 +1,838 @@
+[
+  {
+    "programCode": "BSB",
+    "cbe": false,
+    "programURL": "/online-business-degrees/business-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSM",
+    "cbe": false,
+    "programURL": "/online-business-degrees/business-management-bachelors-degree.html",
+    "overrideProgramDescription": "With a Bachelor of Science in Management, you’ll study the leadership skills required to become a better business manager. Develop in-demand skills in management, operations and strategic planning to improve productivity, efficiency and communication in a business setting.\r\n\r\nYou can customize this bachelor’s in business management program by adding a certificate for no additional time and money – potentially giving you two credentials when you graduate. Work with your academic counselor to add a certificate as part of your electives. ",
+    "programVersion": "",
+    "overrideProgramName": "Bachelor of Science in Management Degree"
+  },
+  {
+    "programCode": "BS/COM",
+    "cbe": false,
+    "programURL": "/online-liberal-arts-degrees/communication-bachelors-degree.html",
+    "overrideProgramDescription": "Our Bachelor of Science in Communication equips you with speech and writing skills you need to be an asset in any organization — especially as a copywriter, editor, media relations specialist or other communications professional. No matter where you work, being able to get your ideas across and convince others to see your point of view is a valuable skill. And since classes are just 5 weeks long, you can fit our communications degree into your busy life.",
+    "programVersion": "",
+    "overrideProgramName": "Bachelor of Science in Communication Degree"
+  },
+  {
+    "programCode": "BSACC/BFA",
+    "cbe": false,
+    "programURL": "/online-business-degrees/accounting-bachelors-degree-business-fundamentals-associate.html",
+    "overrideProgramDescription": "When it comes to numbers, an organization’s activity is tracked, analyzed and verified by qualified professionals. Prepare to be one of them with our Bachelor of Science in Accounting with an Associate of Arts with a concentration in Business Fundamentals. You’ll earn an associate degree on the path to your bachelor’s, so you can demonstrate your knack for numbers, before you even graduate.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSB/BFA2",
+    "cbe": false,
+    "programURL": "/online-business-degrees/business-bachelors-degree-business-fundamentals-associate.html",
+    "overrideProgramDescription": "If you can’t wait four years for skills that can impact your business career, we have one word of advice: don’t. Our Bachelor of Science in Business with an Associate of Arts concentration in Business Fundamentals enables you to earn a credential on the path to your bachelor’s degree. So you can show employers you mean business, sooner. ",
+    "programVersion": "",
+    "overrideProgramName": "Bachelor of Science in Business with an Associate of Arts concentration in Business Fundamentals"
+  },
+  {
+    "programCode": "AABFN",
+    "cbe": false,
+    "programURL": "/online-business-degrees/business-fundamentals-associate-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MHA/MBA",
+    "cbe": false,
+    "programURL": "/online-business-degrees/health-administration-mba-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MM",
+    "cbe": false,
+    "programURL": "/online-business-degrees/management-masters-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSB/HR",
+    "cbe": false,
+    "programURL": "/online-business-degrees/human-resource-management-business-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSB/PJ",
+    "cbe": false,
+    "programURL": "/online-business-degrees/project-management-business-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSB/BA",
+    "cbe": false,
+    "programURL": "/online-business-degrees/business-analytics-bachelors-degree.html",
+    "overrideProgramDescription": "In our increasingly digital world, data is everything. Our Bachelor of Science in Business with a Certificate in Business Analytics equips you with skills to help organizations use data for better decision-making. And classes are just 5 weeks long, so they won’t get in the way of your busy life.\u003cbr\u003e\r\n\u003cbr\u003e",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSB/OP2",
+    "cbe": false,
+    "programURL": "/online-business-degrees/operations-management-business-bachelors-degree.html",
+    "overrideProgramDescription": "How does business theory become hands-on operations management? With the help of a Bachelor of Science in Business with an Operation Management Certificate you learn how to bridge the gap between areas such as marketing, analytics and business law to application of critical business principles in an organizational setting.  Courses are just 5 weeks long, so they won’t get in the way of your busy life.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "4",
+    "programCode": "BSB/MG",
+    "cbe": false,
+    "overrideProgramDurationFormat": "years",
+    "programURL": "/online-business-degrees/general-management-business-bachelors-degree.html",
+    "overrideProgramDescription": "Leaders aren’t born. They’re made — with the help of programs like our Bachelor of Science in Business with a General Management Certificate. Gain skills to take an organization by the helm, or to start your own business. Courses are just 5 weeks long, so they won’t get in the way of your busy life. ",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSB/SB",
+    "cbe": false,
+    "programURL": "/online-business-degrees/small-business-management-entrepreneurship-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "4",
+    "programCode": "BSB/MK",
+    "cbe": false,
+    "overrideProgramDurationFormat": "years",
+    "programURL": "/online-business-degrees/marketing-business-bachelors-degree.html",
+    "overrideProgramDescription": "In a sea of sameness, marketing can mean the difference between a product standing out or blending in. With a Bachelor of Science in Business with a Marketing Certificate, you’ll learn how to differentiate products and win consumers’ hearts and minds. Courses in this program are just five weeks long, so you can fit them into your busy life.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "ASCYB",
+    "cbe": false,
+    "programURL": "/online-information-technology-degrees/cybersecurity-associates-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MSCYB",
+    "cbe": false,
+    "programURL": "/online-information-technology-degrees/cybersecurity-masters-degree.html",
+    "overrideProgramDescription": "Data is everywhere, and companies need cyber security experts to protect it. With our Master of Science in Cybersecurity, you’ll gain a deeper understanding of cybersecurity and operations at an enterprise level. And you’ll take just one 6-week course at a time, so you can balance work and life on the path to your degree.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSB/LD",
+    "cbe": false,
+    "programURL": "/online-business-degrees/leadership-management-business-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSHM-DA",
+    "cbe": true,
+    "programURL": "/online-healthcare-degrees/health-management-competency-based-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MHA-CB",
+    "cbe": true,
+    "programURL": "/online-healthcare-degrees/health-administration-competency-based-masters.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCredits": "33 ",
+    "overrideProgramDuration": "12 ",
+    "programCode": "BSN-CB",
+    "cbe": true,
+    "overrideProgramDurationFormat": "months ",
+    "programURL": "/online-nursing-degrees/rn-to-bsn-competency-based-bachelors.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MHA",
+    "cbe": false,
+    "programURL": "/online-healthcare-degrees/health-administration-masters-degree.html",
+    "overrideProgramDescription": "Make an impact on the business side of patient care — and shape your healthcare facility from the top down. With our Master of Health Administration (MHA), you’ll gain a wide range of skills and knowledge — from marketing and IT to policy and economics. Designed to fit into the lives of busy working adults, this degree program can be completed online in short, manageable, 6-week courses.",
+    "programVersion": "",
+    "overrideProgramName": "Master of Health Administration"
+  },
+  {
+    "programCode": "MSN/ADM",
+    "cbe": false,
+    "programURL": "/online-nursing-degrees/nurse-administration-masters-degree.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCredits": "54-68",
+    "overrideProgramDuration": "36-45",
+    "programCode": "DHA",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months ",
+    "programURL": "/online-healthcare-degrees/health-administration-doctoral-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MAED/ADM",
+    "cbe": false,
+    "programURL": "/online-education-degrees/education-administration-supervision-masters-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "DNP",
+    "cbe": false,
+    "programURL": "/online-nursing-degrees/nursing-practice-doctoral-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MAED/TED-S",
+    "cbe": false,
+    "programURL": "/online-education-degrees/secondary-teacher-education-masters-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MAED/SPE",
+    "cbe": false,
+    "programURL": "/online-education-degrees/special-education-masters-degree.html",
+    "overrideProgramDescription": "Exceptional students need teachers with extraordinary skills. If you’ve earned a bachelor’s degree in another discipline and have been thinking of making a positive impact on students with learning disabilities, start your Master of Arts in Education/Special Education. The curriculum is aligned with the Council for Exceptional Children (CEC) and ISTE standards, and helps cultivate strategies for teaching students with disabilities and collaborating to create individualized learning plans.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MAED/AET",
+    "cbe": false,
+    "programURL": "/online-education-degrees/adult-education-training-masters-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MAED/ADM2",
+    "cbe": false,
+    "programURL": "/online-education-degrees/education-administration-supervision-masters-degree-nonlicensure.html",
+    "overrideProgramDescription": "As an experienced educator, you’re ready to start leading and helping teachers thrive. Advance your education and fine-tune your K-12 school principal skills with a Master of Arts in Education/Administration and Supervision.\u003cP\u003e\u003cP\u003eYou’ll study from curriculum aligned with national standards set by the Professional Standards for Educational Leadership (PSEL) and complete an administrative internship to gain real-world, field-based experience in school administration.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSED/ECH",
+    "cbe": false,
+    "programURL": "/online-education-degrees/early-childhood-education-bachelors-degree.html",
+    "overrideProgramDescription": "A great teacher can mean the difference between giving a student a jump-start or playing catchup. Our Bachelor of Science in Education/Early Childhood Education, an initial licensure program, teaches you skills to give children from birth through age 8 or grade 3 the best possible chance of success in school — and beyond. You won’t be in this alone. \u003cp\u003e\u003cp\u003eOur program support specialist can help you navigate teacher licensure and credentialing requirements. We’ll also help you with school placements for your clinical experience and clinical practice through our close partnerships with hundreds of school districts nationwide. And you can waive up to 21 credits toward your degree if you’ve earned your Child Development Associate (CDA) credential.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "22",
+    "programCode": "MAED/TED-E",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-education-degrees/elementary-teacher-education-masters-degree.html",
+    "overrideProgramDescription": "If you hold a bachelor’s degree in a discipline other than education but want to learn the\r\nskills to become an effective elementary classroom teacher, our Master of Arts in Education in\r\nElementary Teacher Education is for you. Earn your degree through coursework that’s aligned with\r\nnational standards.\r\n\u003cp\u003e\u003cp\u003e\r\nThis degree program is designed to prepare you for teacher licensure and will help you build confidence\r\nas a general studies teacher in an elementary classroom.\r\nThis master’s program includes a clinical\r\ncomponent (field experience and student teaching), allowing candidates to acquire knowledge, skills\r\nand abilities needed to positively impact student learning and development. The program aligns with\r\nnational standards, ensuring candidates attain a quality degree that’s relevant to today’s classroom.\r\nRequirements for licensure vary by state. \u003ca href\u003d\"https://www.phoenix.edu/state-licensure-requirements/teacher-education.html\"\u003eView your state licensure requirements\u003c/a\u003e.\r\n\u003cp\u003e\u003cp\u003e ",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCredits": "54-68",
+    "overrideProgramDuration": "36-45",
+    "programCode": "EDD",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months ",
+    "programURL": "/online-education-degrees/doctor-of-education.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MAED/CI",
+    "cbe": false,
+    "programURL": "/online-education-degrees/curriculum-instruction-masters-degree.html",
+    "overrideProgramDescription": "\u003cp\u003eMake learning come alive for students. In as little as 17 months, you can earn a Master of Arts in Education/Curriculum and Instruction, designed for teachers (P-12) who want to serve as leaders in their schools with advanced knowledge and skills in curriculum and instruction.\u003c/p\u003e\r\n\r\n\u003cp\u003eTeachers with academic endorsements or who have completed specific University of Phoenix® Continuing Education for Teachers courses, such as Assessment and Evaluation for Educators and Technology Integration for Educators, can save time and money by applying to waive up to 12 credits. This special waiver allows you to finish your MAED/CI program in about 1 year, saving you more than $4,800 on tuition and fees.\u003c/p\u003e",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MHA/HCP",
+    "cbe": false,
+    "programURL": "/online-healthcare-degrees/healthcare-compliance-privacy-masters-degree.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCredits": "34",
+    "overrideProgramDuration": "16",
+    "programCode": "MSN/INF",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-nursing-degrees/nursing-informatics-masters-degree.html",
+    "overrideProgramDescription": "Learn how to analyze data to inform decision-making and patient outcomes. The Master of Science in Nursing with a concentration in Informatics prepares you to function in nursing informatics leadership roles, specialize in the design and use of electronically stored data to influence quality in care delivery and provide evidence of meeting quality, compliance and regulatory standards and requirements. Graduates may be eligible to sit for Informatics Nursing Certification Exam and should contact the American Nurses Credentialing Center for eligibility requirements.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "19",
+    "programCode": "MPH/CHL",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-healthcare-degrees/public-health-masters-degree.html",
+    "overrideProgramDescription": "Develop skills to lead programs and initiatives that positively affect people’s health and reduce community health disparities. Our Master of Public Health with a concentration in Community Health Leadership can be completed in approximately 19 months online and prepares you to be an agent of change, all while taking just one 6-week course at a time. ",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "16",
+    "programCode": "MSN/NED",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-nursing-degrees/nurse-education-masters-degree.html",
+    "overrideProgramDescription": "Help influence the future of nursing and healthcare. Earn your Master of Science in Nursing with a concentration in Nurse Education and gain the qualifications required to teach in schools, colleges, and universities, as well as in hospital settings. This program prepares registered nurses to become leaders in the field of nursing education and to function as a nurse educator in a variety of practice and educational settings. Graduates may be eligible to sit for the Nurse Educator Certification Exam and should contact the National League for Nursing for eligibility requirements.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSSW",
+    "cbe": false,
+    "programURL": "/online-behavioral-sciences-degrees/social-work-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MSC/CCMH",
+    "cbe": false,
+    "programURL": "/online-behavioral-sciences-degrees/counseling-clinical-mental-health-masters-degree.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "36",
+    "programCode": "MSC/MFCT",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-behavioral-sciences-degrees/marriage-family-child-counseling-masters-degree.html",
+    "overrideProgramDescription": "Learn how to work with diverse clients in various clinical environments, such as private practice, hospitals, schools, non-profit organizations, and public or private mental health agencies. Help clients achieve their goals through the application of skills to support individuals, children, families, couples, and groups. Courses in this program are aligned to California Licensed Marriage and Family Therapist (LMFT) and Licensed Professional Clinical Counselor (LPCC) educational requirements.",
+    "programVersion": "",
+    "overrideProgramName": "Master of Science in Counseling / Marriage, Family and Child Therapy"
+  },
+  {
+    "programCode": "BSIOP",
+    "cbe": false,
+    "programURL": "/online-psychology-degrees/industrial-organizational-psychology-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSAP/MT",
+    "cbe": false,
+    "programURL": "/online-psychology-degrees/media-technology-applied-psychology-bachelors-degree.html",
+    "overrideProgramDescription": "Learn how to apply psychological theories within a variety of industries such as business, education, social services and government using media and technology to influence behavior. With a Bachelor of Science in Applied Psychology with a concentration in Media and Technology you’ll gain skills to influence healthy technology-mediated relationships and learning. Courses in this program are just 5 weeks long, so they can fit into your busy life.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "2",
+    "programCode": "AAITT",
+    "cbe": false,
+    "overrideProgramDurationFormat": "years",
+    "programURL": "/online-information-technology-degrees/information-technology-associate-degree.html",
+    "overrideProgramDescription": "Put your passion for information technology into practice. The Associate of Arts in Information Technology introduces you to information technology concepts and principles in programming, data analytics, cybersecurity, and networking. Learn the essential foundation of technical skills necessary for additional skill building as you enter the IT field.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "2",
+    "programCode": "AACJS",
+    "cbe": false,
+    "overrideProgramDurationFormat": "years",
+    "programURL": "/online-criminal-justice-degrees/criminal-justice-associate-degree.html",
+    "overrideProgramDescription": "Learn how the criminal justice and corrections systems operate — and prepare for a career that allows you to support the agencies, systems and procedures involved in criminal justice. Our customizable Associate of Arts in Criminal Justice is transfer-friendly when you optimize your work experience, transfer credits and certifications. \r\n\u003cbr /\u003e\u003cbr /\u003e\r\nCourses in this program are just 5 weeks long, so they won’t get in the way of your busy life. Plus, There’s no application fee, no SAT test requirements, and we’ll even request your prior college transcripts for you. ",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCredits": "36",
+    "overrideProgramDuration": "18",
+    "programCode": "MSIOP",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-psychology-degrees/industrial-organizational-psychology-masters-degree.html",
+    "overrideProgramDescription": "With an online Master of Science in Industrial-Organizational Psychology, you’ll advance your knowledge and understanding of workplace culture. Learn how to apply industrial-organizational psychology principles to human behavior and motivation. The application of these principles can be used in a range of business, organizational and professional contexts to optimize workforce performance. Courses for this I/O psychology program are aligned to the education standards set by the American Psychological Association (APA) and the Society for Industrial-Organizational Psychology (SIOP).",
+    "programVersion": "",
+    "overrideProgramName": "Master of Science in Industrial-Organizational Psychology"
+  },
+  {
+    "overrideProgramDuration": "18",
+    "programCode": "MSP",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-psychology-degrees/psych-masters-degree.html",
+    "overrideProgramDescription": "Understand why people behave the way they do. Our Master of Science in Psychology gives you skills to evaluate human behavior and help individuals and groups function more effectively. Although this program doesn’t prepare you for professional licensure, you’ll be able to apply psychological principles to address personal, social and organizational problems.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BA/ENG",
+    "cbe": false,
+    "programURL": "/online-liberal-arts-degrees/english-bachelor-arts-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSPA",
+    "cbe": false,
+    "programURL": "/online-criminal-justice-degrees/public-administration-bachelors-degree.html",
+    "overrideProgramDescription": "Gain an understanding of public policy and how it’s implemented in government, nonprofit or public institutions. Our Bachelor of Science in Public Administration degree prepares you for roles in both the public and private sectors and covers everything from civil leadership, business and governmental law to finance and budgeting.",
+    "programVersion": "",
+    "overrideProgramName": "Bachelor of Science in Public Administration​ Degree"
+  },
+  {
+    "programCode": "BS/EVS",
+    "cbe": false,
+    "programURL": "/online-liberal-arts-degrees/environmental-science-bachelors-degree.html",
+    "overrideProgramDescription": "A cleaner world starts with you. Make a difference in today’s environmental landscape with an online Bachelor of Science in Environmental Science degree. Through courses in science and environmental issues, this program will help you understand renewable resources, sustainable green living, urban infrastructure and the changing climate.",
+    "programVersion": "",
+    "overrideProgramName": "Bachelor of Science in Environmental Science Degree"
+  },
+  {
+    "programCode": "MPA",
+    "cbe": false,
+    "programURL": "/online-criminal-justice-degrees/public-administration-masters-degree.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "8",
+    "programCode": "CERT/MGT",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-business-certificates/general-management.html",
+    "overrideProgramDescription": "Act like a boss — and lead like one — with our General Management Certificate (Undergraduate). You’ll learn how to coordinate business operations across accounting, operations, marketing and sales, human resources and other key departments. Since courses are just 5 weeks long, they won’t get in the way of your busy life.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "CERT/PM",
+    "cbe": false,
+    "programURL": "/online-business-certificates/project-management.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "10",
+    "programCode": "CERT/D-RES",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-business-certificates/post-masters-research-essentials.html",
+    "overrideProgramDescription": "New ideas are often built on the back of an existing body of knowledge. Learn how to make your contribution with our Post Master’s Certificate in Research Essentials in as little as 8 months. You’ll gain skills to pursue a career as a field interviewer, research assistant or market survey representative.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "CERT/G-HRM",
+    "cbe": false,
+    "programURL": "/online-business-certificates/graduate-human-resource-management.html",
+    "overrideProgramDescription": "Organizations may depend on data, but their most valuable resource isn’t digital — it’s human. In as little as seven months, our Graduate Human Resource Management Certificate will help you develop skills to help businesses find the right people and, more importantly, keep them. Classes are just 6 weeks long, so they won’t get in the way of your busy life.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "8",
+    "programCode": "CERT/SBE",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-business-certificates/small-business-management.html",
+    "overrideProgramDescription": "Being an entrepreneur isn’t just a career — it’s a mindset. In as little as seven months, our Small Business Management and Entrepreneurship Certificate can equip you with the knowledge to help turn your innovative idea into a fully realized business. And since courses are just 5 weeks long, they won’t get in the way of your busy life.",
+    "programVersion": "",
+    "overrideProgramName": "Small Business Management and Entrepreneurship Certificate"
+  },
+  {
+    "programCode": "CERT/D-OL",
+    "cbe": false,
+    "programURL": "/online-business-certificates/post-masters-organizational-leadership-decision-making.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "G-PM",
+    "cbe": false,
+    "programURL": "/online-business-certificates/graduate-project-management.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "18",
+    "programCode": "CERT/D-BA",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-business-certificates/post-masters-business-administration.html",
+    "overrideProgramDescription": "Take the first step toward the pinnacle of your business education. With our Post Master’s Certificate in Business Administration, you’ll be taught skills to help influence your industry and prepare for leadership within your field. Courses are just eight weeks long, so they can fit into your busy life. And credits from this program are applicable toward our Doctor of Business Administration (DBA) degree.\r\n\u003cbr\u003e\u003cbr\u003e ",
+    "programVersion": ""
+  },
+  {
+    "programCode": "CERT/OPS",
+    "cbe": false,
+    "programURL": "/online-business-certificates/operations-management.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "8",
+    "programCode": "CERT/HRM",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-business-certificates/human-resource-management.html",
+    "overrideProgramDescription": "People are an organization’s most valuable resource — retaining them is invaluable. In as little as seven months, our Human Resource Management Certificate (Undergraduate) can help you gain skills to break into this important field and manage both people and processes. Courses are just 5 weeks long, so they won’t get in the way of your busy life.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "8",
+    "programCode": "CERT/MKT",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-business-certificates/marketing.html",
+    "overrideProgramDescription": "Without creative and bold marketing, an organization just blends in. Learn how to help yours stand out with our Marketing Certificate (Undergraduate). In as little as seven months, you can gain the specialized skills to win consumers’ hearts and minds. And since courses are just 5 weeks long, they won’t get in the way of your busy life.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MSP-DA",
+    "cbe": true,
+    "programURL": "/online-psychology-degrees/psych-masters-competency-based-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "CERT/G-ACC",
+    "cbe": false,
+    "programURL": "/online-business-certificates/graduate-accounting.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "CERT/LDR",
+    "cbe": false,
+    "programURL": "/online-business-certificates/leadership-management.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "18",
+    "programCode": "CERT/D-IST",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-information-technology-certificates/information-systems-post-masters.html",
+    "overrideProgramDescription": "Some IT issues don’t just affect your organization; they affect the whole industry. Get ready to be part of the bigger solution with our Post Master’s Certificate in Information Systems and Technology Leadership (CERT/D-IST). Credits earned for a CERT/D-IST are transferrable toward our Doctor of Management with a focus in Information Systems and Technology. ",
+    "programVersion": "",
+    "overrideProgramName": "Post Master’s Certificate in Information Systems and Technology Leadership"
+  },
+  {
+    "overrideProgramDuration": "8",
+    "programCode": "CERT/IAS",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-information-technology-certificates/information-assurance-security.html",
+    "overrideProgramDescription": "Learn the technical skills to secure and protect information in as little as seven months. With an undergraduate Information Assurance and Security Certificate, you’ll gain interactive, hands-on experience in information systems, wireless networking, cybersecurity, cryptography and systems security.  ",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "9",
+    "programCode": "CERT/SCPL",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-information-technology-certificates/scripted-compiled-programming-languages.html",
+    "overrideProgramDescription": "If there isn’t already an app for that, then someone needs to build it. With our Certificate\r\nin Scripted and Compiled Programming Languages it could be you. Gain a solid foundation in Python and Java to help you create programs for use in fields like data analysis, cybersecurity and application development.\r\n\u003cbr\u003e\u003cbr\u003e",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "8",
+    "programCode": "CERT/ACS",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-information-technology-certificates/advanced-cybersecurity.html",
+    "overrideProgramDescription": "Learn how to become part of the solution for today’s tech-reliant world. With our online Advanced Cybersecurity Certificate program, you can develop the technical knowledge to step into the fast-growing field of IT security, helping keep computer systems safe from data breaches and cyberattacks. You’ll get real-life experience through hands-on IT labs and simulations while developing a broad knowledge of cybersecurity to help prepare you for your technology career. \r\n\u003cbr /\u003e\r\n\u003cbr /\u003e\r\nCredits in this certificate program can be applied toward our \u003ca href\u003d\"https://www.phoenix.edu/online-information-technology-degrees/information-technology-bachelors-degree.html\"\u003eBachelor of Science in Information Technology\u003c/a\u003e or \u003ca href\u003d\"https://www.phoenix.edu/online-information-technology-degrees/computer-science-bachelors-degree.html\"\u003eBachelor of Science in Computer Science\u003c/a\u003e.",
+    "programVersion": "",
+    "overrideProgramName": "Advanced Cybersecurity Certificate"
+  },
+  {
+    "overrideProgramDuration": "8",
+    "programCode": "CERT/CLD",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-information-technology-certificates/cloud-computing.html",
+    "overrideProgramDescription": "Storing data in the cloud makes it easy to access information. But businesses still\r\ndepend on qualified professionals to do the hard part: setting everything up. With our Certificate in Cloud Computing, you’ll gain the foundational knowledge and skills to help organizations build and manage cloud services. Coursework in this program is aligned to industry certifications exams like those for Amazon Web Services (AWS) Cloud Practitioner, Cloud Developer and SysOps Administrator.\r\n\u003cbr\u003e\u003cbr\u003e ",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "8",
+    "programCode": "CERT/CND",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-information-technology-certificates/cyber-network-defense.html",
+    "overrideProgramDescription": "Learn how to address a data breach or cyberattack before it happens. Our undergraduate Cyber and Network Defense Certificate can show you how to take a proactive approach to network security by spotting weaknesses before hackers can exploit them. Content in this certificate program educationally prepares you to take the EC-Council Certified Ethical Hacker (CEH) exam. Credits from this program can be applied toward our Bachelor of Science in Information Technology.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "10",
+    "programCode": "CERT/MR",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-healthcare-certificates/medical-records.html",
+    "overrideProgramDescription": "Learn the entry-level, technical aspects of medical insurance, billing, coding and claims processing in approximately 10 months online. Our Medical Records Certificate prepares you to sit for the Certified Billing and Coding Specialist (CBCS) exam, a national certification offered through the National Healthcareer Association.\r\n\u003cbr /\u003e\r\n\u003cbr /\u003e\r\n\u003cstrong\u003ePlus, all 24 credits from the Medical Records Certificate apply to our \u003ca href\u003d\"https://www.phoenix.edu/online-healthcare-degrees/health-administration-bachelors-degree.html\"\u003eBSHA\u003c/a\u003e program, shaving 9 months off the time to completion.\u003c/strong\u003e",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "18",
+    "programCode": "CERT/D-HA",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-healthcare-certificates/health-administration-post-masters.html",
+    "overrideProgramDescription": "Help shape the future of healthcare. Our Post Master’s Certificate in Health\r\nAdministration (CERT/D-HA) equips you with the knowledge to advance your education — and skills to impact your career. Credits earned from this certificate are applicable toward our Doctor of Health Administration (DHA) degree.\r\n\u003cbr\u003e\u003cbr\u003e ",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCost": "540",
+    "programCode": "CERT/G-ELM",
+    "cbe": false,
+    "programURL": "/online-education-certificates/elementary-education-graduate-initial-certificate.html",
+    "overrideProgramDescription": "Turn your passion for teaching into a career. This 15 month program is a first step to teacher licensure, even if you don’t have teaching experience. The program combines academic theory and coursework with a clinical component made up of student teaching and field experiences. Credits from this certificate can apply toward a Master of Arts in Elementary Education.",
+    "programVersion": "",
+    "overrideProgramName": "Graduate Initial Teacher Certificate/Elementary Education"
+  },
+  {
+    "programCode": "CERT/G-HCP",
+    "cbe": false,
+    "programURL": "/online-healthcare-certificates/graduate-health-compliance-privacy.html",
+    "overrideProgramDescription": "The factors that affect the quality of care apply to your hospital — and the healthcare industry at large. Learn how to write policies that can address such issues with our Graduate Health Care Compliance \u0026 Privacy Certificate (CERT/G-HCP). Classes are just 6 weeks long, so your CERT/G-HCP won’t get in the way of your busy life.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCost": "540",
+    "programCode": "CERT/G-SPE",
+    "cbe": false,
+    "programURL": "/online-education-certificates/special-education-graduate-initial-certificate.html",
+    "overrideProgramDescription": "Find your calling in special education. The program is a first step to teacher licensure if you don’t have teaching experience. The program combines academic theory and coursework with a clinical component made up of student teaching and field experiences. Credits from this certificate can apply toward a Master of Arts in Special Education.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "10",
+    "programCode": "CERT/HIS",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-healthcare-certificates/health-information-systems.html",
+    "overrideProgramDescription": "Healthcare and information technology are two rapidly growing job sectors. Earn your Health Information Systems Certificate online in approximately 10 months to help elevate your career and bring IT skills into healthcare. You’ll focus on database concepts, information networking, system design, and project management of health information systems. This certificate aligns with the Healthcare Information and Management Systems Society (HIMSS) Certified Associate in Healthcare Information and Management Systems (CAHIMS) national exam.\u003cbr\u003e\u003cbr\u003e",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "18",
+    "programCode": "CERT/D-CI",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-education-certificates/curriculum-instruction-post-masters.html",
+    "overrideProgramDescription": "Take your passion for teaching beyond the classroom. Our Post Master’s Certificate in Curriculum and Instruction (CERT/D-CI) equips you with the skills to lead the creation of educational coursework, instructional techniques and student assessments. Credits earned for the CERT/D-CI are transferrable toward our Doctor of Education with a focus in Curriculum and Instruction. However, this certificate does not lead to teacher licensure.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "CERT/D-ET",
+    "cbe": false,
+    "programURL": "/online-education-certificates/educational-technology-post-masters.html",
+    "overrideProgramDescription": "Technology by itself doesn’t improve learning. Teachers need qualified professionals to show them how to use it effectively. With our Post Master’s Certificate in Educational Technology (CERT/D-ET), that professional could be you. Gain skills to help students achieve more with the help of technology. Credits earned in CERT/D-ET are transferrable toward our Doctor of Education with a focus in Educational Technology. However, this certificate does not lead to teacher licensure.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "HCI",
+    "cbe": false,
+    "programURL": "/online-healthcare-certificates/graduate-health-informatics.html",
+    "overrideProgramDescription": "The smart collection and use of data can drive better health outcomes. Earn your Graduate Healthcare Informatics Certificate online in approximately five months to help elevate your career and start improving patient care with informatics.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "CERT/D-HEA",
+    "cbe": false,
+    "programURL": "/online-education-certificates/higher-education-administration-post-masters.html",
+    "overrideProgramDescription": "Be a part of the solution to the bigger issues affecting education. Our Post Master’s Certificate in Higher Education Administration (CERT/D-HEA) prepares you to create and improve the policies that shape our colleges and universities. Credits earned in CERT/D-HEA are transferrable toward our Doctor of Education with a focus in Higher Education Administration. However, this certificate does not lead to teacher licensure.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "CERT/D-EL",
+    "cbe": false,
+    "programURL": "/online-education-certificates/educational-leadership-post-masters.html",
+    "overrideProgramDescription": "Shape minds and leave a lasting impact on what and how students learn. With our Post Master’s Certificate in Educational Leadership (CERT/D-EL), you’ll gain skills to improve student achievement through research. Credits earned for a CERT/D-EL are transferable toward our Doctor of Education with a focus in Educational Leadership. However, this certificate does not lead to teacher licensure.",
+    "programVersion": "",
+    "overrideProgramName": "Post Master’s Certificate in Education Leadership"
+  },
+  {
+    "overrideProgramDuration": "10",
+    "programCode": "CERT/BSAN",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-business-certificates/business-analytics.html",
+    "overrideProgramDescription": "In today’s data-driven world, learning how to collect, integrate and analyze data can help your company make informed business decisions. Develop these valuable skills with our undergraduate Business Analytics Certificate. You can complete this program in as little as 11 months. And since courses are just 5 weeks long, you can fit them into your busy life.",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCost": "NA",
+    "overrideProgramDuration": "",
+    "programCode": "BSIT-DA",
+    "cbe": true,
+    "overrideProgramDurationFormat": "",
+    "programURL": "/online-information-technology-degrees/information-technology-competency-based-bachelors-degree.html",
+    "overrideProgramDescription": "\u003cp\u003ePursue your career goals with a direct-assessment bachelor’s in IT.  Learn to apply IT theory and principles to real-world business challenges. Gain knowledge needed to successfully address a range of organizational IT issues and opportunities.\u003c/p\u003e\r\n\r\n\u003cp\u003e\u003ca href\u003d\"https://www.phoenix.edu/competency-based-degrees/term-based.html\" style\u003d\"font-weight: 700;\"\u003eWhat are Direct Assessment Programs?\u003c/a\u003e\u003c/p\u003e",
+    "programVersion": "",
+    "overrideProgramName": "Bachelor of Science in Information Technology (Direct Assessment)"
+  },
+  {
+    "programCode": "BSHA",
+    "cbe": false,
+    "programURL": "/online-healthcare-degrees/health-administration-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MS/AJS",
+    "cbe": false,
+    "programURL": "/online-criminal-justice-degrees/justice-security-administration-masters-degree.html",
+    "overrideProgramDescription": "Discover what it takes to work in management and leadership positions in police, corrections, court operations and security organizations. Our Master of Science in Administration of Justice and Security program combines administrative training, policy development and problem-solving skills to prepare you for roles in law enforcement, corporate security and infrastructure security. Plus, there’s no application fee, no GMAT test requirements, and we’ll even request your prior college transcripts for you.",
+    "programVersion": "",
+    "overrideProgramName": "Master of Science in Administration of Justice and Security"
+  },
+  {
+    "overrideProgramDuration": "4",
+    "programCode": "BSACC",
+    "cbe": false,
+    "overrideProgramDurationFormat": "years",
+    "programURL": "/online-business-degrees/accounting-bachelors-degree.html",
+    "overrideProgramDescription": "The Bachelor of Science in Accounting degree (BSA) prepares you with the financial skills you need to help organizations run efficiently. Earn your online accounting degree and apply your love of numbers to a career as an accounting professional. ",
+    "programVersion": "",
+    "overrideProgramName": "Bachelor of Science in Accounting Degree"
+  },
+  {
+    "programCode": "BSLS",
+    "cbe": false,
+    "programURL": "/online-liberal-arts-degrees/liberal-arts-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSHM",
+    "cbe": false,
+    "programURL": "/online-healthcare-degrees/health-management-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCredits": "54-68",
+    "overrideProgramDuration": "36-45",
+    "programCode": "DM",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months ",
+    "programURL": "/online-business-degrees/management-doctoral-degree.html",
+    "overrideProgramDescription": "Don’t just think outside the box — remove it. Our Doctor of Management (DM) equips you with the critical thinking skills to find creative solutions to complex problems, so you can bring out the best of your leadership skills. Courses are just 8 weeks long, so they won’t get in the way of your busy life.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MIS",
+    "cbe": false,
+    "programURL": "/online-information-technology-degrees/information-systems-masters-degree.html",
+    "overrideProgramDescription": "Go beyond building computers and managing your queues with a Master of Information Systems, where you can run an entire information system. This program teaches you technical and leadership skills you need to develop and manage these systems.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "CERT/ASD",
+    "cbe": false,
+    "programURL": "/online-information-technology-certificates/advanced-software-developer.html",
+    "overrideProgramDescription": "Develop programming, software engineering, and IT architecture skills with an Advanced Software Developer Certificate in as little as 10 months. Learn to design and implement software solutions in relation to project scope and stakeholder needs. Study multiple programming languages and software architecture principles.",
+    "programVersion": "",
+    "overrideProgramName": "Advanced Software Developer Certificate"
+  },
+  {
+    "overrideProgramCredits": "54-68",
+    "overrideProgramDuration": "36-45",
+    "programCode": "DBA",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months ",
+    "programURL": "/online-business-degrees/business-administration-doctoral-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSCJA",
+    "cbe": false,
+    "programURL": "/online-criminal-justice-degrees/criminal-justice-administration-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramDuration": "14",
+    "programCode": "BSN",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-nursing-degrees/rn-to-bsn-nursing-bachelors-degree.html",
+    "overrideProgramDescription": "Prepare to enhance your nursing practice, faster. Courses in the RN to BSN program are 5 weeks long. Equip yourself with professional, post-licensure nursing skills while balancing the demands of work and life.\r\n\u003cp\u003e\u003cp\u003e\r\n*Those transferring an Associate Degree in Nursing (ADN) may complete their program in 14 months. At the time of official evaluation students will be awarded 87 total credits from their ADN and valid unrestricted/unencumbered RN license. RNs without an ADN transfer will be awarded 40 total credits and may complete their degree in 2.5 years.",
+    "programVersion": "",
+    "overrideProgramName": "Registered Nurse to Bachelor of Science in Nursing"
+  },
+  {
+    "programCode": "BSDS",
+    "cbe": false,
+    "programURL": "/online-information-technology-degrees/data-science-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSIT",
+    "cbe": false,
+    "programURL": "/online-information-technology-degrees/information-technology-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MSDS",
+    "cbe": false,
+    "programURL": "/online-information-technology-degrees/data-science-masters-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSCS",
+    "cbe": false,
+    "programURL": "/online-information-technology-degrees/computer-science-bachelors-degree.html",
+    "overrideProgramDescription": "The Bachelor of Science in Computer Science is an educational degree program that provides a foundation of knowledge in the field of IT. Our computer science degree equips you with the knowledge to apply information technology theory and principles to address real-world business challenges with advanced concepts in math, programming and computer architecture. You can also use elective courses to earn a certificate in cybersecurity, networking, cloud computing and much more.",
+    "programVersion": "",
+    "overrideProgramName": "Bachelor of Science in Computer Science"
+  },
+  {
+    "programCode": "BSCYB",
+    "cbe": false,
+    "programURL": "/online-information-technology-degrees/cybersecurity-bachelors-degree.html",
+    "overrideProgramDescription": "An organization’s most valuable asset is its data — making the people who protect it indispensable. With our Bachelor of Science in Cybersecurity degree, you’ll prepare to play a vital role in stopping cyber threats within any organization. And you’ll take just one 5-week course at a time, so you can balance work and life on the path to your degree.",
+    "programVersion": "",
+    "overrideProgramName": "Bachelor of Science in Cybersecurity​ Degree"
+  },
+  {
+    "programCode": "BSED/E",
+    "cbe": false,
+    "programURL": "/online-education-degrees/elementary-education-bachelors-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "AA/PF",
+    "cbe": false,
+    "programURL": "/alliance/professional-focus-associate-degree.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCost": "540",
+    "overrideProgramCredits": "52",
+    "overrideProgramDuration": "28",
+    "programCode": "MSN/PMH",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months",
+    "programURL": "/online-nursing-degrees/psychiatric-mental-health-nurse-practitioner-masters-degree.html",
+    "overrideProgramDescription": "Prepare for a role as an advanced practice registered nurse (APRN) specializing in neuropsychiatric care and treatment with a Master of Science in Nursing/Psychiatric Mental Health Nurse Practitioner degree. Learn skills such as neuropsychiatric disorder prevention, assessment, self-care management, psychotherapeutic intervention, pharmacological management, and addiction services. Gain the knowledge to treat psychiatric disorders in various healthcare settings and in diverse patient populations.\r\n\r\nGraduates are eligible to sit for the American Nurses Credentialing Center (ANCC) Psychiatric-Mental Health Nurse Practitioner (PMHNP) national board certification exam. ",
+    "programVersion": "001",
+    "overrideProgramName": "Master of Science in Nursing / Psychiatric Mental Health Nurse Practitioner"
+  },
+  {
+    "overrideProgramDuration": "26",
+    "programCode": "MSN/FNP",
+    "cbe": false,
+    "overrideProgramDurationFormat": "months ",
+    "programURL": "/online-nursing-degrees/family-nurse-practitioner-masters-degree.html",
+    "programVersion": ""
+  },
+  {
+    "overrideProgramCost": "540",
+    "programCode": "CERT/G-SEC",
+    "cbe": false,
+    "programURL": "/online-education-certificates/secondary-education-graduate-initial-certificate.html",
+    "overrideProgramDescription": "Bring your knowledge to the next generation. This 13 month program is a pathway to secondary teacher licensure, even if you don’t have teaching experience. It combines academic theory and coursework with a clinical component made up of student teaching and field experiences. Credits from this certificate can apply toward a Master of Arts in Secondary Education.",
+    "programVersion": "001",
+    "overrideProgramName": "Graduate Initial Teacher Certificate/Secondary Education"
+  },
+  {
+    "programCode": "BSCPSS",
+    "cbe": false,
+    "programURL": "/online-behavioral-sciences-degrees/correctional-program-support-services-bachelors-degree.html",
+    "overrideProgramDescription": "Get ready for a career at the intersection of community support, human services and criminal justice. Our customizable Bachelor of Science in Correctional Program Support Services equips you with skills to manage cases, facilitate programs and address the needs of people impacted by the criminal justice system. \r\n\u003cp\u003e\u003cp\u003e\r\nCourses in this transfer-friendly program are just 5 weeks long, so they can fit into your busy life. Plus, There’s no application fee, no SAT test requirements, and we’ll even request your prior college transcripts for you.",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MBA",
+    "cbe": false,
+    "programURL": "/online-business-degrees/master-business-administration-degree.html",
+    "overrideProgramDescription": "Time waits for no one — and neither does the competitive world of business. Complete your Master of Business Administration (MBA) at University of Phoenix in as little as 16 months and take the next step in your business career. You’ll hone skills that help make key decisions for an organization. And, since you’re only taking one course at a time, your online MBA won’t get in the way of your busy life.",
+    "programVersion": "",
+    "overrideProgramName": "Master of Business Administration"
+  },
+  {
+    "programCode": "MIS-CB",
+    "cbe": true,
+    "programURL": "/online-information-technology-degrees/information-systems-competency-based-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "MBA-CB",
+    "cbe": true,
+    "programURL": "/online-business-degrees/mba-competency-based-degree.html",
+    "programVersion": ""
+  },
+  {
+    "programCode": "BSFIN",
+    "cbe": false,
+    "programURL": "/online-business-degrees/finance-technology-bachelors-degree.html",
+    "programVersion": ""
+  }
+]

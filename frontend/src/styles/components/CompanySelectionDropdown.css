@@ -1,0 +1,248 @@
+/* CompanySelectionDropdown Component Styles */
+.company-dropdown {
+  min-width: 300px;
+  max-width: 400px;
+}
+
+.company-dropdown__form-control {
+  width: 100%;
+  position: relative;
+}
+
+.company-dropdown__label {
+  position: absolute;
+  top: -8px;
+  left: 12px;
+  background: white;
+  padding: 0 4px;
+  font-size: 0.875rem;
+  color: #757575;
+  transform: scale(0.75);
+  transform-origin: left;
+  pointer-events: none;
+  transition: all 0.2s ease-in-out;
+  z-index: 1;
+}
+
+.company-dropdown__select {
+  width: 100%;
+  min-height: 48px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 2px solid rgba(37, 99, 235, 0.2);
+  border-radius: 12px;
+  padding: 12px 16px;
+  font-size: 1rem;
+  color: #212121;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  outline: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
+  background-position: right 12px center;
+  background-repeat: no-repeat;
+  background-size: 16px;
+  padding-right: 40px;
+}
+
+.company-dropdown__select:hover {
+  border-color: rgba(37, 99, 235, 0.4);
+}
+
+.company-dropdown__select:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
+}
+
+.company-dropdown__select:disabled {
+  background-color: #f5f5f5;
+  color: #9ca3af;
+  cursor: not-allowed;
+}
+
+.company-dropdown__select-content {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.company-dropdown__option {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 16px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  width: 100%;
+}
+
+.company-dropdown__option:hover {
+  background-color: #f3f4f6;
+}
+
+.company-dropdown__option--selected {
+  background-color: rgba(37, 99, 235, 0.1);
+  color: #2563eb;
+}
+
+.company-dropdown__option-icon {
+  color: #2563eb;
+  width: 20px;
+  height: 20px;
+}
+
+.company-dropdown__option-text {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #212121;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+}
+
+.company-dropdown__loading {
+  margin-top: 16px;
+  text-align: center;
+}
+
+.company-dropdown__loading-spinner {
+  width: 24px;
+  height: 24px;
+  border: 2px solid #f3f3f3;
+  border-top: 2px solid #2563eb;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: 0 auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.company-dropdown__error {
+  margin-top: 16px;
+  background-color: #fef2f2;
+  border: 1px solid #fecaca;
+  border-radius: 8px;
+  padding: 12px;
+  color: #dc2626;
+  font-size: 0.875rem;
+}
+
+.company-dropdown__job-postings {
+  margin-top: 16px;
+  padding: 16px;
+  background-color: #f8fafc;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+}
+
+.company-dropdown__job-postings-title {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #212121;
+  margin: 0 0 8px 0;
+}
+
+.company-dropdown__job-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.company-dropdown__job-item {
+  padding: 8px 0;
+  border-bottom: 1px solid #e2e8f0;
+  font-size: 0.875rem;
+  color: #4b5563;
+}
+
+.company-dropdown__job-item:last-child {
+  border-bottom: none;
+}
+
+/* Full version styles */
+.company-dropdown--full {
+  min-width: auto;
+  max-width: none;
+}
+
+.company-dropdown__card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  margin-bottom: 24px;
+  border: 1px solid #e2e8f0;
+}
+
+.company-dropdown__card-content {
+  padding: 24px;
+}
+
+.company-dropdown__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.company-dropdown__title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #212121;
+  margin: 0;
+}
+
+.company-dropdown__loading-info {
+  margin-top: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.company-dropdown__loading-info-spinner {
+  width: 16px;
+  height: 16px;
+  border: 2px solid #f3f3f3;
+  border-top: 2px solid #2563eb;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+.company-dropdown__loading-info-text {
+  font-size: 0.875rem;
+  color: #6b7280;
+  margin: 0;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .company-dropdown {
+    min-width: 250px;
+    max-width: 300px;
+  }
+  
+  .company-dropdown__select {
+    min-height: 44px;
+    padding: 10px 14px;
+    font-size: 0.9rem;
+  }
+  
+  .company-dropdown__option {
+    padding: 10px 14px;
+    gap: 12px;
+  }
+  
+  .company-dropdown__option-text {
+    font-size: 0.9rem;
+  }
+  
+  .company-dropdown__card-content {
+    padding: 16px;
+  }
+  
+  .company-dropdown__title {
+    font-size: 1.125rem;
+  }
+}

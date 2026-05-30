@@ -1,0 +1,6310 @@
+{
+    "Forecasting": [
+        "ACC/290T",
+        "DSC/445",
+        "FIN/591",
+        "HCS/235T",
+        "HCSDA/235",
+        "MKT/593",
+        "PM/310"
+    ],
+    "Accounting": [
+        "ACC/290T",
+        "CJA/416",
+        "FIN/591",
+        "HCS/380",
+        "MHA/598",
+        "MHACB/598"
+    ],
+    "Budgeting": [
+        "ACC/290T",
+        "AJS/574",
+        "CJA/416",
+        "CMGT/583",
+        "CMGTCB/583",
+        "ECO/370",
+        "HCS/380",
+        "HCS/412",
+        "HCSDA/412",
+        "MPA/564"
+    ],
+    "Accounts Payable and Receivable": [
+        "ACC/291T",
+        "ACC/545"
+    ],
+    "Reconciliations and Adjustments": [
+        "ACC/291T"
+    ],
+    "Financial Management": [
+        "ACC/291T",
+        "ADMIN/536",
+        "AJS/574",
+        "BPA/382",
+        "FIN/585",
+        "HCS/498",
+        "HCS/499",
+        "HCSDA/498"
+    ],
+    "Accounting Software": [
+        "ACC/316T",
+        "ACC/542"
+    ],
+    "Business Processes": [
+        "ACC/316T",
+        "BSA/550",
+        "DBM/370"
+    ],
+    "QuickBooks": [
+        "ACC/316T"
+    ],
+    "Managerial Accounting": [
+        "ACC/326T"
+    ],
+    "Profit And Loss (P&L) Management": [
+        "ACC/326T",
+        "FIN/402"
+    ],
+    "Business Decision Making": [
+        "ACC/326T"
+    ],
+    "Cost Accounting": [
+        "ACC/349T"
+    ],
+    "Project Budgeting": [
+        "ACC/349T"
+    ],
+    "Performance Assessment": [
+        "ACC/349T"
+    ],
+    "Sarbanes-Oxley Act (SOX) Compliance": [
+        "ACC/421T"
+    ],
+    "Accruals": [
+        "ACC/421T"
+    ],
+    "Risk Analysis": [
+        "ACC/421T",
+        "CMGT/431",
+        "CYB/490"
+    ],
+    "Financial Accounting": [
+        "ACC/422T"
+    ],
+    "Corrective and Preventive Action (CAPA)": [
+        "ACC/422T",
+        "DHA/731",
+        "HCS/468",
+        "HCSDA/468"
+    ],
+    "Income Statement": [
+        "ACC/422T"
+    ],
+    "Financial Data": [
+        "ACC/423T",
+        "FIN/419"
+    ],
+    "Variance Analysis": [
+        "ACC/423T"
+    ],
+    "Cash Flow": [
+        "ACC/423T"
+    ],
+    "Business Entities": [
+        "ACC/455"
+    ],
+    "Tax Planning Strategies": [
+        "ACC/455"
+    ],
+    "Corporate Taxation": [
+        "ACC/455"
+    ],
+    "Financial Services": [
+        "ACC/456",
+        "FIN/420",
+        "FIN/590"
+    ],
+    "Accounting Systems": [
+        "ACC/456",
+        "ACC/542"
+    ],
+    "Individual Taxation": [
+        "ACC/456"
+    ],
+    "Internal Controls": [
+        "ACC/460",
+        "FIN/470"
+    ],
+    "Bookkeeping": [
+        "ACC/460",
+        "ACC/546"
+    ],
+    "Bank Reconciliations": [
+        "ACC/460"
+    ],
+    "Audit Planning": [
+        "ACC/491"
+    ],
+    "Liability Assessment": [
+        "ACC/491"
+    ],
+    "Internal Auditing": [
+        "ACC/491"
+    ],
+    "Financial Auditing": [
+        "ACC/492"
+    ],
+    "External Auditors": [
+        "ACC/492"
+    ],
+    "Audit Working Papers": [
+        "ACC/492"
+    ],
+    "Investment": [
+        "ACC/497"
+    ],
+    "Business Acumen": [
+        "ACC/497",
+        "LDR/300T"
+    ],
+    "Accounting Records": [
+        "ACC/497"
+    ],
+    "Financial Analysis": [
+        "ACC/541",
+        "FIN/370T",
+        "HCS/385",
+        "HCSDA/385",
+        "MHA/560",
+        "MHACB/560",
+        "MPA/554"
+    ],
+    "Time Value of Money": [
+        "ACC/541",
+        "FIN/370T"
+    ],
+    "General Ledger": [
+        "ACC/541"
+    ],
+    "Financial Technology": [
+        "ACC/542"
+    ],
+    "Capital Budgeting": [
+        "ACC/543",
+        "ACCCB/543",
+        "FIN/711"
+    ],
+    "Cost Benefit Analysis": [
+        "ACC/543",
+        "ACCCB/543"
+    ],
+    "Business Risk Management": [
+        "ACC/543",
+        "ACCCB/543"
+    ],
+    "Balance Sheet": [
+        "ACC/545"
+    ],
+    "Financial Reporting": [
+        "ACC/545"
+    ],
+    "External Auditor": [
+        "ACC/546"
+    ],
+    "Fixed Asset": [
+        "ACC/546"
+    ],
+    "Educational Leadership": [
+        "ADMIN/518",
+        "CUR/506",
+        "SPE/594"
+    ],
+    "Leadership Development": [
+        "ADMIN/518",
+        "CHL/620",
+        "DHA/733",
+        "PSYCH/642"
+    ],
+    "Collaboration": [
+        "ADMIN/518",
+        "AJS/534",
+        "APE/522",
+        "BIS/221T",
+        "BSCOM/310",
+        "CUR/550",
+        "EDU/301",
+        "EDU/301CA",
+        "ELM/532",
+        "ENG/340",
+        "MPH/680",
+        "OPS/445",
+        "PMH/503",
+        "PMH/503CA",
+        "PSYCH/644",
+        "PSYDA/644",
+        "SEC/532"
+    ],
+    "Curriculum Development": [
+        "ADMIN/524",
+        "APE/515",
+        "APSE/559",
+        "CUR/516",
+        "ELM/539",
+        "MPH/601",
+        "NSG/532"
+    ],
+    "Instructional Strategies": [
+        "ADMIN/524",
+        "APE/518",
+        "APS/508",
+        "APSE/578",
+        "CUR/515",
+        "ECH/211",
+        "EDU/311",
+        "EDU/311CA",
+        "ELM/533",
+        "SEC/533",
+        "SPE/578"
+    ],
+    "Academic Achievement": [
+        "ADMIN/524",
+        "APES/562",
+        "EED/438CA",
+        "SEI/301"
+    ],
+    "Student Diversity": [
+        "ADMIN/528"
+    ],
+    "Program Development": [
+        "ADMIN/528",
+        "AET/570",
+        "BSA/385",
+        "BSADA/385",
+        "ECH/211"
+    ],
+    "School Improvement Models": [
+        "ADMIN/528"
+    ],
+    "School Funding": [
+        "ADMIN/536"
+    ],
+    "Facility Management": [
+        "ADMIN/536"
+    ],
+    "Ethics": [
+        "ADMIN/555",
+        "HCP/517",
+        "HRM/PA534",
+        "SCI/362"
+    ],
+    "Federal Laws": [
+        "ADMIN/555"
+    ],
+    "Education Policy": [
+        "ADMIN/555",
+        "HEA/712"
+    ],
+    "Hiring Process": [
+        "ADMIN/560",
+        "ECH/496",
+        "EED/499",
+        "SPE/595"
+    ],
+    "Employee Performance Management": [
+        "ADMIN/560",
+        "MGT/434"
+    ],
+    "Human Resource Management": [
+        "ADMIN/560",
+        "MGT/566",
+        "ORG/535",
+        "ORGCB/535"
+    ],
+    "Organizational Leadership": [
+        "ADMIN/565",
+        "AET/560",
+        "AJS/534",
+        "IOP/460",
+        "PSYCH/668"
+    ],
+    "Student Achievement": [
+        "ADMIN/565"
+    ],
+    "Strategic Planning": [
+        "ADMIN/565",
+        "AJS/565",
+        "BPA/451",
+        "BSA/425",
+        "BSADA/425",
+        "BSCOM/480",
+        "BUS/475",
+        "DHA/715",
+        "DNP/715",
+        "HCP/516",
+        "HCS/498",
+        "HCS/499",
+        "HCSDA/498",
+        "IST/710",
+        "MGT/726",
+        "MKT/446",
+        "MPA/583",
+        "NSG/542",
+        "NSG/567",
+        "PM/310",
+        "PM/583",
+        "PSY/435",
+        "PSYCH/629",
+        "STR/581",
+        "STRCB/581"
+    ],
+    "Equity": [
+        "ADMIN/570"
+    ],
+    "Educational Diversity": [
+        "ADMIN/570"
+    ],
+    "Advocacy": [
+        "ADMIN/570",
+        "DNP/725",
+        "EED/425",
+        "HCS/245T",
+        "MHA/516",
+        "MHACB/516",
+        "PSY/450",
+        "PSYCH/620",
+        "PSYDA/620"
+    ],
+    "Family & Community Engagement": [
+        "ADMIN/575"
+    ],
+    "Public Relations": [
+        "ADMIN/575",
+        "AJS/583",
+        "BSCOM/380T",
+        "COM/PA523"
+    ],
+    "Partnerships": [
+        "ADMIN/575",
+        "BPA/371",
+        "MPH/560"
+    ],
+    "Instructional Leadership": [
+        "ADMIN/591A"
+    ],
+    "Organizational Management": [
+        "ADMIN/591B",
+        "LSM/412"
+    ],
+    "Educational Administration": [
+        "ADMIN/591C"
+    ],
+    "Andragogy": [
+        "AET/500"
+    ],
+    "Technology Research": [
+        "AET/500",
+        "EDT/711"
+    ],
+    "Learning Design": [
+        "AET/500",
+        "CUR/520"
+    ],
+    "Training Analysis": [
+        "AET/508"
+    ],
+    "Social Work": [
+        "AET/508"
+    ],
+    "Capability Development": [
+        "AET/508"
+    ],
+    "Influencing Skills": [
+        "AET/552",
+        "ARTS/100",
+        "ARTSDA/100",
+        "BPA/422",
+        "CMGT/545",
+        "CMGTCB/545",
+        "COM/539",
+        "COMM/110",
+        "COMMDA/110",
+        "CUR/525",
+        "ENG/280",
+        "ETH/120",
+        "ETHDA/120",
+        "HCS/455",
+        "HIS/301",
+        "HISDA/301",
+        "HUM/186",
+        "HUMDA/186",
+        "POL/215",
+        "POLDA/215",
+        "PSYCH/658",
+        "SOC/262",
+        "SOCDA/262"
+    ],
+    "Learning and Development Strategy": [
+        "AET/552"
+    ],
+    "Marketing": [
+        "AET/552",
+        "HCS/472",
+        "HCSDA/472"
+    ],
+    "Organizational Development": [
+        "AET/560",
+        "ORG/727",
+        "PSYCH/668"
+    ],
+    "Performance Management": [
+        "AET/560",
+        "BPA/321",
+        "BUS/721",
+        "ENT/527",
+        "HCS/341",
+        "HCSDA/341",
+        "HRM/324T",
+        "HRM/PA534",
+        "IOP/480",
+        "MGT/465",
+        "ORG/535",
+        "ORGCB/535",
+        "PSYCH/647",
+        "SOC/110",
+        "SOCDA/110"
+    ],
+    "Blended Learning": [
+        "AET/562"
+    ],
+    "Behavioral Health": [
+        "AET/562"
+    ],
+    "Content Creation": [
+        "AET/562",
+        "WRIT/480"
+    ],
+    "ADDIE Instructional Design Model": [
+        "AET/570"
+    ],
+    "Content Development": [
+        "AET/570",
+        "BSCOM/250",
+        "MTH/110"
+    ],
+    "Communications": [
+        "AJS/503",
+        "APMT/430",
+        "BPA/200",
+        "COM/520",
+        "CPSS/332",
+        "HCP/517",
+        "HCS/321",
+        "HCSDA/321",
+        "NTC/361",
+        "SWRK/401",
+        "WRIT/330"
+    ],
+    "Public Safety": [
+        "AJS/505",
+        "CJS/241"
+    ],
+    "Public Administration": [
+        "AJS/505",
+        "CPSS/240",
+        "MPA/503"
+    ],
+    "Sociology": [
+        "AJS/505",
+        "CPSS/210"
+    ],
+    "Criminology": [
+        "AJS/515",
+        "CJA/346"
+    ],
+    "Crime Prevention": [
+        "AJS/515",
+        "CJS/241"
+    ],
+    "Risk Mitigation": [
+        "AJS/515",
+        "BPA/445",
+        "CYB/110",
+        "CYBDA/110",
+        "PM/587"
+    ],
+    "Cybercrime": [
+        "AJS/525"
+    ],
+    "Investigation": [
+        "AJS/525",
+        "CHM/150",
+        "CJA/336",
+        "CYB/492",
+        "HCR/201",
+        "SCI/163",
+        "SCI/163T",
+        "SCIDA/163",
+        "SWRK/399"
+    ],
+    "Systems Analysis": [
+        "AJS/525"
+    ],
+    "Operational Strategy": [
+        "AJS/534"
+    ],
+    "Professionalism": [
+        "AJS/544",
+        "APMT/430",
+        "CJA/456",
+        "HCS/305",
+        "HCS/321",
+        "HCSDA/321",
+        "MPH/600",
+        "PSYCH/660",
+        "PSYDA/660",
+        "SWRK/200"
+    ],
+    "Ethical Decision Making": [
+        "AJS/544",
+        "SWRK/220"
+    ],
+    "Diversity and Equity": [
+        "AJS/544"
+    ],
+    "Risk Assessment": [
+        "AJS/555",
+        "ENV/420",
+        "HCS/325",
+        "HCSDA/325",
+        "PM/570"
+    ],
+    "Risk Management": [
+        "AJS/555",
+        "CJA/476",
+        "CMGT/442",
+        "CMGT/582",
+        "CMGTCB/582",
+        "CYB/100",
+        "CYB/235",
+        "CYB/560",
+        "CYBDA/100",
+        "DSC/445",
+        "ETH/321T",
+        "FIN/440",
+        "HCS/451",
+        "HCSDA/451",
+        "MHA/508",
+        "MHACB/508",
+        "PM/587"
+    ],
+    "Incident Management": [
+        "AJS/555"
+    ],
+    "Strategic Partnerships": [
+        "AJS/565"
+    ],
+    "Planning Approaches": [
+        "AJS/565"
+    ],
+    "Financial Strategies": [
+        "AJS/574"
+    ],
+    "Social Science": [
+        "AJS/583"
+    ],
+    "Services Evaluation": [
+        "AJS/583"
+    ],
+    "Forensic Science": [
+        "AJS/587"
+    ],
+    "Forensic Data Analysis": [
+        "AJS/587"
+    ],
+    "Research Methodologies": [
+        "AJS/587",
+        "MFCC/525"
+    ],
+    "Public Policy": [
+        "AJS/590",
+        "CJA/316"
+    ],
+    "Social Justice": [
+        "AJS/590",
+        "SWRK/346"
+    ],
+    "Conflict Management": [
+        "AJS/590",
+        "BSCOM/450",
+        "MHA/542",
+        "MHACB/542",
+        "NSG/547"
+    ],
+    "Operational Goals": [
+        "AJS/594"
+    ],
+    "Program Evaluation": [
+        "AJS/594",
+        "BPA/390",
+        "CCMH/525",
+        "CHL/610",
+        "CJA/486",
+        "CJS/255",
+        "CPSS/400",
+        "CUR/732",
+        "EDD/733",
+        "MFCC/525",
+        "MPA/573",
+        "NSG/533"
+    ],
+    "Program Assessment": [
+        "AJS/594"
+    ],
+    "Planning": [
+        "APE/515",
+        "BPA/441",
+        "CHL/630",
+        "CUR/530",
+        "ECH/301",
+        "ENV/100T",
+        "ENVDA/100",
+        "HCIS/420",
+        "HCP/517",
+        "HCS/412",
+        "HCS/504",
+        "HCS/529",
+        "HCSDA/412",
+        "NSG/557",
+        "ORG/726",
+        "SPE/513",
+        "TPA/100"
+    ],
+    "Growth Mindedness": [
+        "APE/515",
+        "ELM/538",
+        "SPE/595"
+    ],
+    "Curriculum Planning": [
+        "APE/518",
+        "APS/559",
+        "CUR/506",
+        "CUR/721",
+        "ECH/211",
+        "EED/420",
+        "ELM/536",
+        "SEC/537"
+    ],
+    "Lesson Planning": [
+        "APE/518",
+        "APS/508",
+        "APSE/578",
+        "CUR/515",
+        "EDU/311",
+        "EDU/311CA",
+        "ELM/533",
+        "SEC/533",
+        "SPE/578"
+    ],
+    "Classroom Management": [
+        "APE/522",
+        "APS/523",
+        "EDU/321",
+        "EDU/321CA",
+        "ELM/532",
+        "SEC/532"
+    ],
+    "Enthusiasm": [
+        "APE/522"
+    ],
+    "Literacy": [
+        "APE/536",
+        "APS/542",
+        "MPH/520",
+        "RDG/351"
+    ],
+    "Progress Reporting": [
+        "APE/536",
+        "APS/559",
+        "CPSS/385",
+        "SEC/537",
+        "SPE/574"
+    ],
+    "Learning Strategies": [
+        "APE/536"
+    ],
+    "Reading Instruction": [
+        "APE/537",
+        "ELL/300",
+        "RDG/570"
+    ],
+    "Decision Making": [
+        "APE/537",
+        "APMT/315",
+        "BPA/385",
+        "BSCOM/420",
+        "CJA/426",
+        "CMGT/558",
+        "CMGTCB/558",
+        "COMM/110",
+        "COMMDA/110",
+        "CPSS/240",
+        "CUR/506",
+        "CYB/492",
+        "ECH/496",
+        "ECH/499",
+        "ENT/588",
+        "ENV/100T",
+        "ENVDA/100",
+        "ETH/316",
+        "ETHDA/316",
+        "FP/100",
+        "FP/100T",
+        "FPCB/100",
+        "FPDA/100",
+        "GEN/201",
+        "GEN/201A",
+        "GENCB/201",
+        "GENDA/201",
+        "HCP/516",
+        "HCS/335",
+        "HCSDA/335",
+        "IOP/455",
+        "LIT/410",
+        "MGT/498",
+        "MPA/543",
+        "MTH/213",
+        "MTH/215",
+        "MTH/215T",
+        "MTH/216",
+        "MTH/216T",
+        "MTH/219T",
+        "MTH/220T",
+        "MTH/221",
+        "MTHDA/213",
+        "MTHDA/215",
+        "MTHDA/216",
+        "MTHDA/219",
+        "MTHDA/220",
+        "MTHDA/221",
+        "NRP/571",
+        "NSG/508",
+        "PSY/250",
+        "PSYCH/639",
+        "PSYCH/660",
+        "PSYDA/250",
+        "PSYDA/660",
+        "QNT/375T",
+        "SEC/538"
+    ],
+    "Instruction Delivery": [
+        "APE/537",
+        "CUR/532"
+    ],
+    "Special Education": [
+        "APES/515",
+        "ECH/302",
+        "SPE/300",
+        "SPE/300CA"
+    ],
+    "Disabilities": [
+        "APES/515",
+        "APSE/559",
+        "SPE/556"
+    ],
+    "Individualized Education Programs (IEP)": [
+        "APES/515",
+        "ECH/302",
+        "MTE/512",
+        "SPE/512"
+    ],
+    "Pedagogy": [
+        "APES/545",
+        "CUR/535",
+        "ECH/400",
+        "EED/438CA",
+        "EED/496",
+        "ELM/545",
+        "SEC/545",
+        "SEC/586",
+        "SPE/577",
+        "SPE/596"
+    ],
+    "Critical Thinking": [
+        "APES/545",
+        "APMT/440",
+        "COM/516",
+        "CPSS/215",
+        "DHA/733",
+        "DOC/714S",
+        "EED/436CA",
+        "ELM/545",
+        "GLG/220",
+        "HIS/514",
+        "IOP/455",
+        "LIT/375",
+        "MPH/602",
+        "NSG/521",
+        "PRG/421",
+        "PSYCH/639",
+        "PSYCH/650",
+        "PSYDA/650",
+        "SEC/545",
+        "SPE/577"
+    ],
+    "Teacher Education": [
+        "APES/545",
+        "EDU/315",
+        "ELM/545",
+        "SEC/545",
+        "SPE/577"
+    ],
+    "Formative and Summative Assessments": [
+        "APES/562",
+        "ECH/400",
+        "ELL/300",
+        "MTE/513"
+    ],
+    "Data-Driven Decision-Making": [
+        "APES/562"
+    ],
+    "Technology": [
+        "APMT/315",
+        "ECH/496",
+        "ECH/497",
+        "EED/496",
+        "EED/498",
+        "SPE/594",
+        "SPE/596"
+    ],
+    "Community": [
+        "APMT/315"
+    ],
+    "Social Media": [
+        "APMT/430",
+        "BSCOM/370T"
+    ],
+    "Computer Literacy": [
+        "APMT/440",
+        "APS/542",
+        "CUR/545",
+        "ECH/499",
+        "MTH/216",
+        "MTH/216T",
+        "MTHDA/216",
+        "NSG/543"
+    ],
+    "Analytical Skills": [
+        "APMT/440",
+        "BPA/381",
+        "CUR/530",
+        "HCIS/410"
+    ],
+    "Verbal Communication Skills": [
+        "APMT/460",
+        "ENG/380"
+    ],
+    "Interpersonal Communications": [
+        "APMT/460",
+        "COM/295T",
+        "CPSS/395",
+        "ETH/120",
+        "ETHDA/120",
+        "HCS/321",
+        "HCSDA/321",
+        "HIS/301",
+        "HISDA/301",
+        "IOP/470",
+        "LIT/305",
+        "REL/133",
+        "RELDA/133",
+        "SOC/262",
+        "SOC/315",
+        "SOCDA/262",
+        "SOCDA/315",
+        "SWRK/301"
+    ],
+    "Written Communication": [
+        "APMT/460",
+        "BSCOM/230",
+        "ENG/110",
+        "ENG/135",
+        "ENG/210",
+        "ENGCB/110",
+        "ENGCB/210",
+        "ENGDA/110",
+        "ENGDA/135",
+        "ENGDA/210",
+        "PSYCH/599",
+        "PSYDA/599",
+        "SEC/535",
+        "SWRK/301",
+        "WRIT/330"
+    ],
+    "Digital Marketing": [
+        "APMT/470",
+        "MKT/711"
+    ],
+    "Innovation": [
+        "APMT/470",
+        "ARTS/230",
+        "BIO/101",
+        "BIO/351",
+        "BSCOM/370T",
+        "CMGT/558",
+        "CMGTCB/558",
+        "CSS/450",
+        "DHA/732",
+        "ENT/527",
+        "ETH/316",
+        "ETHDA/316",
+        "HCS/490",
+        "HCS/493",
+        "HCSDA/493",
+        "LDR/300T",
+        "LIT/410",
+        "MHA/599",
+        "MHACB/599",
+        "MPA/TM544",
+        "MPH/560",
+        "PSY/110",
+        "PSYCB/110",
+        "PSYDA/110"
+    ],
+    "Information Access": [
+        "APMT/470"
+    ],
+    "Secondary Education": [
+        "APS/508"
+    ],
+    "Behavior Management": [
+        "APS/523",
+        "PSY/420",
+        "SPE/544"
+    ],
+    "Student Engagement": [
+        "APS/523",
+        "ECH/321",
+        "EDD/583",
+        "EDD/584",
+        "EED/416",
+        "EED/438CA",
+        "ELM/586",
+        "NSG/534",
+        "SEC/587"
+    ],
+    "Student-Centered Learning": [
+        "APS/542"
+    ],
+    "Research": [
+        "APS/559",
+        "ARTS/100",
+        "ARTSDA/100",
+        "BPA/385",
+        "BSA/425",
+        "BSADA/425",
+        "CHM/151",
+        "CUR/505",
+        "CYB/227",
+        "DHA/731",
+        "ECH/321",
+        "HCIS/420",
+        "HCR/202",
+        "HCS/465",
+        "HCS/493",
+        "HCSDA/465",
+        "HCSDA/493",
+        "NSG/456",
+        "NSGCB/456",
+        "POL/215",
+        "POLDA/215",
+        "PSYCH/664",
+        "PSYDA/664",
+        "QNT/375T",
+        "SCI/163",
+        "SCI/163T",
+        "SCI/220",
+        "SCI/220T",
+        "SCIDA/163",
+        "SCIDA/220",
+        "SEC/537",
+        "SOC/262",
+        "SOCDA/262",
+        "WRIT/330"
+    ],
+    "Professional Practices": [
+        "APSE/559"
+    ],
+    "Language Arts": [
+        "APSE/570",
+        "RDG/570"
+    ],
+    "Differentiated Instruction": [
+        "APSE/570",
+        "ECH/302",
+        "SEC/536",
+        "SPE/300",
+        "SPE/300CA"
+    ],
+    "Writing": [
+        "APSE/570",
+        "CJA/316",
+        "COM/520"
+    ],
+    "Common Core Standards": [
+        "APSE/575",
+        "MTH/575"
+    ],
+    "Learning Styles": [
+        "APSE/575",
+        "MTH/575",
+        "SEC/540"
+    ],
+    "Basic Math": [
+        "APSE/575",
+        "ECH/416"
+    ],
+    "Applied Behavior Analysis": [
+        "APSE/576",
+        "SPE/576"
+    ],
+    "Autism Spectrum Disorders": [
+        "APSE/576",
+        "SPE/576"
+    ],
+    "Communication": [
+        "APSE/576",
+        "DSC/330",
+        "ENV/100T",
+        "ENVDA/100",
+        "HCS/120T",
+        "HCSDA/120",
+        "NSG/547",
+        "SPE/596"
+    ],
+    "Philosophy of Education": [
+        "APSE/578",
+        "ECH/301",
+        "EDU/301",
+        "MTE/516",
+        "SPE/578"
+    ],
+    "Learning Disabilities": [
+        "APSE/584",
+        "SPE/584"
+    ],
+    "Student Centered Learning": [
+        "APSE/584",
+        "SPE/584"
+    ],
+    "Data Collection": [
+        "APSE/584",
+        "CHM/151",
+        "DBM/381",
+        "MPH/550",
+        "PSYCH/694",
+        "PSYDA/694",
+        "RES/720",
+        "SPE/584",
+        "SWRK/405",
+        "SWRK/425"
+    ],
+    "Provide Information About Process or Practice": [
+        "ARTS/100",
+        "ARTSDA/100",
+        "HIS/305",
+        "HUM/186",
+        "HUMDA/186",
+        "PSY/250",
+        "PSYDA/250",
+        "REL/133",
+        "RELDA/133",
+        "SOC/100",
+        "SOCDA/100"
+    ],
+    "Observation": [
+        "ARTS/230",
+        "CHM/110"
+    ],
+    "Interdisciplinary Communication": [
+        "ARTS/230"
+    ],
+    "Music Appreciation": [
+        "ARTS/340"
+    ],
+    "Music History": [
+        "ARTS/340"
+    ],
+    "Classical Music": [
+        "ARTS/340"
+    ],
+    "Problem Solving": [
+        "BIO/101",
+        "BIO/350",
+        "BIO/351",
+        "BSA/376",
+        "CJS/245",
+        "CMGT/559",
+        "CMGTCB/559",
+        "CPSS/210",
+        "CYB/130T",
+        "CYB/229",
+        "CYBDA/130",
+        "DNP/750",
+        "DSC/495",
+        "DSC/510",
+        "EDU/215",
+        "EED/436CA",
+        "ENT/588",
+        "FP/100",
+        "FP/100T",
+        "FPCB/100",
+        "FPDA/100",
+        "GEN/201",
+        "GEN/201A",
+        "GENCB/201",
+        "GENDA/201",
+        "HCR/203",
+        "HCS/385",
+        "HCSDA/385",
+        "HINF/520",
+        "IST/710",
+        "LDR/711A",
+        "MGT/316T",
+        "MPH/570",
+        "MTH/213",
+        "MTH/214",
+        "MTH/215",
+        "MTH/215T",
+        "MTH/216",
+        "MTH/216T",
+        "MTH/219T",
+        "MTH/220T",
+        "MTH/221",
+        "MTH/280",
+        "MTHDA/213",
+        "MTHDA/214",
+        "MTHDA/215",
+        "MTHDA/216",
+        "MTHDA/219",
+        "MTHDA/220",
+        "MTHDA/221",
+        "NSG/302",
+        "NSG/498",
+        "NSG/506",
+        "NSGCB/302",
+        "NSGCB/498",
+        "PSY/110",
+        "PSY/405",
+        "PSYCB/110",
+        "PSYCH/655",
+        "PSYDA/110",
+        "PSYDA/655",
+        "SCI/163",
+        "SCI/163T",
+        "SCI/220",
+        "SCI/220T",
+        "SCIDA/163",
+        "SCIDA/220",
+        "SEC/540",
+        "SWRK/220"
+    ],
+    "Biology": [
+        "BIO/101",
+        "PSYCH/634",
+        "PSYDA/634"
+    ],
+    "Historical Evaluation": [
+        "BIO/280",
+        "LIT/305"
+    ],
+    "Value Determination": [
+        "BIO/280"
+    ],
+    "Interdisciplinary Analysis": [
+        "BIO/280"
+    ],
+    "Body Systems": [
+        "BIO/290"
+    ],
+    "Skeletal System": [
+        "BIO/290"
+    ],
+    "Muscular System": [
+        "BIO/290"
+    ],
+    "Nervous System": [
+        "BIO/290"
+    ],
+    "Cardiovascular System": [
+        "BIO/291"
+    ],
+    "Respiratory System": [
+        "BIO/291"
+    ],
+    "Digestive System": [
+        "BIO/291"
+    ],
+    "Anatomy and Physiology": [
+        "BIO/291",
+        "HCS/216"
+    ],
+    "Inductive Reasoning": [
+        "BIO/315"
+    ],
+    "Population Analysis": [
+        "BIO/315"
+    ],
+    "Application of Scientific Theory": [
+        "BIO/315"
+    ],
+    "Taxonomy<br>": [
+        "BIO/330"
+    ],
+    "Morphology<br>": [
+        "BIO/330"
+    ],
+    "Invertebrate Zoology<br>": [
+        "BIO/330"
+    ],
+    "Classification": [
+        "BIO/335",
+        "BIO/340"
+    ],
+    "Entomology": [
+        "BIO/335"
+    ],
+    "Interpretation": [
+        "BIO/335"
+    ],
+    "Evaluation": [
+        "BIO/340",
+        "SPE/544"
+    ],
+    "Microbiology": [
+        "BIO/340"
+    ],
+    "Training and Development": [
+        "BIO/350",
+        "CUR/505",
+        "ECH/498",
+        "MGT/312T",
+        "MPH/602",
+        "ORG/535",
+        "ORGCB/535",
+        "SCI/256",
+        "SCIDA/256"
+    ],
+    "Investigative Research": [
+        "BIO/350"
+    ],
+    "Scientific Research": [
+        "BIO/350"
+    ],
+    "Botanical Research": [
+        "BIO/351"
+    ],
+    "Zoological Research": [
+        "BIO/351"
+    ],
+    "Cell Biology": [
+        "BIO/405"
+    ],
+    "Anatomy": [
+        "BIO/405"
+    ],
+    "Human Biology": [
+        "BIO/405"
+    ],
+    "Scientific Explanation": [
+        "BIO/410"
+    ],
+    "Scientific Descriptions": [
+        "BIO/410"
+    ],
+    "Technological Analysis": [
+        "BIO/410"
+    ],
+    "Information Technology": [
+        "BIS/221T",
+        "CSS/200",
+        "DNP/715",
+        "HINF/500",
+        "NSG/507"
+    ],
+    "Microsoft Office": [
+        "BIS/221T"
+    ],
+    "Pivot Tables": [
+        "BIS/340"
+    ],
+    "Automation": [
+        "BIS/340",
+        "CSS/440",
+        "DSC/520"
+    ],
+    "Spreadsheets": [
+        "BIS/340"
+    ],
+    "Interpersonal Communication": [
+        "BPA/200",
+        "BSCOM/100T",
+        "ENG/210",
+        "ENGCB/210",
+        "ENGDA/210",
+        "HCS/131T",
+        "HCSDA/131",
+        "HST/276",
+        "HUM/186",
+        "HUMDA/186",
+        "PSY/250",
+        "PSYCH/694",
+        "PSYDA/250",
+        "PSYDA/694"
+    ],
+    "Multicultural Communications": [
+        "BPA/200"
+    ],
+    "History of Public Administration": [
+        "BPA/201"
+    ],
+    "Problem Sensitivity": [
+        "BPA/201"
+    ],
+    "Public Administration Theories": [
+        "BPA/201"
+    ],
+    "Detail Oriented": [
+        "BPA/304",
+        "HCR/203",
+        "HCS/483",
+        "HCS/487",
+        "HCSDA/487",
+        "MTH/213",
+        "MTH/215",
+        "MTH/215T",
+        "MTH/219T",
+        "MTH/220T",
+        "MTH/280",
+        "MTH/360",
+        "MTHDA/213",
+        "MTHDA/215",
+        "MTHDA/219",
+        "MTHDA/220"
+    ],
+    "Coordinating Policies": [
+        "BPA/304"
+    ],
+    "Complex Problem Solving": [
+        "BPA/304"
+    ],
+    "Operations Management": [
+        "BPA/321",
+        "CJA/446",
+        "MGT/316T",
+        "MPA/593"
+    ],
+    "Recruitment": [
+        "BPA/321"
+    ],
+    "Budgetary Processes": [
+        "BPA/332"
+    ],
+    "Finance": [
+        "BPA/332",
+        "FIN/585"
+    ],
+    "Public Sector Budgeting": [
+        "BPA/332"
+    ],
+    "Relationship Management": [
+        "BPA/371"
+    ],
+    "Operational Excellence": [
+        "BPA/371",
+        "LDR/306T"
+    ],
+    "Ethical Awareness": [
+        "BPA/381"
+    ],
+    "Legal Responsibilities": [
+        "BPA/381"
+    ],
+    "Financial Acumen": [
+        "BPA/382"
+    ],
+    "Public Sector Finance": [
+        "BPA/382"
+    ],
+    "Literature Review": [
+        "BPA/385",
+        "PSY/335"
+    ],
+    "Program Management": [
+        "BPA/390",
+        "CMGT/545",
+        "CMGTCB/545",
+        "CPSS/395",
+        "CUR/555",
+        "MPH/680"
+    ],
+    "Business Planning": [
+        "BPA/390"
+    ],
+    "Leadership": [
+        "BPA/422",
+        "CJA/486",
+        "CMGT/545",
+        "CMGTCB/545",
+        "CUR/550",
+        "DSC/495",
+        "ETH/120",
+        "ETHDA/120",
+        "HIS/301",
+        "HISDA/301",
+        "IOP/470",
+        "LDR/300T",
+        "POL/215",
+        "POLDA/215"
+    ],
+    "Negotiation": [
+        "BPA/422",
+        "MGT/445"
+    ],
+    "Urban Planning": [
+        "BPA/441"
+    ],
+    "Urban Sustainability": [
+        "BPA/441"
+    ],
+    "Conflict Resolution": [
+        "BPA/445",
+        "CJA/346",
+        "CPSS/316",
+        "IOP/455",
+        "LAW/PA513",
+        "PSYCH/639",
+        "SOC/110",
+        "SOCDA/110"
+    ],
+    "Cultural Awareness": [
+        "BPA/445",
+        "HST/276",
+        "HUM/300",
+        "REL/133",
+        "RELDA/133"
+    ],
+    "Capital Improvement Planning": [
+        "BPA/451"
+    ],
+    "Process Improvement": [
+        "BPA/451",
+        "DHA/722",
+        "PM/400",
+        "PM/585"
+    ],
+    "Data Analysis Types": [
+        "BSA/250"
+    ],
+    "Information Systems": [
+        "BSA/250",
+        "CMGT/442",
+        "CMGT/582",
+        "CMGTCB/582",
+        "CUR/532",
+        "CYB/225",
+        "HCIS/140T",
+        "HCISDA/140",
+        "POS/355"
+    ],
+    "Data Insights": [
+        "BSA/250"
+    ],
+    "Systems Development Lifecycle": [
+        "BSA/375",
+        "BSADA/375"
+    ],
+    "Business Information Systems": [
+        "BSA/375",
+        "BSADA/375"
+    ],
+    "Integration": [
+        "BSA/375",
+        "BSADA/375",
+        "CMGT/578",
+        "CMGTCB/578",
+        "HCS/483"
+    ],
+    "Performance Improvement": [
+        "BSA/376",
+        "BSCOM/340T",
+        "DHA/715",
+        "DNP/730",
+        "HCS/451",
+        "HCSDA/451",
+        "MGT/498",
+        "MGT/571",
+        "MHA/505",
+        "MHACB/505",
+        "NSG/542",
+        "PSYCH/647"
+    ],
+    "Supervision": [
+        "BSA/376"
+    ],
+    "Software Development": [
+        "BSA/385",
+        "BSADA/385"
+    ],
+    "Software Testing": [
+        "BSA/385",
+        "BSADA/385"
+    ],
+    "Systems Design": [
+        "BSA/425",
+        "BSADA/425",
+        "PRG/430"
+    ],
+    "Scalability": [
+        "BSA/531",
+        "BSACB/531",
+        "DSC/540",
+        "PRG/330"
+    ],
+    "Infrastructure": [
+        "BSA/531",
+        "BSACB/531",
+        "CYB/100",
+        "CYB/235",
+        "CYB/510",
+        "CYBDA/100"
+    ],
+    "Amazon Web Services": [
+        "BSA/531",
+        "BSACB/531"
+    ],
+    "Customer Relationship Management": [
+        "BSA/550",
+        "CMGT/556",
+        "CMGTCB/556",
+        "COM/539",
+        "MKT/353"
+    ],
+    "Customer Data Platforms": [
+        "BSA/550"
+    ],
+    "Presentations": [
+        "BSCOM/100T",
+        "COM/295T",
+        "CSS/450",
+        "MPH/690",
+        "PRG/315",
+        "SCI/256",
+        "SCIDA/256"
+    ],
+    "Public Speaking": [
+        "BSCOM/100T"
+    ],
+    "Grammar": [
+        "BSCOM/210T",
+        "ENG/230"
+    ],
+    "Persuasive Communication": [
+        "BSCOM/210T",
+        "ENG/280"
+    ],
+    "Organizational Skills": [
+        "BSCOM/210T",
+        "DBM/381",
+        "ECH/498",
+        "HCR/202",
+        "HCS/341",
+        "HCSDA/341",
+        "LIT/305"
+    ],
+    "Creativity": [
+        "BSCOM/230",
+        "ECH/420",
+        "ENG/340"
+    ],
+    "Storytelling": [
+        "BSCOM/230",
+        "DSC/330",
+        "DSC/560"
+    ],
+    "Communication Technology": [
+        "BSCOM/250"
+    ],
+    "Search Engine Optimization": [
+        "BSCOM/250",
+        "MKT/446"
+    ],
+    "Communication Strategies": [
+        "BSCOM/310",
+        "COM/PA523"
+    ],
+    "Interpersonal Relations": [
+        "BSCOM/310"
+    ],
+    "Marketing Communication": [
+        "BSCOM/320T"
+    ],
+    "Content Management": [
+        "BSCOM/320T",
+        "LIT/245",
+        "LIT/265"
+    ],
+    "Media Relations": [
+        "BSCOM/320T",
+        "MKT/438"
+    ],
+    "Internal Communications": [
+        "BSCOM/340T"
+    ],
+    "Change Management": [
+        "BSCOM/340T",
+        "CJA/356",
+        "CMGT/575",
+        "CMGTCB/575",
+        "DSC/590",
+        "EDD/712",
+        "HCS/370",
+        "HCSDA/370",
+        "LDR/320T",
+        "LDR/535",
+        "LDRCB/535",
+        "MGT/362T",
+        "MHA/515",
+        "MHACB/515",
+        "NRP/508",
+        "NSG/451",
+        "NSGCB/451",
+        "ORG/727",
+        "PSY/435",
+        "PSYCH/629"
+    ],
+    "Investigative Journalism": [
+        "BSCOM/350"
+    ],
+    "Impactful & Influential Writing": [
+        "BSCOM/350"
+    ],
+    "Legal and Ethical Practices": [
+        "BSCOM/350"
+    ],
+    "Graphic Design": [
+        "BSCOM/370T"
+    ],
+    "Press Releases": [
+        "BSCOM/380T"
+    ],
+    "Corporate Communications": [
+        "BSCOM/380T"
+    ],
+    "Messaging Strategy": [
+        "BSCOM/400"
+    ],
+    "Copywriting": [
+        "BSCOM/400"
+    ],
+    "Digital Communications": [
+        "BSCOM/400"
+    ],
+    "Intercultural Communication": [
+        "BSCOM/420",
+        "HST/276"
+    ],
+    "Strategic Communication": [
+        "BSCOM/420",
+        "MPA/573"
+    ],
+    "Consulting & Advocacy": [
+        "BSCOM/450"
+    ],
+    "Customer Service": [
+        "BSCOM/450",
+        "HCS/131T",
+        "HCSDA/131",
+        "MGT/418"
+    ],
+    "Communication Planning": [
+        "BSCOM/480"
+    ],
+    "Management": [
+        "BSCOM/480",
+        "CJA/486",
+        "CJS/241",
+        "CMGT/430",
+        "CPSS/300",
+        "ECH/321",
+        "HCIS/352",
+        "HINF/500",
+        "MHA/505",
+        "MHACB/505",
+        "MPA/503",
+        "PSYCH/668",
+        "SOC/315",
+        "SOCDA/315"
+    ],
+    "Business Regulations": [
+        "BUS/441"
+    ],
+    "Supply Chain": [
+        "BUS/441",
+        "ISCOM/370",
+        "OPS/425"
+    ],
+    "Human Resources": [
+        "BUS/441"
+    ],
+    "Integrated Business Planning": [
+        "BUS/475"
+    ],
+    "Project Performance": [
+        "BUS/475",
+        "PM/300",
+        "PM/591"
+    ],
+    "Leadership Theory": [
+        "BUS/700"
+    ],
+    "Strategic Management": [
+        "BUS/700",
+        "CMGT/558",
+        "CMGTCB/558"
+    ],
+    "Ethical Leadership": [
+        "BUS/700"
+    ],
+    "Business Metrics": [
+        "BUS/721"
+    ],
+    "Performance Leadership": [
+        "BUS/721"
+    ],
+    "Business transformation": [
+        "BUS/733"
+    ],
+    "Corproate Sustainability": [
+        "BUS/733"
+    ],
+    "Strategic Decision-making": [
+        "BUS/733"
+    ],
+    "Human Growth and Development": [
+        "CCMH/504",
+        "MFCC/504"
+    ],
+    "Family Development": [
+        "CCMH/504",
+        "MFCC/504"
+    ],
+    "Culturally Relevant Strategies": [
+        "CCMH/504",
+        "MFCC/504"
+    ],
+    "Counseling Theories": [
+        "CCMH/506",
+        "MFCC/506"
+    ],
+    "Evidence Based Practice": [
+        "CCMH/506",
+        "DNP/705",
+        "NSG/456",
+        "NSG/509",
+        "NSGCB/456"
+    ],
+    "Theoretical Orientation": [
+        "CCMH/506",
+        "MFCC/506"
+    ],
+    "Cultural Diversity": [
+        "CCMH/510",
+        "CCMH/510CA",
+        "MFCC/510CA"
+    ],
+    "Self-Evaluation": [
+        "CCMH/510",
+        "CCMH/510CA",
+        "MFCC/510CA"
+    ],
+    "Culturally Responsive": [
+        "CCMH/510",
+        "CCMH/510CA",
+        "MFCC/510CA"
+    ],
+    "Professional Legal Liability": [
+        "CCMH/515",
+        "CCMH/515CA",
+        "MFCC/553CA"
+    ],
+    "Ethical Responsibility": [
+        "CCMH/515",
+        "CCMH/515CA",
+        "MFCC/553CA"
+    ],
+    "Ethical Decision-Making Model": [
+        "CCMH/515",
+        "CCMH/515CA",
+        "MFCC/553CA"
+    ],
+    "Integrated Health Care": [
+        "CCMH/520"
+    ],
+    "Biochemistry": [
+        "CCMH/520",
+        "CCMH/522",
+        "MFCC/522"
+    ],
+    "Biological Foundations in Behavioral Health": [
+        "CCMH/520",
+        "CCMH/522",
+        "MFCC/522"
+    ],
+    "Integrated HealthCare": [
+        "CCMH/522"
+    ],
+    "Research Methodology": [
+        "CCMH/525"
+    ],
+    "Needs Assessment": [
+        "CCMH/525",
+        "CPSS/400",
+        "CUR/530",
+        "MFCC/525",
+        "SWRK/402"
+    ],
+    "Diagnostic Tests": [
+        "CCMH/535",
+        "MFCC/538",
+        "PMH/501",
+        "PMH/501CA"
+    ],
+    "Tests and Measures": [
+        "CCMH/535",
+        "MFCC/538"
+    ],
+    "Psychological Evaluations": [
+        "CCMH/535",
+        "MFCC/538"
+    ],
+    "Career Theories": [
+        "CCMH/540",
+        "MFCC/541"
+    ],
+    "Career Counseling Interventions": [
+        "CCMH/540",
+        "MFCC/541"
+    ],
+    "Vocational Counseling": [
+        "CCMH/540",
+        "MFCC/541"
+    ],
+    "Psychosocial Assessments": [
+        "CCMH/544",
+        "CPSS/370",
+        "MFCC/544",
+        "PSYCH/655",
+        "PSYDA/655"
+    ],
+    "Client Assessment": [
+        "CCMH/544",
+        "MFCC/544"
+    ],
+    "Treatment Planning": [
+        "CCMH/544",
+        "CPSS/370",
+        "MFCC/544",
+        "NRP/511",
+        "SWRK/403"
+    ],
+    "DSM Diagnosis": [
+        "CCMH/548",
+        "MFCC/548"
+    ],
+    "Treatment Plan Development": [
+        "CCMH/548",
+        "MFCC/548"
+    ],
+    "Diagnostic Assessment": [
+        "CCMH/548",
+        "MFCC/548"
+    ],
+    "Therapeutic Interventions": [
+        "CCMH/551",
+        "MFCC/554"
+    ],
+    "Evidence-based Practice in Individual Counseling": [
+        "CCMH/551"
+    ],
+    "Mental Health Assessments": [
+        "CCMH/551",
+        "MFCC/554"
+    ],
+    "Ethics in Crisis Counseling": [
+        "CCMH/558",
+        "CCMH/578"
+    ],
+    "Crisis Intervention": [
+        "CCMH/558",
+        "CCMH/578",
+        "CJA/436",
+        "CPSS/415",
+        "MFCC/567"
+    ],
+    "Crisis Assessment": [
+        "CCMH/558",
+        "MFCC/567"
+    ],
+    "Substance Dependence Theory": [
+        "CCMH/561",
+        "MFCC/563"
+    ],
+    "Substance Use Disorder (SUD) Assessment": [
+        "CCMH/561",
+        "MFCC/563"
+    ],
+    "Evidence-based Practice in Substance Abuse": [
+        "CCMH/561"
+    ],
+    "Family Assessment": [
+        "CCMH/565"
+    ],
+    "Family Counseling Theory": [
+        "CCMH/565",
+        "MFCC/537"
+    ],
+    "Family Therapy": [
+        "CCMH/565",
+        "MFCC/557"
+    ],
+    "Group Theory": [
+        "CCMH/568",
+        "MFCC/568"
+    ],
+    "Ethics in Group Work": [
+        "CCMH/568",
+        "MFCC/568"
+    ],
+    "Group Leadership Skills": [
+        "CCMH/568",
+        "MFCC/568"
+    ],
+    "Crisis  Assessment": [
+        "CCMH/578"
+    ],
+    "Supervision Model": [
+        "CCMH/581"
+    ],
+    "Consultation": [
+        "CCMH/581"
+    ],
+    "Supervision Plan": [
+        "CCMH/581"
+    ],
+    "Clinical Mental Health Skills Development": [
+        "CCMH/592"
+    ],
+    "Professional Identity Development": [
+        "CCMH/592"
+    ],
+    "Special Topics Counseling": [
+        "CCMH/592"
+    ],
+    "Clinical Mental Health Skills": [
+        "CCMH/597A",
+        "CCMH/597B"
+    ],
+    "Professional Identity": [
+        "CCMH/597A",
+        "CCMH/597B"
+    ],
+    "Counseling Special Populations": [
+        "CCMH/597A",
+        "CCMH/597B"
+    ],
+    "Data Integrity": [
+        "CHL/610",
+        "DBM/370"
+    ],
+    "Program design": [
+        "CHL/610"
+    ],
+    "Data Synthesis": [
+        "CHL/620"
+    ],
+    "Sustainability": [
+        "CHL/620",
+        "SUS/300"
+    ],
+    "Health Promotion": [
+        "CHL/630"
+    ],
+    "Community Health": [
+        "CHL/630"
+    ],
+    "Implementation": [
+        "CHL/640"
+    ],
+    "Accountability": [
+        "CHL/640",
+        "CUR/525",
+        "DHA/722",
+        "HCP/514",
+        "HCS/465",
+        "HCS/468",
+        "HCSDA/465",
+        "HCSDA/468",
+        "MHA/599",
+        "MHACB/599",
+        "NSG/426",
+        "NSGCB/426"
+    ],
+    "Teamwork": [
+        "CHL/640",
+        "CUR/550",
+        "ECH/497",
+        "HCS/131T",
+        "HCSDA/131",
+        "IOP/470",
+        "MGT/362T"
+    ],
+    "Experimentation": [
+        "CHM/110"
+    ],
+    "Scientific Interpretation": [
+        "CHM/110"
+    ],
+    "Organization": [
+        "CHM/150"
+    ],
+    "Analytical Techniques": [
+        "CHM/150"
+    ],
+    "Scientific Modeling": [
+        "CHM/150"
+    ],
+    "Data Analysis": [
+        "CHM/151",
+        "CMGT/556",
+        "CMGTCB/556",
+        "CUR/516",
+        "EDD/583",
+        "EDD/584",
+        "EED/492CA",
+        "ELM/587",
+        "MHA/507",
+        "MHACB/507",
+        "MKT/449",
+        "MPA/543",
+        "MPH/550",
+        "QNT/375T",
+        "SEC/587",
+        "SPE/512"
+    ],
+    "Chemistry": [
+        "CHM/151",
+        "PSYCH/634",
+        "PSYDA/634"
+    ],
+    "Molecular Structural Analysis": [
+        "CHM/250"
+    ],
+    "Acid-Base Characterization": [
+        "CHM/250"
+    ],
+    "Reaction Mechanism Analysis": [
+        "CHM/250"
+    ],
+    "Spectroscopic Analysis": [
+        "CHM/250"
+    ],
+    "Operating Systems": [
+        "CIS/207T",
+        "CISDA/207",
+        "CYB/225",
+        "CYB/530",
+        "POS/355"
+    ],
+    "Technical Support": [
+        "CIS/207T",
+        "CISDA/207"
+    ],
+    "Security Fundamentals": [
+        "CIS/207T",
+        "CISDA/207"
+    ],
+    "Criminal Justice": [
+        "CJA/316",
+        "CPSS/210"
+    ],
+    "Professional Responsibility": [
+        "CJA/326",
+        "SWRK/420",
+        "SWRK/425"
+    ],
+    "Ethical Conduct": [
+        "CJA/326",
+        "CUR/525",
+        "EDU/215"
+    ],
+    "Social Issues": [
+        "CJA/326",
+        "CJS/221"
+    ],
+    "Community Policing": [
+        "CJA/336"
+    ],
+    "Diversity Awareness": [
+        "CJA/336",
+        "CUR/518",
+        "HEA/731"
+    ],
+    "Psychology": [
+        "CJA/346",
+        "CJS/221",
+        "CPSS/316"
+    ],
+    "Organizational Behavior": [
+        "CJA/356",
+        "MGT/312T",
+        "MGT/571"
+    ],
+    "Organizational Structure": [
+        "CJA/356",
+        "LDR/307",
+        "MGT/526",
+        "MGTCB/526"
+    ],
+    "Emergency Management": [
+        "CJA/376"
+    ],
+    "Organizational Communications": [
+        "CJA/376",
+        "MKT/438"
+    ],
+    "Network Management": [
+        "CJA/376"
+    ],
+    "Statistics": [
+        "CJA/386",
+        "DSC/350"
+    ],
+    "Statistical Hypothesis Testing": [
+        "CJA/386"
+    ],
+    "Statistical Inference": [
+        "CJA/386"
+    ],
+    "Economics": [
+        "CJA/416",
+        "ECO/370",
+        "MHA/598",
+        "MHACB/598",
+        "MPA/554"
+    ],
+    "Grant Proposals": [
+        "CJA/426"
+    ],
+    "Grant Writing": [
+        "CJA/426"
+    ],
+    "Mental Health": [
+        "CJA/436",
+        "CPSS/410"
+    ],
+    "Community Mental Health Services": [
+        "CJA/436",
+        "CPSS/410"
+    ],
+    "Policy Research and Analysis": [
+        "CJA/446"
+    ],
+    "Standard Operating Procedures": [
+        "CJA/446",
+        "OPS/330T"
+    ],
+    "Process Improvements": [
+        "CJA/456",
+        "OPS/385"
+    ],
+    "Predictive Analytics": [
+        "CJA/456",
+        "DSC/445"
+    ],
+    "Root Cause Analysis": [
+        "CJA/476"
+    ],
+    "Corrective Action Preventative Action (CAPA)": [
+        "CJA/476"
+    ],
+    "Law Enforcement": [
+        "CJS/201"
+    ],
+    "Operations": [
+        "CJS/201",
+        "CPSS/215",
+        "CSS/325",
+        "DSC/460",
+        "ENG/240",
+        "HCIS/318",
+        "LAW/PA513",
+        "MHA/515",
+        "MHACB/515"
+    ],
+    "Corrections": [
+        "CJS/201"
+    ],
+    "Professionalism/Tactfulness": [
+        "CJS/221"
+    ],
+    "Behavioral Science": [
+        "CJS/245",
+        "CPSS/395"
+    ],
+    "Policy and Procedure": [
+        "CJS/245"
+    ],
+    "Courtroom Procedures": [
+        "CJS/251"
+    ],
+    "Court Roles": [
+        "CJS/251"
+    ],
+    "Court Operations": [
+        "CJS/251"
+    ],
+    "Corrections Operations": [
+        "CJS/255"
+    ],
+    "Evidence-Based Practice": [
+        "CJS/255",
+        "MFCC/506",
+        "NSG/302",
+        "NSGCB/302"
+    ],
+    "Computer Security": [
+        "CMGT/245"
+    ],
+    "Information Assurance": [
+        "CMGT/245",
+        "CYB/229",
+        "CYB/350"
+    ],
+    "Cyber Security": [
+        "CMGT/245"
+    ],
+    "Network Security": [
+        "CMGT/400",
+        "CYB/227",
+        "CYB/515",
+        "NTC/248T",
+        "NTC/362",
+        "NTCDA/362"
+    ],
+    "Vulnerability Assessment": [
+        "CMGT/400",
+        "CYB/205",
+        "CYB/235",
+        "CYB/505",
+        "CYBDA/205"
+    ],
+    "Application Security": [
+        "CMGT/400",
+        "CYB/505"
+    ],
+    "Agile Methodology": [
+        "CMGT/410",
+        "CMGTDA/410",
+        "CSS/435",
+        "CSS/450",
+        "PM/400",
+        "PM/591"
+    ],
+    "Information Technology Operations": [
+        "CMGT/410",
+        "CMGT/554",
+        "CMGTCB/554",
+        "CMGTDA/410"
+    ],
+    "Project Management": [
+        "CMGT/410",
+        "CMGT/575",
+        "CMGTCB/575",
+        "CMGTDA/410",
+        "CYB/490",
+        "DSC/590",
+        "ENV/310",
+        "HCS/412",
+        "HCS/446",
+        "HCS/529",
+        "HCSDA/412",
+        "MGT/566",
+        "PM/350T"
+    ],
+    "Intrusion Detection and Prevention": [
+        "CMGT/430",
+        "CYB/120",
+        "CYB/233"
+    ],
+    "Computer Networks": [
+        "CMGT/430",
+        "CYB/515",
+        "NTC/248T",
+        "NTC/306",
+        "NTC/362",
+        "NTCDA/362"
+    ],
+    "Security Controls": [
+        "CMGT/431",
+        "CYB/231",
+        "CYB/350"
+    ],
+    "Incident Response": [
+        "CMGT/431",
+        "CYB/233",
+        "CYB/350",
+        "CYB/500"
+    ],
+    "Cyber Threat Intelligence": [
+        "CMGT/433",
+        "CYB/500"
+    ],
+    "Access Controls": [
+        "CMGT/433"
+    ],
+    "Security Policies": [
+        "CMGT/433",
+        "CYB/205",
+        "CYBDA/205"
+    ],
+    "Mitigation": [
+        "CMGT/442",
+        "CYB/560"
+    ],
+    "IT Service Management": [
+        "CMGT/554",
+        "CMGTCB/554"
+    ],
+    "Management Information Systems": [
+        "CMGT/554",
+        "CMGTCB/554",
+        "CYB/490"
+    ],
+    "Systems Development Life Cycle": [
+        "CMGT/555",
+        "CMGTCB/555",
+        "HINF/510",
+        "PRG/430"
+    ],
+    "Agile Software Development": [
+        "CMGT/555",
+        "CMGTCB/555"
+    ],
+    "Business Requirements": [
+        "CMGT/555",
+        "CMGTCB/555",
+        "DSC/530",
+        "HINF/510",
+        "MGT/401",
+        "PRG/430"
+    ],
+    "Troubleshooting": [
+        "CMGT/556",
+        "CMGTCB/556",
+        "NTC/300",
+        "PRG/211T",
+        "PRGDA/211"
+    ],
+    "Consulting": [
+        "CMGT/559",
+        "CMGTCB/559",
+        "LIT/304",
+        "PSY/435",
+        "PSYCH/678",
+        "SCI/256",
+        "SCIDA/256"
+    ],
+    "Business Process": [
+        "CMGT/559",
+        "CMGTCB/559",
+        "PM/360",
+        "PSYCH/678"
+    ],
+    "DevOps": [
+        "CMGT/575",
+        "CMGTCB/575"
+    ],
+    "Prioritization": [
+        "CMGT/578",
+        "CMGTCB/578",
+        "CUR/535",
+        "FP/100",
+        "FP/100T",
+        "FPCB/100",
+        "FPDA/100",
+        "MPH/601"
+    ],
+    "Technology Strategies": [
+        "CMGT/578",
+        "CMGTCB/578",
+        "EDT/732"
+    ],
+    "Governance": [
+        "CMGT/582",
+        "CMGTCB/582",
+        "CYB/100",
+        "CYB/520",
+        "CYBDA/100",
+        "DHA/722",
+        "HCP/514"
+    ],
+    "Enterprise Resource Planning": [
+        "CMGT/583",
+        "CMGTCB/583"
+    ],
+    "Key Performance Indicators (KPIs)": [
+        "CMGT/583",
+        "CMGTCB/583"
+    ],
+    "Cultural Beliefs on Sexuality": [
+        "CMHC/551",
+        "MFCC/564"
+    ],
+    "Sexuality Counseling Assessment": [
+        "CMHC/551",
+        "MFCC/564"
+    ],
+    "Human Sexuality Factors": [
+        "CMHC/551"
+    ],
+    "Rapport Building": [
+        "CNSL/503R",
+        "ECH/418"
+    ],
+    "Counseling Skills": [
+        "CNSL/513R"
+    ],
+    "Group Leadership": [
+        "CNSL/523R"
+    ],
+    "Business Communication": [
+        "COM/295T",
+        "IT/200"
+    ],
+    "Presentation Skills": [
+        "COM/520",
+        "LIT/304"
+    ],
+    "Sales": [
+        "COM/539",
+        "MKT/431"
+    ],
+    "Communication Management": [
+        "COM/PA523"
+    ],
+    "Verbal Communication": [
+        "COMM/110",
+        "COMMDA/110",
+        "LDR/308"
+    ],
+    "Rehabilitation": [
+        "CPSS/215"
+    ],
+    "Public Health": [
+        "CPSS/240",
+        "HCS/457",
+        "HCSDA/457",
+        "MPH/510"
+    ],
+    "Rehabilitation Practices": [
+        "CPSS/300"
+    ],
+    "Care Coordination": [
+        "CPSS/300",
+        "SWRK/405",
+        "SWRK/425"
+    ],
+    "Social Sciences": [
+        "CPSS/316"
+    ],
+    "Ethical Behaviors": [
+        "CPSS/331"
+    ],
+    "Ethical Decision-Making": [
+        "CPSS/331"
+    ],
+    "Self-Awareness": [
+        "CPSS/331"
+    ],
+    "Multicultural Reflection": [
+        "CPSS/332"
+    ],
+    "Cultural Competence": [
+        "CPSS/332",
+        "NSG/523",
+        "PSY/450",
+        "PSYCH/620",
+        "PSYDA/620",
+        "SWRK/200"
+    ],
+    "Client Services": [
+        "CPSS/370",
+        "FIN/419",
+        "SWRK/420",
+        "SWRK/425"
+    ],
+    "Coordinating": [
+        "CPSS/385",
+        "HCIS/410",
+        "HCP/514",
+        "HCS/370",
+        "HCSDA/370",
+        "MPH/602"
+    ],
+    "Helping Skills": [
+        "CPSS/385"
+    ],
+    "Human Services": [
+        "CPSS/400"
+    ],
+    "Mental Disorders": [
+        "CPSS/410"
+    ],
+    "Child Welfare": [
+        "CPSS/415"
+    ],
+    "Child Development": [
+        "CPSS/415",
+        "ECH/205",
+        "EDU/305",
+        "EDU/305CA",
+        "MTE/511",
+        "PSY/205T",
+        "PSYCH/600",
+        "PSYDA/600"
+    ],
+    "Motivational Interviewing": [
+        "CPSS/420"
+    ],
+    "Substance Abuse": [
+        "CPSS/420"
+    ],
+    "Substance Abuse Counseling": [
+        "CPSS/420"
+    ],
+    "Application Development": [
+        "CSS/200"
+    ],
+    "Lifelong Learning": [
+        "CSS/201"
+    ],
+    "Ethical Reasoning": [
+        "CSS/201"
+    ],
+    "Creative Thinking": [
+        "CSS/201"
+    ],
+    "JavaScript": [
+        "CSS/300",
+        "WEB/240T"
+    ],
+    "HyperText Markup Language (HTML)": [
+        "CSS/300"
+    ],
+    "Cascading Style Sheets (CSS)": [
+        "CSS/300",
+        "WEB/240T"
+    ],
+    "Information Privacy": [
+        "CSS/325"
+    ],
+    "Legal and Ethical Principles": [
+        "CSS/325"
+    ],
+    "Parallel Computing": [
+        "CSS/421"
+    ],
+    "Computer Organization": [
+        "CSS/421"
+    ],
+    "Computer Architecture": [
+        "CSS/421"
+    ],
+    "Software Architecture": [
+        "CSS/422"
+    ],
+    "Unit Testing": [
+        "CSS/422"
+    ],
+    "Python Programming": [
+        "CSS/422"
+    ],
+    "Information Management": [
+        "CSS/430",
+        "MHA/507",
+        "MHACB/507"
+    ],
+    "Algorithmic Structures": [
+        "CSS/430"
+    ],
+    "Complexity": [
+        "CSS/430"
+    ],
+    "Software Development Lifecycle (SDLC)": [
+        "CSS/435"
+    ],
+    "Scrum (Software Development)": [
+        "CSS/435"
+    ],
+    "Artificial Intelligence": [
+        "CSS/440",
+        "DSC/435",
+        "DSC/520"
+    ],
+    "Big Data": [
+        "CSS/440",
+        "DSC/540"
+    ],
+    "Collaborative Software": [
+        "CUR/505"
+    ],
+    "Educational Assessment": [
+        "CUR/515",
+        "CUR/528",
+        "HEA/732"
+    ],
+    "Adult Learning Principles": [
+        "CUR/516",
+        "CUR/555"
+    ],
+    "Educational Technologies": [
+        "CUR/516",
+        "EDT/711",
+        "MTE/517",
+        "NSG/534"
+    ],
+    "Adult Education": [
+        "CUR/518"
+    ],
+    "Train the Trainer": [
+        "CUR/518",
+        "CUR/540"
+    ],
+    "Interactive Learning": [
+        "CUR/520",
+        "RDG/351"
+    ],
+    "Target Audience": [
+        "CUR/520",
+        "MPH/600"
+    ],
+    "Course Evaluations": [
+        "CUR/528"
+    ],
+    "Instructional Improvement": [
+        "CUR/528"
+    ],
+    "Learning Management Systems": [
+        "CUR/532"
+    ],
+    "Action Research": [
+        "CUR/535"
+    ],
+    "Teaching": [
+        "CUR/535",
+        "ENG/295",
+        "RDG/351",
+        "SPE/594"
+    ],
+    "Teacher Development": [
+        "CUR/540"
+    ],
+    "Mentorship": [
+        "CUR/540",
+        "HCS/475",
+        "NSG/533"
+    ],
+    "Instructional Technology": [
+        "CUR/545"
+    ],
+    "Emerging Technologies": [
+        "CUR/545"
+    ],
+    "Faculty Development": [
+        "CUR/555"
+    ],
+    "Theory Analysis": [
+        "CUR/713"
+    ],
+    "Learning Theory": [
+        "CUR/713"
+    ],
+    "Environmental Impact": [
+        "CUR/713"
+    ],
+    "Curriculum Design Cycle": [
+        "CUR/721"
+    ],
+    "Managing Curriculum Design": [
+        "CUR/721"
+    ],
+    "Instructional Models": [
+        "CUR/722"
+    ],
+    "Instructional Design Process": [
+        "CUR/722"
+    ],
+    "Instructional Change Management": [
+        "CUR/722"
+    ],
+    "Evaluation Theories": [
+        "CUR/732"
+    ],
+    "Program Evaluation Plan": [
+        "CUR/732"
+    ],
+    "Asset Protection": [
+        "CYB/110",
+        "CYBDA/110"
+    ],
+    "Disaster Recovery": [
+        "CYB/110",
+        "CYBDA/110"
+    ],
+    "Network Defense Fundamentals": [
+        "CYB/120"
+    ],
+    "Administrative Network Strategy": [
+        "CYB/120"
+    ],
+    "Scripting": [
+        "CYB/130T",
+        "CYBDA/130",
+        "PRG/421"
+    ],
+    "Programming": [
+        "CYB/130T",
+        "CYBDA/130",
+        "DSC/510",
+        "PRG/420"
+    ],
+    "Data Security": [
+        "CYB/135",
+        "CYB/510",
+        "DAT/305",
+        "DATDA/305",
+        "FIN/480"
+    ],
+    "Network Automation": [
+        "CYB/135"
+    ],
+    "Python": [
+        "CYB/135",
+        "DAT/210T",
+        "DATDA/210"
+    ],
+    "Endpoint Security": [
+        "CYB/140"
+    ],
+    "Data Loss Strategy": [
+        "CYB/140"
+    ],
+    "Security Management": [
+        "CYB/140"
+    ],
+    "Enterprise Network Security": [
+        "CYB/150"
+    ],
+    "Forensic Investigation Analysis": [
+        "CYB/150"
+    ],
+    "Threat Assessment and Response": [
+        "CYB/150"
+    ],
+    "Business Continuity": [
+        "CYB/205",
+        "CYBDA/205"
+    ],
+    "Linux": [
+        "CYB/225"
+    ],
+    "Wireshark": [
+        "CYB/227"
+    ],
+    "Penetration Testing": [
+        "CYB/229"
+    ],
+    "Assessment and Authorization": [
+        "CYB/231"
+    ],
+    "Threat Detection": [
+        "CYB/231"
+    ],
+    "Encryption": [
+        "CYB/233",
+        "CYB/540"
+    ],
+    "Ethical Standards & Conduct": [
+        "CYB/320"
+    ],
+    "Global Risk Management": [
+        "CYB/320"
+    ],
+    "Organizational Ethics": [
+        "CYB/320"
+    ],
+    "Cloud Computing": [
+        "CYB/340",
+        "DBM/502"
+    ],
+    "System Administration": [
+        "CYB/340"
+    ],
+    "Infrastructure-as-a-Service": [
+        "CYB/340"
+    ],
+    "Risk Management Framework": [
+        "CYB/360"
+    ],
+    "Security Systems": [
+        "CYB/360"
+    ],
+    "Network Switches": [
+        "CYB/360"
+    ],
+    "Troubleshooting (Problem Solving)": [
+        "CYB/492",
+        "HINF/500"
+    ],
+    "Intrusion and Threat Detection": [
+        "CYB/500"
+    ],
+    "Security Requirements Analysis": [
+        "CYB/505"
+    ],
+    "IT Security Architecture": [
+        "CYB/510"
+    ],
+    "Vulnerability Management": [
+        "CYB/515"
+    ],
+    "Compliance": [
+        "CYB/520"
+    ],
+    "Addressing Ethical Concerns": [
+        "CYB/520",
+        "HCS/468",
+        "HCSDA/468"
+    ],
+    "Network security practices": [
+        "CYB/530"
+    ],
+    "Design countermeasures": [
+        "CYB/530"
+    ],
+    "Identify vulnerabilities": [
+        "CYB/535"
+    ],
+    "Security systems designs": [
+        "CYB/535"
+    ],
+    "Security Testing": [
+        "CYB/535"
+    ],
+    "Cryptographic standards": [
+        "CYB/540"
+    ],
+    "Encryption methods": [
+        "CYB/540"
+    ],
+    "Threat analysis": [
+        "CYB/545"
+    ],
+    "Maintain databases": [
+        "CYB/545"
+    ],
+    "Intelligence sharing": [
+        "CYB/545"
+    ],
+    "Risk assessment": [
+        "CYB/550"
+    ],
+    "Incident response framework": [
+        "CYB/550"
+    ],
+    "Prevent cybersecurity attacks": [
+        "CYB/550"
+    ],
+    "Organizational threat environment": [
+        "CYB/555"
+    ],
+    "Security assessment": [
+        "CYB/555"
+    ],
+    "Conducting trend analysis": [
+        "CYB/555"
+    ],
+    "Information Systems Security": [
+        "CYB/560"
+    ],
+    "Java": [
+        "DAT/210T",
+        "DATDA/210"
+    ],
+    "SQL": [
+        "DAT/210T",
+        "DATDA/210"
+    ],
+    "Relational Databases": [
+        "DAT/305",
+        "DATDA/305"
+    ],
+    "Data Structures": [
+        "DAT/305",
+        "DATDA/305",
+        "DSC/530"
+    ],
+    "Data Queries": [
+        "DAT/325"
+    ],
+    "Data Manipulation": [
+        "DAT/325"
+    ],
+    "Database Management Systems": [
+        "DAT/325",
+        "DBM/502"
+    ],
+    "Cross Industry Standard Process for Data Mining": [
+        "DAT/350"
+    ],
+    "Extract Transform Load": [
+        "DAT/350"
+    ],
+    "Data Mining": [
+        "DAT/350",
+        "DSC/550"
+    ],
+    "Predictive and Qualitative Analysis": [
+        "DAT/565",
+        "DATCB/565"
+    ],
+    "Business Research": [
+        "DAT/565",
+        "DATCB/565"
+    ],
+    "Information Visualization": [
+        "DAT/565",
+        "DATCB/565"
+    ],
+    "Database Architecture": [
+        "DBM/300"
+    ],
+    "Database Design": [
+        "DBM/300"
+    ],
+    "Data Organization": [
+        "DBM/300"
+    ],
+    "Database Administration": [
+        "DBM/370",
+        "DBM/502"
+    ],
+    "Health Information Management": [
+        "DBM/381",
+        "MPH/530"
+    ],
+    "Organizational Relationships": [
+        "DHA/700"
+    ],
+    "Tenets of Health Administration": [
+        "DHA/700"
+    ],
+    "Health Sector Leadership": [
+        "DHA/700"
+    ],
+    "Operations Assessment": [
+        "DHA/711"
+    ],
+    "Complex Health Systems": [
+        "DHA/711"
+    ],
+    "Assess Systems that Support Healthcare": [
+        "DHA/711"
+    ],
+    "Quality Improvement": [
+        "DHA/715",
+        "DNP/730",
+        "HCS/465",
+        "HCSDA/465"
+    ],
+    "Healthcare Finance": [
+        "DHA/721",
+        "HSN/476",
+        "HSNCB/476"
+    ],
+    "Utilization Management": [
+        "DHA/721"
+    ],
+    "Quality Assurance": [
+        "DHA/721",
+        "HCS/325",
+        "HCSDA/325"
+    ],
+    "Regulatory Compliance": [
+        "DHA/731",
+        "ENV/320",
+        "HCS/529",
+        "HEA/712",
+        "NSG/518AD",
+        "NSG/518ED",
+        "NSG/518IN"
+    ],
+    "Analytic Skills": [
+        "DHA/732"
+    ],
+    "Performance Appraisal": [
+        "DHA/732",
+        "HCS/475",
+        "HRM/326T",
+        "HRM/552",
+        "IOP/480",
+        "MHA/599",
+        "MHACB/599",
+        "NSG/543"
+    ],
+    "Quality Management": [
+        "DHA/733",
+        "NSG/557"
+    ],
+    "Scholarly Thinking": [
+        "DNP/700"
+    ],
+    "Systematic Evaluation": [
+        "DNP/701"
+    ],
+    "Critical Analysis": [
+        "DNP/701"
+    ],
+    "Integrating knowledge": [
+        "DNP/701"
+    ],
+    "Integrate Theory": [
+        "DNP/705"
+    ],
+    "Professional Theories": [
+        "DNP/705"
+    ],
+    "Analytical thinking": [
+        "DNP/710"
+    ],
+    "Information Synthesis": [
+        "DNP/710"
+    ],
+    "Evaluation of Care": [
+        "DNP/710"
+    ],
+    "Systematic Decision-Making": [
+        "DNP/715"
+    ],
+    "Policy Evaluation": [
+        "DNP/725",
+        "MPH/570"
+    ],
+    "Promote Health Equity": [
+        "DNP/725"
+    ],
+    "Systems Transformation": [
+        "DNP/730"
+    ],
+    "Critique Evidence": [
+        "DNP/740"
+    ],
+    "Intervention Development": [
+        "DNP/740"
+    ],
+    "Analyze Disparities": [
+        "DNP/740"
+    ],
+    "Integrate Frameworks": [
+        "DNP/750"
+    ],
+    "Project Design Process": [
+        "DNP/750"
+    ],
+    "Research Application": [
+        "DNP/751"
+    ],
+    "Synthesize Evidence": [
+        "DNP/751"
+    ],
+    "Innovative Planning": [
+        "DNP/751"
+    ],
+    "Design and Evaluation": [
+        "DNP/752"
+    ],
+    "Manuscript Dissemination": [
+        "DNP/752"
+    ],
+    "Communicate Scholarship Mastery": [
+        "DNP/752"
+    ],
+    "Evaluate Literature": [
+        "DOC/714S"
+    ],
+    "Research Development": [
+        "DOC/714S"
+    ],
+    "Literature Analysis": [
+        "DOC/715"
+    ],
+    "Research Strategy": [
+        "DOC/715"
+    ],
+    "Study Methodology": [
+        "DOC/715"
+    ],
+    "Professional Goals": [
+        "DOC/719S"
+    ],
+    "SPL Model": [
+        "DOC/719S"
+    ],
+    "Research Conclusions & Recommendations": [
+        "DOC/719S"
+    ],
+    "Appraise Literature": [
+        "DOC/723"
+    ],
+    "Analysis": [
+        "DOC/723",
+        "MTH/214",
+        "MTH/221",
+        "MTH/280",
+        "MTHDA/214",
+        "MTHDA/221"
+    ],
+    "Synthesize Research Elements": [
+        "DOC/723"
+    ],
+    "Research Planning": [
+        "DOC/741"
+    ],
+    "Methodological Strategies": [
+        "DOC/741"
+    ],
+    "Plan for Engaging SPL Community": [
+        "DOC/741"
+    ],
+    "Research Analysis": [
+        "DOC/742",
+        "NRP/513"
+    ],
+    "Data Conclusions": [
+        "DOC/742"
+    ],
+    "Presentation": [
+        "DOC/742"
+    ],
+    "Business Intelligence Software": [
+        "DSC/330"
+    ],
+    "Exploratory Data Analysis": [
+        "DSC/350",
+        "DSC/560"
+    ],
+    "Data Science Lifecycle": [
+        "DSC/350"
+    ],
+    "Logical Models": [
+        "DSC/435"
+    ],
+    "Machine Learning": [
+        "DSC/435",
+        "DSC/550"
+    ],
+    "Data Warehousing": [
+        "DSC/460",
+        "DSC/540"
+    ],
+    "Business Value": [
+        "DSC/460",
+        "OPS/410",
+        "PM/570"
+    ],
+    "Key Performance Indicators (KPI)": [
+        "DSC/495",
+        "FIN/360"
+    ],
+    "Data Science": [
+        "DSC/510",
+        "PRG/315"
+    ],
+    "Algorithms": [
+        "DSC/520",
+        "PRG/211T",
+        "PRGDA/211"
+    ],
+    "Data Modeling": [
+        "DSC/530",
+        "FIN/360",
+        "IM/310"
+    ],
+    "Statistical Analysis": [
+        "DSC/550"
+    ],
+    "Data Visualization": [
+        "DSC/560",
+        "FIN/360"
+    ],
+    "Complex Event Processing": [
+        "DSC/570"
+    ],
+    "Predictive and Prescriptive Modeling": [
+        "DSC/570"
+    ],
+    "Business Intelligence": [
+        "DSC/570"
+    ],
+    "Data Privacy and Security": [
+        "DSC/580"
+    ],
+    "Data Governance": [
+        "DSC/580"
+    ],
+    "Data Auditing & Quality Assurance": [
+        "DSC/580"
+    ],
+    "Business Strategies": [
+        "DSC/590",
+        "HRM/300T",
+        "MGT/526",
+        "MGTCB/526",
+        "PSYCH/678"
+    ],
+    "Developmental Psychology": [
+        "ECH/205"
+    ],
+    "Positive Behavior Support": [
+        "ECH/205"
+    ],
+    "Early Childhood Education": [
+        "ECH/301",
+        "EDU/305",
+        "EDU/305CA"
+    ],
+    "Professional Dispositions": [
+        "ECH/390",
+        "MTE/510",
+        "SWRK/200"
+    ],
+    "Progress Monitoring": [
+        "ECH/400",
+        "SPE/556"
+    ],
+    "Mathematical Components": [
+        "ECH/416"
+    ],
+    "Enhance Student Learning": [
+        "ECH/416"
+    ],
+    "Family Engagement": [
+        "ECH/418"
+    ],
+    "Community Connections": [
+        "ECH/418"
+    ],
+    "Science Concepts": [
+        "ECH/420"
+    ],
+    "Science Standards": [
+        "ECH/420"
+    ],
+    "Social Studies": [
+        "ECH/430",
+        "SEC/536"
+    ],
+    "Connect Concepts": [
+        "ECH/430"
+    ],
+    "Working with Children": [
+        "ECH/430",
+        "SPE/513"
+    ],
+    "Early Childhood Arts": [
+        "ECH/435"
+    ],
+    "Integrating Technology": [
+        "ECH/435"
+    ],
+    "Community Communication": [
+        "ECH/435"
+    ],
+    "Professional Standards": [
+        "ECH/496",
+        "ECH/497",
+        "EDD/583",
+        "EDD/584",
+        "EED/491CA",
+        "EED/496",
+        "EED/498",
+        "ELM/586",
+        "SEC/586",
+        "SPE/596"
+    ],
+    "Community Partnerships": [
+        "ECH/496",
+        "ECH/497",
+        "EED/491CA",
+        "EED/496",
+        "EED/498"
+    ],
+    "Curriculum Design": [
+        "ECH/496",
+        "ECH/497",
+        "EDD/583",
+        "EDD/584",
+        "EED/491CA",
+        "EED/498",
+        "ELM/586",
+        "SEC/586",
+        "SPE/594",
+        "SPE/596"
+    ],
+    "Reflective Teaching Practices": [
+        "ECH/496",
+        "EED/499",
+        "SPE/595"
+    ],
+    "Professional Licensure": [
+        "ECH/496",
+        "EED/499"
+    ],
+    "Foster Engagement": [
+        "ECH/497",
+        "EED/496",
+        "SPE/596"
+    ],
+    "Reflective Teaching Practice": [
+        "ECH/497",
+        "EDD/583",
+        "EDD/584",
+        "EED/492CA",
+        "ELM/587",
+        "SPE/596"
+    ],
+    "Professional Ethics": [
+        "ECH/497",
+        "EDD/583",
+        "EDD/584",
+        "EED/492CA",
+        "EED/496",
+        "EED/499",
+        "ELM/587",
+        "SEC/587",
+        "SPE/595",
+        "SPE/596"
+    ],
+    "Professional Attributes": [
+        "ECH/498"
+    ],
+    "Activity Planning": [
+        "ECH/498"
+    ],
+    "Detail Orientated": [
+        "ECH/499"
+    ],
+    "Primary Education": [
+        "ECH/499"
+    ],
+    "Microeconomics": [
+        "ECO/365T"
+    ],
+    "Supply and Demand": [
+        "ECO/365T"
+    ],
+    "Resource Allocation": [
+        "ECO/365T",
+        "MPA/593"
+    ],
+    "Auditing": [
+        "ECO/370",
+        "FIN/470",
+        "FIN/590",
+        "HCP/513",
+        "HCS/380",
+        "HCS/493",
+        "HCSDA/493",
+        "NSG/542",
+        "NTC/361"
+    ],
+    "Macroeconomics": [
+        "ECO/372T"
+    ],
+    "Economic Development": [
+        "ECO/372T"
+    ],
+    "Business Economics": [
+        "ECO/372T"
+    ],
+    "Digital Transformation": [
+        "ECO/535",
+        "ECOCB/535"
+    ],
+    "Economic Theories": [
+        "ECO/535",
+        "ECOCB/535"
+    ],
+    "International Economics": [
+        "ECO/535",
+        "ECOCB/535"
+    ],
+    "Models of American Schools": [
+        "EDD/700"
+    ],
+    "Equity Leadership in Schools": [
+        "EDD/700"
+    ],
+    "Curriculum, Instruction, and Assessment in Educational Systems": [
+        "EDD/700"
+    ],
+    "Organizational Change": [
+        "EDD/712",
+        "LDR/309",
+        "MPA/534"
+    ],
+    "Organizational Success": [
+        "EDD/712"
+    ],
+    "School Structures": [
+        "EDD/714"
+    ],
+    "Education Systems": [
+        "EDD/714"
+    ],
+    "Distance Education/Online or Virtual Instructional Delivery": [
+        "EDD/714"
+    ],
+    "Human Resources and the Law": [
+        "EDD/722"
+    ],
+    "Student and Teacher Interactions": [
+        "EDD/722"
+    ],
+    "Trends and Legality": [
+        "EDD/722"
+    ],
+    "Ethical Challenges in Education": [
+        "EDD/723"
+    ],
+    "Character and Ethical Values": [
+        "EDD/723"
+    ],
+    "Legal Implications of Ethical Decision-Making": [
+        "EDD/723"
+    ],
+    "Professional Standards for Educational Leaders": [
+        "EDD/724"
+    ],
+    "Instructional Practices": [
+        "EDD/724"
+    ],
+    "Strategic Leadership": [
+        "EDD/724",
+        "ORG/726"
+    ],
+    "Budget Models": [
+        "EDD/731"
+    ],
+    "Budget Analysis": [
+        "EDD/731"
+    ],
+    "Budget Strategies": [
+        "EDD/731"
+    ],
+    "Assessment Tools": [
+        "EDD/733"
+    ],
+    "Education Assessment": [
+        "EDD/733"
+    ],
+    "Self-Service Technologies": [
+        "EDT/711"
+    ],
+    "Information Technology Architecture": [
+        "EDT/723"
+    ],
+    "Information Technology Consulting": [
+        "EDT/723"
+    ],
+    "Technology Transfer": [
+        "EDT/723"
+    ],
+    "Technology Integration": [
+        "EDT/732",
+        "MTE/517"
+    ],
+    "Technology Solutions": [
+        "EDT/732"
+    ],
+    "Information Technology Management": [
+        "EDT/733"
+    ],
+    "Technological Changes": [
+        "EDT/733"
+    ],
+    "Technology Roadmaps": [
+        "EDT/733"
+    ],
+    "Student Services": [
+        "EDU/215"
+    ],
+    "Diverse Student Populations": [
+        "EDU/301",
+        "EDU/301CA"
+    ],
+    "Philosophy Of Education": [
+        "EDU/301CA"
+    ],
+    "Student Growth & Development": [
+        "EDU/305",
+        "EDU/305CA"
+    ],
+    "Assessment Strategies": [
+        "EDU/311",
+        "EDU/311CA",
+        "ELM/533",
+        "SEC/533"
+    ],
+    "Legal & Ethical Responsibilities": [
+        "EDU/315"
+    ],
+    "Professional Practice": [
+        "EDU/315",
+        "EED/416"
+    ],
+    "Positive Learning Environment": [
+        "EDU/321",
+        "EDU/321CA"
+    ],
+    "Strong & Positive Relationships": [
+        "EDU/321",
+        "EDU/321CA"
+    ],
+    "Educator Dispositions": [
+        "EDU/390"
+    ],
+    "Assessment Strategies and Evaluation": [
+        "EED/400"
+    ],
+    "Assessing & Evaluating Student Learning": [
+        "EED/400"
+    ],
+    "Adapting Assessments": [
+        "EED/400",
+        "MTE/513"
+    ],
+    "Math Content Standards": [
+        "EED/416"
+    ],
+    "Science Content Standards": [
+        "EED/420",
+        "ELM/537"
+    ],
+    "Differentiated Learning": [
+        "EED/420",
+        "MTE/512"
+    ],
+    "Health/PE Content Standards": [
+        "EED/425"
+    ],
+    "Cross-Curriculum Development": [
+        "EED/425"
+    ],
+    "Social Studies Instruction": [
+        "EED/430",
+        "ELM/536"
+    ],
+    "Social Studies Methods": [
+        "EED/430"
+    ],
+    "Culturally Responsive Instruction": [
+        "EED/430"
+    ],
+    "Arts Education": [
+        "EED/435",
+        "SEC/541"
+    ],
+    "Arts Integration": [
+        "EED/435",
+        "SEC/541"
+    ],
+    "Art Culture and History": [
+        "EED/435",
+        "SEC/541"
+    ],
+    "Cross-Curricular": [
+        "EED/436CA"
+    ],
+    "Technology Tools": [
+        "EED/491CA"
+    ],
+    "Professional Development": [
+        "EED/492CA",
+        "ELM/537",
+        "HCS/305"
+    ],
+    "Curriculum Design<br>": [
+        "EED/496"
+    ],
+    "Reflective Teaching Practice<br>": [
+        "EED/496"
+    ],
+    "Instructional Delivery": [
+        "ELL/300"
+    ],
+    "Cultural Competency": [
+        "ELL/500",
+        "ENG/260",
+        "HIS/305"
+    ],
+    "Student Support": [
+        "ELL/500",
+        "SEI/300",
+        "SEI/500"
+    ],
+    "Language Acquisition": [
+        "ELL/500",
+        "SEI/504",
+        "SEI/506"
+    ],
+    "Positive Classroom Community": [
+        "ELM/532",
+        "SEC/532"
+    ],
+    "Literacy Development": [
+        "ELM/534",
+        "RDG/416",
+        "RDG/420",
+        "RDG/420CA",
+        "RDG/556",
+        "RDG/558",
+        "RDG/570",
+        "SEC/534"
+    ],
+    "Elements of Literacy": [
+        "ELM/534",
+        "RDG/420"
+    ],
+    "Reading/Language Arts Instruction": [
+        "ELM/534",
+        "RDG/420"
+    ],
+    "Developmental Reading Instruction": [
+        "ELM/535",
+        "RDG/415"
+    ],
+    "Diagnostic Reading Assessments": [
+        "ELM/535",
+        "RDG/415"
+    ],
+    "Reading Methods": [
+        "ELM/535",
+        "RDG/415"
+    ],
+    "Social Studies Pedagogy": [
+        "ELM/536"
+    ],
+    "Science Pedagogy": [
+        "ELM/537"
+    ],
+    "Mathematics Content Standards": [
+        "ELM/538"
+    ],
+    "Mathematics Education": [
+        "ELM/538",
+        "SEC/538"
+    ],
+    "Physical Education and Health Content Standards": [
+        "ELM/539"
+    ],
+    "Adaptive Written Communication": [
+        "ENG/110",
+        "ENGCB/110",
+        "ENGDA/110"
+    ],
+    "Decision Making in Communication": [
+        "ENG/110",
+        "ENG/135",
+        "ENG/210",
+        "ENGCB/110",
+        "ENGCB/210",
+        "ENGDA/110",
+        "ENGDA/135",
+        "ENGDA/210"
+    ],
+    "Professional Communication": [
+        "ENG/135",
+        "ENGDA/135"
+    ],
+    "Intercultural Awareness": [
+        "ENG/157"
+    ],
+    "Multicultural Communication": [
+        "ENG/157"
+    ],
+    "Multicultural Competency": [
+        "ENG/157"
+    ],
+    "Technical Communication": [
+        "ENG/222"
+    ],
+    "Technical Documentation": [
+        "ENG/222"
+    ],
+    "Technical Writing": [
+        "ENG/222"
+    ],
+    "English Language": [
+        "ENG/230",
+        "SEC/535"
+    ],
+    "Proofreading": [
+        "ENG/230"
+    ],
+    "Templates": [
+        "ENG/240"
+    ],
+    "Creative Writing": [
+        "ENG/240"
+    ],
+    "Curiosity": [
+        "ENG/260",
+        "GLG/220"
+    ],
+    "Explication": [
+        "ENG/260"
+    ],
+    "Literature Reviews": [
+        "ENG/270"
+    ],
+    "Literary Analysis": [
+        "ENG/270"
+    ],
+    "Content Revision": [
+        "ENG/270"
+    ],
+    "Rhetoric": [
+        "ENG/280"
+    ],
+    "Cataloguing<br>": [
+        "ENG/295"
+    ],
+    "Reading Literature<br>": [
+        "ENG/295"
+    ],
+    "Literary Markets": [
+        "ENG/340"
+    ],
+    "Language and Linguistics": [
+        "ENG/380"
+    ],
+    "Syntax": [
+        "ENG/380"
+    ],
+    "Information Analysis": [
+        "ENT/527"
+    ],
+    "Business Development": [
+        "ENT/588",
+        "HCS/498",
+        "HCS/499",
+        "HCSDA/498",
+        "MGT/465",
+        "MKT/498"
+    ],
+    "Environmental Planning": [
+        "ENV/310"
+    ],
+    "Environmental Management": [
+        "ENV/310"
+    ],
+    "Policy Change Brief": [
+        "ENV/320"
+    ],
+    "Legal Analysis": [
+        "ENV/320"
+    ],
+    "Environmental Permitting": [
+        "ENV/400"
+    ],
+    "Regulatory Analysis": [
+        "ENV/400"
+    ],
+    "Hydrology": [
+        "ENV/400"
+    ],
+    "Chemical Accidents": [
+        "ENV/410"
+    ],
+    "Chemical Waste": [
+        "ENV/410"
+    ],
+    "Toxicology": [
+        "ENV/410"
+    ],
+    "Environmental Health": [
+        "ENV/420"
+    ],
+    "Technical Document Review": [
+        "ENV/420"
+    ],
+    "Lab Techniques": [
+        "ENV/430"
+    ],
+    "Field Research": [
+        "ENV/430"
+    ],
+    "Spatial Analysis": [
+        "ENV/430"
+    ],
+    "Building Relationships": [
+        "ENV/431"
+    ],
+    "Emergency Response": [
+        "ENV/431"
+    ],
+    "Public Policy Analysis": [
+        "ENV/431"
+    ],
+    "Providing Information About Process or Practice": [
+        "ETH/316",
+        "ETHDA/316"
+    ],
+    "Business Law and Ethics": [
+        "ETH/321T"
+    ],
+    "Business Structures": [
+        "ETH/321T"
+    ],
+    "Global Finance": [
+        "FIN/355",
+        "FIN/580"
+    ],
+    "Financial Systems": [
+        "FIN/355",
+        "FIN/580"
+    ],
+    "Multinational Corporations": [
+        "FIN/355"
+    ],
+    "Financial Institutions": [
+        "FIN/366"
+    ],
+    "Financial Industry Regulatory Authorities": [
+        "FIN/366"
+    ],
+    "Equity Markets": [
+        "FIN/366"
+    ],
+    "Financial Planning": [
+        "FIN/370T"
+    ],
+    "Business Ventures": [
+        "FIN/375"
+    ],
+    "Capital Management": [
+        "FIN/375"
+    ],
+    "Financial Statements": [
+        "FIN/375",
+        "FIN/486",
+        "FIN/585"
+    ],
+    "Public Finance": [
+        "FIN/400"
+    ],
+    "Loans": [
+        "FIN/400"
+    ],
+    "Government Finance": [
+        "FIN/400"
+    ],
+    "Financial Portfolios": [
+        "FIN/402"
+    ],
+    "Financial Modeling": [
+        "FIN/402"
+    ],
+    "Behavioral Finance": [
+        "FIN/405"
+    ],
+    "Capital Markets": [
+        "FIN/405",
+        "FIN/580"
+    ],
+    "Financial Forecasting": [
+        "FIN/405",
+        "HEA/713"
+    ],
+    "Corporate Finance": [
+        "FIN/419"
+    ],
+    "Investments": [
+        "FIN/420"
+    ],
+    "Wealth Management": [
+        "FIN/420"
+    ],
+    "Retirement Planning": [
+        "FIN/422"
+    ],
+    "Benefits Planning": [
+        "FIN/422"
+    ],
+    "Enrollment Plans": [
+        "FIN/422"
+    ],
+    "Insurance": [
+        "FIN/440"
+    ],
+    "Underwriting": [
+        "FIN/440"
+    ],
+    "Fundamental Analysis": [
+        "FIN/460"
+    ],
+    "Business Valuation": [
+        "FIN/460",
+        "FIN/571",
+        "FINCB/571"
+    ],
+    "Modern Portfolio Theory (MPT)": [
+        "FIN/460"
+    ],
+    "Forensic Accounting": [
+        "FIN/470"
+    ],
+    "Financial Technology (FinTech)": [
+        "FIN/480"
+    ],
+    "Decentralized Finance (DeFi)": [
+        "FIN/480"
+    ],
+    "Business Ethics": [
+        "FIN/486",
+        "HCS/335",
+        "HCSDA/335",
+        "PHL/736"
+    ],
+    "Financial Management Strategies": [
+        "FIN/486"
+    ],
+    "Financial Market": [
+        "FIN/571",
+        "FINCB/571"
+    ],
+    "Capital Structures": [
+        "FIN/571",
+        "FINCB/571"
+    ],
+    "Generally Accepted Accounting Principles (GAAP)": [
+        "FIN/590"
+    ],
+    "Real Estate": [
+        "FIN/591"
+    ],
+    "Working Capital": [
+        "FIN/711"
+    ],
+    "Financial Risk Management": [
+        "FIN/711"
+    ],
+    "Information Literacy": [
+        "GEN/201",
+        "GEN/201A",
+        "GENCB/201",
+        "GENDA/201"
+    ],
+    "Spatial Relations": [
+        "GEO/180"
+    ],
+    "Land-Atmosphere Interactions": [
+        "GEO/180"
+    ],
+    "Information Organization": [
+        "GEO/180"
+    ],
+    "Geology": [
+        "GLG/220"
+    ],
+    "Electronic Medical Record": [
+        "HCIS/140T",
+        "HCISDA/140"
+    ],
+    "Billing": [
+        "HCIS/140T",
+        "HCISDA/140"
+    ],
+    "Medical Terminology": [
+        "HCIS/318",
+        "HCS/214"
+    ],
+    "Medical Records": [
+        "HCIS/318",
+        "HCS/120T",
+        "HCSDA/120",
+        "NSG/541"
+    ],
+    "Health Sciences": [
+        "HCIS/352"
+    ],
+    "Information Governance": [
+        "HCIS/352"
+    ],
+    "Scheduling": [
+        "HCIS/410"
+    ],
+    "Code Of Federal Regulations": [
+        "HCIS/420"
+    ],
+    "Corrective and Preventive Actions (CAPA)": [
+        "HCP/513"
+    ],
+    "Practice Management": [
+        "HCP/513"
+    ],
+    "Business Administration": [
+        "HCP/516",
+        "MGT/526",
+        "MGTCB/526"
+    ],
+    "Medical Office Procedures": [
+        "HCR/201"
+    ],
+    "ICD Coding (ICD-9/ICD-10)": [
+        "HCR/201"
+    ],
+    "Workflows": [
+        "HCR/202",
+        "HINF/520"
+    ],
+    "Health Insurance Portability and Accountability Act (HIPAA) Compliance": [
+        "HCR/203"
+    ],
+    "Health Administration": [
+        "HCS/120T",
+        "HCS/216",
+        "HCSDA/120",
+        "MPH/560"
+    ],
+    "Health Systems": [
+        "HCS/214"
+    ],
+    "Disease Identification": [
+        "HCS/214"
+    ],
+    "Disease Classification": [
+        "HCS/216"
+    ],
+    "Strategy": [
+        "HCS/235T",
+        "HCSDA/235",
+        "MPA/TM544"
+    ],
+    "Managed Care": [
+        "HCS/235T",
+        "HCSDA/235"
+    ],
+    "Health Trends": [
+        "HCS/245T"
+    ],
+    "Disease Management": [
+        "HCS/245T"
+    ],
+    "Career Planning": [
+        "HCS/305"
+    ],
+    "Office Management": [
+        "HCS/325",
+        "HCSDA/325"
+    ],
+    "Health Care Ethics": [
+        "HCS/335",
+        "HCSDA/335"
+    ],
+    "Personnel Management": [
+        "HCS/341",
+        "HCSDA/341"
+    ],
+    "Team Building": [
+        "HCS/370",
+        "HCSDA/370",
+        "SOC/100",
+        "SOC/110",
+        "SOCDA/100",
+        "SOCDA/110"
+    ],
+    "Business Operations": [
+        "HCS/385",
+        "HCSDA/385"
+    ],
+    "Standards of Care": [
+        "HCS/430"
+    ],
+    "Laws and Regulations": [
+        "HCS/430"
+    ],
+    "Provider and Patient Rights": [
+        "HCS/430"
+    ],
+    "Facility Compliance": [
+        "HCS/446"
+    ],
+    "Facility Design": [
+        "HCS/446"
+    ],
+    "Patient Safety": [
+        "HCS/451",
+        "HCSDA/451"
+    ],
+    "Stakeholders": [
+        "HCS/455"
+    ],
+    "Policy Impact": [
+        "HCS/455"
+    ],
+    "Risk Manager": [
+        "HCS/456"
+    ],
+    "Risk Management Tools": [
+        "HCS/456"
+    ],
+    "Risk Factors": [
+        "HCS/456"
+    ],
+    "Community Assessment": [
+        "HCS/457",
+        "HCSDA/457"
+    ],
+    "Population Health": [
+        "HCS/457",
+        "HCSDA/457",
+        "MHA/516",
+        "MHACB/516",
+        "MPH/510",
+        "PMH/501",
+        "PMH/501CA"
+    ],
+    "Business Model": [
+        "HCS/472",
+        "HCSDA/472"
+    ],
+    "Organizational Communication": [
+        "HCS/472",
+        "HCSDA/472"
+    ],
+    "Leadership Theories": [
+        "HCS/475"
+    ],
+    "Information Systems Management": [
+        "HCS/483"
+    ],
+    "Strategic Decision Making": [
+        "HCS/487",
+        "HCSDA/487"
+    ],
+    "Execute Plans": [
+        "HCS/487",
+        "HCSDA/487"
+    ],
+    "Marketing Analysis": [
+        "HCS/490",
+        "MKT/574",
+        "MKTCB/574"
+    ],
+    "Regulatory Environment Application": [
+        "HCS/490"
+    ],
+    "Higher Education": [
+        "HEA/711"
+    ],
+    "Global Philosophies of Education": [
+        "HEA/711"
+    ],
+    "Societal Influence on Education": [
+        "HEA/711"
+    ],
+    "Higher Education Policy": [
+        "HEA/712"
+    ],
+    "Financial Regulations and Laws": [
+        "HEA/713"
+    ],
+    "Educational Funding": [
+        "HEA/713"
+    ],
+    "Trend Analysis": [
+        "HEA/722"
+    ],
+    "Ethical Standards and Conduct": [
+        "HEA/722"
+    ],
+    "Institutional Change": [
+        "HEA/722"
+    ],
+    "Student Development Theories": [
+        "HEA/731"
+    ],
+    "Student Development": [
+        "HEA/731"
+    ],
+    "Student Learning Outcomes": [
+        "HEA/732"
+    ],
+    "Educational Planning": [
+        "HEA/732"
+    ],
+    "Data Management": [
+        "HINF/510",
+        "HSN/376",
+        "HSNCB/376",
+        "NSG/543"
+    ],
+    "Data Analytics": [
+        "HINF/520"
+    ],
+    "Arizona State Constitution": [
+        "HIS/210"
+    ],
+    "Arizona State Government Structure": [
+        "HIS/210"
+    ],
+    "Arizona County and Municipal Government and School Districts": [
+        "HIS/210"
+    ],
+    "Culturally and Socially Informed Decision Making": [
+        "HIS/305",
+        "SOC/315",
+        "SOCDA/315"
+    ],
+    "Critical Thinking\u200b": [
+        "HIS/306"
+    ],
+    "Historical Interpretation": [
+        "HIS/306",
+        "LIT/245",
+        "LIT/265"
+    ],
+    "Research\u200b": [
+        "HIS/306"
+    ],
+    "Historical Origins": [
+        "HIS/516",
+        "HIS/518"
+    ],
+    "Historical Influence": [
+        "HIS/518"
+    ],
+    "Employee Relations": [
+        "HRM/300T",
+        "HRM/546",
+        "IOP/460",
+        "MGT/571",
+        "PSYCH/647"
+    ],
+    "Human Resource Strategy": [
+        "HRM/300T",
+        "PSYCH/658"
+    ],
+    "Total Compensation": [
+        "HRM/324T"
+    ],
+    "Employee Benefits": [
+        "HRM/324T",
+        "HRM/548"
+    ],
+    "Development Planning": [
+        "HRM/326T"
+    ],
+    "Employee Training Programs": [
+        "HRM/326T"
+    ],
+    "Workforce Planning": [
+        "HRM/498",
+        "HRM/548"
+    ],
+    "Continuous Improvement Process": [
+        "HRM/498",
+        "MGT/465"
+    ],
+    "Talent Acquisition": [
+        "HRM/498",
+        "HRM/546",
+        "PSYCH/642"
+    ],
+    "Labor Law": [
+        "HRM/546",
+        "MGT/434"
+    ],
+    "Employee Retention": [
+        "HRM/548"
+    ],
+    "Core Values": [
+        "HRM/552"
+    ],
+    "Talent Management": [
+        "HRM/552",
+        "IOP/480"
+    ],
+    "Strategic Development": [
+        "HRM/595"
+    ],
+    "HR Analytics": [
+        "HRM/595"
+    ],
+    "Human Resource Planning": [
+        "HRM/595"
+    ],
+    "Labor Relations": [
+        "HRM/PA534",
+        "MGT/434"
+    ],
+    "Safety in Practice": [
+        "HSN/376",
+        "HSNCB/376"
+    ],
+    "Informatics": [
+        "HSN/376",
+        "HSNCB/376"
+    ],
+    "Operations and Management": [
+        "HSN/476",
+        "HSNCB/476"
+    ],
+    "Operations and Policy": [
+        "HSN/476",
+        "HSNCB/476"
+    ],
+    "Historical Summarization": [
+        "HST/175"
+    ],
+    "Historical Documentation": [
+        "HST/175"
+    ],
+    "Political Policy Communication": [
+        "HST/175"
+    ],
+    "Comparing Cultural Themes": [
+        "HUM/105",
+        "HUMDA/105"
+    ],
+    "Recognizing Mythological Archetypes": [
+        "HUM/105",
+        "HUMDA/105"
+    ],
+    "Communicating Cultural Significance": [
+        "HUM/105",
+        "HUMDA/105"
+    ],
+    "Decision-Making": [
+        "HUM/115",
+        "HUMCB/115",
+        "HUMDA/115",
+        "LDR/711A",
+        "ORG/726"
+    ],
+    "Effective Reasoning": [
+        "HUM/115",
+        "HUMCB/115",
+        "HUMDA/115"
+    ],
+    "Problem-Solving": [
+        "HUM/115",
+        "HUMCB/115",
+        "HUMDA/115"
+    ],
+    "Data Integration": [
+        "IM/310"
+    ],
+    "Data Quality": [
+        "IM/310",
+        "RES/720"
+    ],
+    "Organization Development": [
+        "IOP/460"
+    ],
+    "Forecasting Models": [
+        "ISCOM/370"
+    ],
+    "Production Management and Logistics": [
+        "ISCOM/370"
+    ],
+    "Organizational Analysis": [
+        "IST/710",
+        "ORG/716"
+    ],
+    "Virtual Teams": [
+        "IST/722"
+    ],
+    "Information and Communications Technology": [
+        "IST/722"
+    ],
+    "Organizational Learning": [
+        "IST/722"
+    ],
+    "Organizational Goals": [
+        "IST/724"
+    ],
+    "Leadership Innovation": [
+        "IST/724"
+    ],
+    "Organizational Performance": [
+        "IST/724",
+        "LDR/310",
+        "OPS/574",
+        "OPSCB/574"
+    ],
+    "Global Management": [
+        "IST/732"
+    ],
+    "Information Security": [
+        "IST/732"
+    ],
+    "Multi-Cultural Leadership": [
+        "IST/732"
+    ],
+    "Corporate Strategy": [
+        "IST/733"
+    ],
+    "Performance Metrics": [
+        "IST/733"
+    ],
+    "IT governance": [
+        "IST/733"
+    ],
+    "Computer Systems": [
+        "IT/200"
+    ],
+    "Strategic Thinking": [
+        "IT/200",
+        "MGT/711",
+        "PSY/110",
+        "PSYCB/110",
+        "PSYDA/110"
+    ],
+    "Social Perceptiveness": [
+        "LAW/PA513"
+    ],
+    "Leadership Skills": [
+        "LDR/305T"
+    ],
+    "Leadership Attributes": [
+        "LDR/305T"
+    ],
+    "Organizational Effectiveness": [
+        "LDR/305T",
+        "PSYCH/629"
+    ],
+    "Motivational Skills": [
+        "LDR/306T"
+    ],
+    "Employee Empowerment": [
+        "LDR/306T"
+    ],
+    "Decision-Making Tactics": [
+        "LDR/307"
+    ],
+    "Organizational Strategies": [
+        "LDR/307"
+    ],
+    "Customer Satisfaction": [
+        "LDR/308",
+        "MGT/445"
+    ],
+    "Influential Leadership": [
+        "LDR/308"
+    ],
+    "Change Management Leadership": [
+        "LDR/309"
+    ],
+    "Adaptation": [
+        "LDR/309"
+    ],
+    "Business Initiatives": [
+        "LDR/310"
+    ],
+    "Integrative Business Practices": [
+        "LDR/310"
+    ],
+    "Intercultural Awareness and Inclusion": [
+        "LDR/320T"
+    ],
+    "Employee Development": [
+        "LDR/320T"
+    ],
+    "Organizational Culture": [
+        "LDR/535",
+        "LDRCB/535",
+        "MGT/312T"
+    ],
+    "Innovative Leadership": [
+        "LDR/535",
+        "LDRCB/535"
+    ],
+    "Applied Leadership": [
+        "LDR/711A"
+    ],
+    "Team Management": [
+        "LDR/726",
+        "PM/570"
+    ],
+    "Team Performance": [
+        "LDR/726"
+    ],
+    "Team Effectiveness": [
+        "LDR/726"
+    ],
+    "Agile Leadership": [
+        "LDR/731"
+    ],
+    "Change Management Planning": [
+        "LDR/731"
+    ],
+    "Complex Problem solving": [
+        "LDR/731"
+    ],
+    "Organizational Excellence": [
+        "LDR/736"
+    ],
+    "Strategic Analysis": [
+        "LDR/736",
+        "MGT/711"
+    ],
+    "Personal Leadership": [
+        "LDR/736"
+    ],
+    "Thematic Interpretation": [
+        "LIT/235"
+    ],
+    "Historical Analysis": [
+        "LIT/235",
+        "LIT/255"
+    ],
+    "Content Strategy": [
+        "LIT/235",
+        "LIT/255"
+    ],
+    "Thematic Analysis": [
+        "LIT/245"
+    ],
+    "Biography": [
+        "LIT/255"
+    ],
+    "Biographical Research": [
+        "LIT/265"
+    ],
+    "Connecting Ideas": [
+        "LIT/304"
+    ],
+    "Historical Context": [
+        "LIT/330"
+    ],
+    "Document Analysis": [
+        "LIT/330"
+    ],
+    "Content Analysis": [
+        "LIT/330"
+    ],
+    "Literary Theory": [
+        "LIT/375"
+    ],
+    "Literary Critique": [
+        "LIT/375"
+    ],
+    "Essay Writing": [
+        "LIT/410"
+    ],
+    "Demography": [
+        "LSM/404"
+    ],
+    "Long Term Care": [
+        "LSM/404"
+    ],
+    "Corporate Compliance": [
+        "LSM/404"
+    ],
+    "Professional Networking": [
+        "LSM/412"
+    ],
+    "Management Skills": [
+        "LSM/412"
+    ],
+    "Regulatory Agencies": [
+        "LSM/417"
+    ],
+    "Lifespan Management Compliance": [
+        "LSM/417"
+    ],
+    "Accreditation": [
+        "LSM/417"
+    ],
+    "Integrated Healthcare": [
+        "MFCC/522"
+    ],
+    "Child Assessment": [
+        "MFCC/537"
+    ],
+    "Child Oriented Interventions": [
+        "MFCC/537"
+    ],
+    "Evidence-Based Practice in Individual Counseling": [
+        "MFCC/554"
+    ],
+    "Family Systems Theory": [
+        "MFCC/557"
+    ],
+    "Family Systems Interventions": [
+        "MFCC/557"
+    ],
+    "Evidence-Based Practice in Substance Abuse": [
+        "MFCC/563"
+    ],
+    "Couples Therapy": [
+        "MFCC/564"
+    ],
+    "Assessments in Family Counseling": [
+        "MFCC/566"
+    ],
+    "Evidence-based Practice in Family Counseling": [
+        "MFCC/566"
+    ],
+    "Therapeutic Interventions for Family Counseling": [
+        "MFCC/566"
+    ],
+    "Trauma Care": [
+        "MFCC/567"
+    ],
+    "Psychotherapy Skills Development": [
+        "MFCC/592"
+    ],
+    "Foundational Assessment": [
+        "MFCC/592"
+    ],
+    "Counseling Practices": [
+        "MFCC/592"
+    ],
+    "Psychotherapy Skills": [
+        "MFCC/597A",
+        "MFCC/597B"
+    ],
+    "Life Factor Assessment": [
+        "MFCC/597A",
+        "MFCC/597B"
+    ],
+    "Evidence-Based Treatment": [
+        "MFCC/597A",
+        "MFCC/597B"
+    ],
+    "Business Management": [
+        "MGT/316T"
+    ],
+    "Key Performance Indicators": [
+        "MGT/362T",
+        "MKT/443"
+    ],
+    "Business Opportunity Evaluation": [
+        "MGT/401"
+    ],
+    "Small Business Planning": [
+        "MGT/401"
+    ],
+    "Feasibility Study": [
+        "MGT/418"
+    ],
+    "Business Models": [
+        "MGT/418"
+    ],
+    "Customer Experience": [
+        "MGT/445",
+        "MKT/554"
+    ],
+    "Quality Control": [
+        "MGT/498"
+    ],
+    "Logistics and Supply Chain Management": [
+        "MGT/566"
+    ],
+    "Entrepreneurship": [
+        "MGT/576",
+        "MGTCB/576"
+    ],
+    "Dynamic Business Process Management": [
+        "MGT/576",
+        "MGTCB/576"
+    ],
+    "Value Creation": [
+        "MGT/576",
+        "MGTCB/576"
+    ],
+    "Organizational Strategy": [
+        "MGT/711"
+    ],
+    "Virtual Leadership": [
+        "MGT/726"
+    ],
+    "Organizational Agility": [
+        "MGT/726"
+    ],
+    "Systems Thinking": [
+        "MHA/505",
+        "MHACB/505",
+        "ORG/716"
+    ],
+    "Marketing - Ethical Implications": [
+        "MHA/506",
+        "MHACB/506"
+    ],
+    "Marketing - Consumer Choice Implications": [
+        "MHA/506",
+        "MHACB/506"
+    ],
+    "Marketing - Economic Implications": [
+        "MHA/506",
+        "MHACB/506"
+    ],
+    "Quality Management Through the Triple Aim": [
+        "MHA/507",
+        "MHACB/507"
+    ],
+    "Compliance and Privacy Management": [
+        "MHA/508",
+        "MHACB/508"
+    ],
+    "Policy Enforcement": [
+        "MHA/508",
+        "MHACB/508"
+    ],
+    "Environmental Scanning": [
+        "MHA/515",
+        "MHACB/515"
+    ],
+    "Policy and Governance": [
+        "MHA/516",
+        "MHACB/516"
+    ],
+    "Strategic Alliances": [
+        "MHA/520",
+        "MHACB/520"
+    ],
+    "Facilitation and Negotiation": [
+        "MHA/520",
+        "MHACB/520"
+    ],
+    "Self Reflection": [
+        "MHA/520",
+        "MHACB/520"
+    ],
+    "Complexity Leadership for Teams": [
+        "MHA/542",
+        "MHACB/542"
+    ],
+    "Self Awareness": [
+        "MHA/542",
+        "MHACB/542"
+    ],
+    "Human Resource Process Management": [
+        "MHA/543",
+        "MHACB/543"
+    ],
+    "Human Capital Talent Management": [
+        "MHA/543",
+        "MHACB/543"
+    ],
+    "Succession Planning and Mentorship": [
+        "MHA/543",
+        "MHACB/543"
+    ],
+    "Environmental and Social Sustainability": [
+        "MHA/560",
+        "MHACB/560"
+    ],
+    "Engaging Teams in Sustainability": [
+        "MHA/560",
+        "MHACB/560"
+    ],
+    "Supply Chain Management": [
+        "MHA/598",
+        "MHACB/598"
+    ],
+    "Product Marketing": [
+        "MKT/353",
+        "MKT/554"
+    ],
+    "Marketing Strategies": [
+        "MKT/353",
+        "MKT/421T",
+        "MKT/574",
+        "MKTCB/574"
+    ],
+    "Consumer Behavior": [
+        "MKT/421T",
+        "MKT/554"
+    ],
+    "Market Research": [
+        "MKT/421T"
+    ],
+    "Market Analysis": [
+        "MKT/431"
+    ],
+    "Small Business Marketing": [
+        "MKT/431"
+    ],
+    "Marketing Psychology": [
+        "MKT/435"
+    ],
+    "Brand Awareness": [
+        "MKT/435"
+    ],
+    "Customer Loyalty": [
+        "MKT/435"
+    ],
+    "Corporate Ethics": [
+        "MKT/438"
+    ],
+    "Online Advertising": [
+        "MKT/440"
+    ],
+    "Search Engine Marketing": [
+        "MKT/440"
+    ],
+    "Social Media Plan": [
+        "MKT/440"
+    ],
+    "Social Media Marketing": [
+        "MKT/443"
+    ],
+    "Brand Management": [
+        "MKT/443",
+        "MKT/544"
+    ],
+    "Web Analytics": [
+        "MKT/446"
+    ],
+    "Marketing Materials": [
+        "MKT/449"
+    ],
+    "Marketing Analytics": [
+        "MKT/449"
+    ],
+    "Marketing Plan": [
+        "MKT/498"
+    ],
+    "Integrated Marketing Communications": [
+        "MKT/498"
+    ],
+    "Technology Roadmap": [
+        "MKT/544"
+    ],
+    "Marketing Planning": [
+        "MKT/544"
+    ],
+    "Market Trends": [
+        "MKT/562"
+    ],
+    "Go-to-Market Strategy": [
+        "MKT/562"
+    ],
+    "Product Lifecycle": [
+        "MKT/562"
+    ],
+    "Marketing Communications": [
+        "MKT/574",
+        "MKTCB/574"
+    ],
+    "New Product Development": [
+        "MKT/593"
+    ],
+    "Product Management": [
+        "MKT/593"
+    ],
+    "Competitive Analysis": [
+        "MKT/711"
+    ],
+    "Ethics in Marketing": [
+        "MKT/711"
+    ],
+    "Administrative Leadership": [
+        "MPA/503"
+    ],
+    "Organizational Motivation": [
+        "MPA/534"
+    ],
+    "Dispute Management": [
+        "MPA/534"
+    ],
+    "Data Evaluation": [
+        "MPA/543"
+    ],
+    "Interpersonal Relationships": [
+        "MPA/554"
+    ],
+    "Budgeting Policy": [
+        "MPA/564"
+    ],
+    "Budgetary Process": [
+        "MPA/564"
+    ],
+    "Resource Management": [
+        "MPA/573",
+        "NSG/451",
+        "NSGCB/451"
+    ],
+    "Policy Leadership": [
+        "MPA/583"
+    ],
+    "Policy Communication": [
+        "MPA/583"
+    ],
+    "Policy Development": [
+        "MPA/593",
+        "MPH/570"
+    ],
+    "Technology Concepts": [
+        "MPA/TM544"
+    ],
+    "Evidence-Based Methods": [
+        "MPH/510"
+    ],
+    "Program Planning": [
+        "MPH/520"
+    ],
+    "Behavioral Change Theories": [
+        "MPH/520"
+    ],
+    "Epidemiology": [
+        "MPH/530"
+    ],
+    "Epidemiological Practices": [
+        "MPH/530"
+    ],
+    "Epidemiological Measures": [
+        "MPH/540"
+    ],
+    "Health Equity": [
+        "MPH/540",
+        "NSG/507"
+    ],
+    "Environmental and Occupational Health": [
+        "MPH/540"
+    ],
+    "Biostatistics": [
+        "MPH/550"
+    ],
+    "Cooperation": [
+        "MPH/600"
+    ],
+    "Public Health Education": [
+        "MPH/601"
+    ],
+    "Determinants of Health": [
+        "MPH/603"
+    ],
+    "Research Design": [
+        "MPH/603",
+        "RES/709"
+    ],
+    "Health Education": [
+        "MPH/603"
+    ],
+    "Health Assessment": [
+        "MPH/680"
+    ],
+    "Research Implications": [
+        "MPH/690"
+    ],
+    "Professional Writing": [
+        "MPH/690"
+    ],
+    "Human Development": [
+        "MTE/511"
+    ],
+    "Student Growth and Development": [
+        "MTE/511"
+    ],
+    "Special Education Law": [
+        "MTE/512",
+        "SPE/300",
+        "SPE/300CA",
+        "SPE/513"
+    ],
+    "Assessing and Evaluating Student Learning": [
+        "MTE/513"
+    ],
+    "Foundations of Education": [
+        "MTE/516"
+    ],
+    "Cultural Responsiveness": [
+        "MTE/516"
+    ],
+    "Technology-Based Instructional Strategies": [
+        "MTE/517"
+    ],
+    "Spatial Reasoning": [
+        "MTH/210"
+    ],
+    "Analytical Thinking": [
+        "MTH/210"
+    ],
+    "Geometry": [
+        "MTH/210"
+    ],
+    "Computational Reasoning": [
+        "MTH/214",
+        "MTH/280",
+        "MTH/360",
+        "MTHDA/214"
+    ],
+    "Sampling (Statistics)": [
+        "MTH/217"
+    ],
+    "Confidence Intervals": [
+        "MTH/217"
+    ],
+    "Statistical Methods": [
+        "MTH/217"
+    ],
+    "Chi-Squared Tests": [
+        "MTH/218"
+    ],
+    "Analysis Of Variance (ANOVA)": [
+        "MTH/218"
+    ],
+    "Probability and Statistics": [
+        "MTH/218"
+    ],
+    "Mathematical Integration": [
+        "MTH/290"
+    ],
+    "First-Order Differential Equations": [
+        "MTH/290"
+    ],
+    "Sequences and Series": [
+        "MTH/290"
+    ],
+    "Parametric Equations": [
+        "MTH/290"
+    ],
+    "Applied Mathematics": [
+        "MTH/360"
+    ],
+    "Data-Driven Decision Making": [
+        "MTH/540"
+    ],
+    "Advanced Statistical Analysis": [
+        "MTH/540"
+    ],
+    "Ethical Data Management": [
+        "MTH/540"
+    ],
+    "Mathematics": [
+        "MTH/575"
+    ],
+    "Digital Fluency": [
+        "NRP/507"
+    ],
+    "Clinical Decision-Making": [
+        "NRP/507"
+    ],
+    "Legal Prescribing": [
+        "NRP/507"
+    ],
+    "Holistic Care": [
+        "NRP/507"
+    ],
+    "Legal Practice": [
+        "NRP/508"
+    ],
+    "Policy Analysis": [
+        "NRP/508"
+    ],
+    "Fiscal Responsibility": [
+        "NRP/508"
+    ],
+    "Diagnosis Formulation": [
+        "NRP/511"
+    ],
+    "Clinical Evidence Analysis": [
+        "NRP/511"
+    ],
+    "Patient Education": [
+        "NRP/511"
+    ],
+    "Application of Theory": [
+        "NRP/513",
+        "SWRK/402"
+    ],
+    "Translation of Evidence": [
+        "NRP/513"
+    ],
+    "Ethics Application": [
+        "NRP/513"
+    ],
+    "Health History Management": [
+        "NRP/531"
+    ],
+    "Advanced Assessment": [
+        "NRP/531"
+    ],
+    "Coding": [
+        "NRP/531",
+        "PRG/310"
+    ],
+    "Advanced Health Assessment": [
+        "NRP/531",
+        "NSG/523"
+    ],
+    "Pediatric Care": [
+        "NRP/543",
+        "NRP/543CA"
+    ],
+    "Parent Teaching": [
+        "NRP/543",
+        "NRP/543CA"
+    ],
+    "Fiscal Care Planning": [
+        "NRP/543",
+        "NRP/543CA"
+    ],
+    "Lawful Practice": [
+        "NRP/543",
+        "NRP/543CA"
+    ],
+    "Synthesis of Information for Diagnosis": [
+        "NRP/555",
+        "NRP/555CA"
+    ],
+    "Individualized Treatment Planning": [
+        "NRP/555",
+        "NRP/555CA"
+    ],
+    "Interdisciplinary Collaboration": [
+        "NRP/555",
+        "NRP/555CA"
+    ],
+    "Scope of Practice": [
+        "NRP/555",
+        "NRP/555CA"
+    ],
+    "Synthesis for Diagnosis": [
+        "NRP/556",
+        "NRP/556CA"
+    ],
+    "Plan of Care": [
+        "NRP/556",
+        "NRP/556CA"
+    ],
+    "Professional Collaboration": [
+        "NRP/556",
+        "NRP/556CA"
+    ],
+    "Lawful Pharmacological Practice": [
+        "NRP/556",
+        "NRP/556CA"
+    ],
+    "Diagnosing": [
+        "NRP/563",
+        "NRP/563CA"
+    ],
+    "Diverse Ethical Management": [
+        "NRP/563",
+        "NRP/563CA"
+    ],
+    "Preventative Care": [
+        "NRP/563",
+        "NRP/563CA"
+    ],
+    "Nurse Practice Act": [
+        "NRP/563",
+        "NRP/563CA"
+    ],
+    "Communication in Practice": [
+        "NRP/571"
+    ],
+    "Diagnostic Interpretation": [
+        "NRP/571"
+    ],
+    "Office Procedures": [
+        "NRP/571"
+    ],
+    "Prevention": [
+        "NRP/590",
+        "NRP/590CA"
+    ],
+    "Clinical Practice": [
+        "NRP/590",
+        "NRP/590CA"
+    ],
+    "Interprofessional Communication": [
+        "NRP/590",
+        "NRP/590CA",
+        "NSG/451",
+        "NSGCB/451"
+    ],
+    "Ethical Practice": [
+        "NRP/590",
+        "NRP/590CA"
+    ],
+    "Regulatory Guidelines": [
+        "NRP/590",
+        "NRP/590CA"
+    ],
+    "Primary Care": [
+        "NRP/590",
+        "NRP/590CA"
+    ],
+    "Lawful Prescribing": [
+        "NRP/590",
+        "NRP/590CA"
+    ],
+    "Independent Practice": [
+        "NRP/590",
+        "NRP/590CA"
+    ],
+    "Nursing Process": [
+        "NSG/302",
+        "NSGCB/302"
+    ],
+    "Patient Centered Care": [
+        "NSG/416",
+        "NSGCB/416"
+    ],
+    "Goal Setting": [
+        "NSG/416",
+        "NSGCB/416"
+    ],
+    "Gap Analysis": [
+        "NSG/416",
+        "NSGCB/416"
+    ],
+    "Policy and Regulation in Practice": [
+        "NSG/426",
+        "NSGCB/426"
+    ],
+    "Ethics in Practice": [
+        "NSG/426",
+        "NSGCB/426"
+    ],
+    "Professional Values": [
+        "NSG/456",
+        "NSGCB/456"
+    ],
+    "Quality improvement and Safety": [
+        "NSG/468",
+        "NSGCB/468"
+    ],
+    "Interprofessional Collaboration": [
+        "NSG/468",
+        "NSGCB/468"
+    ],
+    "Organization and Systems Leadership": [
+        "NSG/468",
+        "NSGCB/468"
+    ],
+    "Psychosocial Assessment": [
+        "NSG/482",
+        "NSG/482CA",
+        "NSGCB/482"
+    ],
+    "Clinical Prevention and Population Health": [
+        "NSG/482",
+        "NSG/482CA",
+        "NSGCB/482"
+    ],
+    "Disaster Planning": [
+        "NSG/482",
+        "NSG/482CA",
+        "NSGCB/482"
+    ],
+    "Global and Public Health Nursing": [
+        "NSG/486",
+        "NSG/486CA",
+        "NSGCB/486"
+    ],
+    "Infection Control": [
+        "NSG/486",
+        "NSG/486CA",
+        "NSGCB/486"
+    ],
+    "Treatment Planning in population health": [
+        "NSG/486",
+        "NSG/486CA",
+        "NSGCB/486"
+    ],
+    "Clinical Judgement": [
+        "NSG/498",
+        "NSGCB/498"
+    ],
+    "Quality Improvement Planning": [
+        "NSG/498",
+        "NSGCB/498"
+    ],
+    "Applied Nursing Theory": [
+        "NSG/506"
+    ],
+    "Interprofessional Competencies": [
+        "NSG/506"
+    ],
+    "Analyze Social Determinants": [
+        "NSG/507"
+    ],
+    "Translate Leadership Theories": [
+        "NSG/508"
+    ],
+    "Global Health Nursing": [
+        "NSG/508"
+    ],
+    "Applied Statistics": [
+        "NSG/509"
+    ],
+    "Safety in Advanced Practice": [
+        "NSG/509"
+    ],
+    "Applied Informatics": [
+        "NSG/518AD",
+        "NSG/518ED",
+        "NSG/518IN"
+    ],
+    "Project Development": [
+        "NSG/518AD",
+        "NSG/518ED",
+        "NSG/518IN"
+    ],
+    "Advanced Clinical Practice": [
+        "NSG/518AD",
+        "NSG/518ED",
+        "NSG/518IN"
+    ],
+    "Disease Process Analysis": [
+        "NSG/521"
+    ],
+    "Physiological Process": [
+        "NSG/521"
+    ],
+    "Pharmacological Databases": [
+        "NSG/522"
+    ],
+    "Pharmacologic Patient Education": [
+        "NSG/522"
+    ],
+    "Legal/Ethical Medication Administration": [
+        "NSG/522"
+    ],
+    "Patient Interview": [
+        "NSG/523"
+    ],
+    "Analyze Learning Theory": [
+        "NSG/532"
+    ],
+    "Nurse Education": [
+        "NSG/532"
+    ],
+    "Rubric Development": [
+        "NSG/533"
+    ],
+    "Advising": [
+        "NSG/534"
+    ],
+    "Legal Compliance in Informatics": [
+        "NSG/541"
+    ],
+    "Data Compliance": [
+        "NSG/541"
+    ],
+    "Human Resources Management": [
+        "NSG/547"
+    ],
+    "Evaluating Outcomes": [
+        "NSG/557"
+    ],
+    "Healthcare Policy": [
+        "NSG/567"
+    ],
+    "Fiscal Leadership": [
+        "NSG/567"
+    ],
+    "Vulnerability": [
+        "NTC/248T"
+    ],
+    "Network Infrastructure": [
+        "NTC/260"
+    ],
+    "Network Troubleshooting": [
+        "NTC/260"
+    ],
+    "Software Installation": [
+        "NTC/260"
+    ],
+    "Firewall": [
+        "NTC/300"
+    ],
+    "Network Monitoring": [
+        "NTC/300"
+    ],
+    "Networking Hardware/ Wireless Networks": [
+        "NTC/302"
+    ],
+    "Network Routing": [
+        "NTC/302"
+    ],
+    "IT Infrastructure": [
+        "NTC/302"
+    ],
+    "Network Administration": [
+        "NTC/304"
+    ],
+    "Dynamic Host Configuration Protocol (DHCP)": [
+        "NTC/304"
+    ],
+    "Issue Tracking": [
+        "NTC/304"
+    ],
+    "TCP/IP": [
+        "NTC/306"
+    ],
+    "Data Transmissions": [
+        "NTC/306"
+    ],
+    "Networking": [
+        "NTC/361"
+    ],
+    "Wide Area Networks": [
+        "NTC/362",
+        "NTCDA/362"
+    ],
+    "Business Forecasting": [
+        "OPS/330T"
+    ],
+    "Logistics": [
+        "OPS/330T"
+    ],
+    "Lean Manufacturing": [
+        "OPS/385"
+    ],
+    "RACI Matrix": [
+        "OPS/385"
+    ],
+    "Purchasing": [
+        "OPS/395"
+    ],
+    "Procurement Processes": [
+        "OPS/395"
+    ],
+    "Contracting and Negotiation": [
+        "OPS/395"
+    ],
+    "Enterprise Resource Planning (ERP)": [
+        "OPS/405"
+    ],
+    "Production Process": [
+        "OPS/405"
+    ],
+    "Production Planning": [
+        "OPS/405"
+    ],
+    "Customer Value": [
+        "OPS/410"
+    ],
+    "Quality Management Systems": [
+        "OPS/410"
+    ],
+    "Performance Analysis": [
+        "OPS/425"
+    ],
+    "Supplier Relationship Management": [
+        "OPS/425"
+    ],
+    "Strategic Operations": [
+        "OPS/445"
+    ],
+    "System Performance": [
+        "OPS/445"
+    ],
+    "Process Analysis": [
+        "OPS/574",
+        "OPSCB/574"
+    ],
+    "Value Chain": [
+        "OPS/574",
+        "OPSCB/574"
+    ],
+    "Organizational Research": [
+        "ORG/716"
+    ],
+    "Diagnostic Analysis": [
+        "ORG/727"
+    ],
+    "Corporate Governance Policies": [
+        "PHL/736"
+    ],
+    "International Business Strategy": [
+        "PHL/736"
+    ],
+    "Scientific Developments": [
+        "PHY/101"
+    ],
+    "Cross Cutting Concepts": [
+        "PHY/101"
+    ],
+    "History of Science": [
+        "PHY/101"
+    ],
+    "Kinematics": [
+        "PHY/201"
+    ],
+    "Forces": [
+        "PHY/201"
+    ],
+    "Momentum<br>": [
+        "PHY/201"
+    ],
+    "Oscillatory Motion": [
+        "PHY/201"
+    ],
+    "Fluid Dynamics": [
+        "PHY/202"
+    ],
+    "Electricity": [
+        "PHY/202"
+    ],
+    "Magnetism": [
+        "PHY/202"
+    ],
+    "Atomic Physics": [
+        "PHY/202"
+    ],
+    "Project Planning": [
+        "PM/300"
+    ],
+    "Project Implementation": [
+        "PM/300"
+    ],
+    "Project Coordination": [
+        "PM/310",
+        "PM/583"
+    ],
+    "Project Scoping": [
+        "PM/340",
+        "PM/583"
+    ],
+    "Milestones": [
+        "PM/340"
+    ],
+    "Change Control": [
+        "PM/340"
+    ],
+    "Operational Improvement": [
+        "PM/350T"
+    ],
+    "Process Optimization": [
+        "PM/350T"
+    ],
+    "Project Management Tools": [
+        "PM/360"
+    ],
+    "Product Design": [
+        "PM/360"
+    ],
+    "Tailoring": [
+        "PM/400"
+    ],
+    "Project Management Institute (PMI) Methodology": [
+        "PM/490"
+    ],
+    "Corrective and Preventative Action (CAPA)": [
+        "PM/490"
+    ],
+    "Project Schedules": [
+        "PM/490",
+        "PM/585"
+    ],
+    "Project Monitoring": [
+        "PM/585"
+    ],
+    "Risk Training": [
+        "PM/587"
+    ],
+    "Stakeholder Engagement": [
+        "PM/591"
+    ],
+    "Integrate Knowledge": [
+        "PMH/501",
+        "PMH/501CA"
+    ],
+    "Apply Guidelines": [
+        "PMH/501",
+        "PMH/501CA"
+    ],
+    "Medication Knowledge": [
+        "PMH/502",
+        "PMH/502CA"
+    ],
+    "Apply Evidence": [
+        "PMH/502",
+        "PMH/502CA"
+    ],
+    "Prescribe Safely": [
+        "PMH/502",
+        "PMH/502CA"
+    ],
+    "Educate Consumers": [
+        "PMH/502",
+        "PMH/502CA"
+    ],
+    "Clinical Assessment": [
+        "PMH/503",
+        "PMH/503CA"
+    ],
+    "Psychiatric Diagnosis": [
+        "PMH/503",
+        "PMH/503CA"
+    ],
+    "Psychotherapy": [
+        "PMH/503",
+        "PMH/503CA"
+    ],
+    "Adult Assessment": [
+        "PMH/504",
+        "PMH/504CA"
+    ],
+    "Adult Diagnosis": [
+        "PMH/504",
+        "PMH/504CA"
+    ],
+    "Psychotherapeutic Interventions": [
+        "PMH/504",
+        "PMH/504CA"
+    ],
+    "Psycho-Pharmacological Management": [
+        "PMH/504",
+        "PMH/504CA"
+    ],
+    "Pediatric Assessment": [
+        "PMH/505",
+        "PMH/505CA"
+    ],
+    "Pediatric Diagnosis": [
+        "PMH/505",
+        "PMH/505CA"
+    ],
+    "Pediatric Psychotherapy": [
+        "PMH/505",
+        "PMH/505CA"
+    ],
+    "Medication Management": [
+        "PMH/505",
+        "PMH/505CA"
+    ],
+    "Prevent Mental Disorders": [
+        "PMH/506",
+        "PMH/506CA"
+    ],
+    "Assessment": [
+        "PMH/506",
+        "PMH/506CA"
+    ],
+    "Formulate Diagnosis": [
+        "PMH/506",
+        "PMH/506CA"
+    ],
+    "Plan Care": [
+        "PMH/506",
+        "PMH/506CA"
+    ],
+    "Treat Mental Disorders": [
+        "PMH/506",
+        "PMH/506CA"
+    ],
+    "Evaluate Outcomes": [
+        "PMH/506",
+        "PMH/506CA"
+    ],
+    "Practice Safely": [
+        "PMH/506",
+        "PMH/506CA"
+    ],
+    "Practice Lawfully": [
+        "PMH/506",
+        "PMH/506CA"
+    ],
+    "Understanding Foundational Principles of US government": [
+        "POL/115",
+        "POLDA/115"
+    ],
+    "Understanding roles of US governing bodies": [
+        "POL/115",
+        "POLDA/115"
+    ],
+    "Process Description of American Government functions": [
+        "POL/115",
+        "POLDA/115"
+    ],
+    "Software Design": [
+        "POS/355"
+    ],
+    ".NET Framework": [
+        "POS/408"
+    ],
+    "C# Programming": [
+        "POS/408"
+    ],
+    "Object Oriented Programming": [
+        "POS/408"
+    ],
+    "ASP.NET": [
+        "POS/409"
+    ],
+    "Extensible Markup Language (XML)": [
+        "POS/409"
+    ],
+    "JSON": [
+        "POS/409"
+    ],
+    "Computer Science": [
+        "PRG/211T",
+        "PRGDA/211"
+    ],
+    "Programming Syntax and Semantics": [
+        "PRG/310"
+    ],
+    "Web and Software Development": [
+        "PRG/310"
+    ],
+    "R Programming Language": [
+        "PRG/315"
+    ],
+    "Debugging": [
+        "PRG/330"
+    ],
+    "Application Programming Interface (API)": [
+        "PRG/330"
+    ],
+    "Reliability": [
+        "PRG/420"
+    ],
+    "Code Review": [
+        "PRG/420"
+    ],
+    "Object-Oriented Programming (OOP)": [
+        "PRG/421"
+    ],
+    "Foundations of Psychology": [
+        "PSY/203T"
+    ],
+    "Human Cognition": [
+        "PSY/203T"
+    ],
+    "Human Personality": [
+        "PSY/203T"
+    ],
+    "Adolescent Development": [
+        "PSY/205T"
+    ],
+    "Adult Development": [
+        "PSY/205T",
+        "PSYCH/600",
+        "PSYDA/600"
+    ],
+    "Relationship Building": [
+        "PSY/301"
+    ],
+    "Central Tendency and Probability": [
+        "PSY/315"
+    ],
+    "Statistical Significance": [
+        "PSY/315"
+    ],
+    "Correlation": [
+        "PSY/315"
+    ],
+    "Experimental Research Methods": [
+        "PSY/335"
+    ],
+    "Research Interpretation and Reporting": [
+        "PSY/335"
+    ],
+    "Brain Function": [
+        "PSY/340"
+    ],
+    "Neuropsychology": [
+        "PSY/340",
+        "PSYCH/634",
+        "PSYDA/634"
+    ],
+    "Human Behavior": [
+        "PSY/340"
+    ],
+    "Situational Motivation": [
+        "PSY/355"
+    ],
+    "Self-Efficacy": [
+        "PSY/355"
+    ],
+    "Self-Motivation": [
+        "PSY/355",
+        "PSY/405"
+    ],
+    "Classical and Operant Conditioning": [
+        "PSY/390"
+    ],
+    "Social Learning Theory": [
+        "PSY/390"
+    ],
+    "Aging and Cognition": [
+        "PSY/390"
+    ],
+    "Social Psychology": [
+        "PSY/400"
+    ],
+    "Persuasion": [
+        "PSY/400"
+    ],
+    "Group Think/Influence": [
+        "PSY/400"
+    ],
+    "Personality Development": [
+        "PSY/405",
+        "PSYCH/645",
+        "PSYDA/645"
+    ],
+    "Behavior Modification": [
+        "PSY/420"
+    ],
+    "Ethical Practices": [
+        "PSY/420"
+    ],
+    "Diversity": [
+        "PSY/450",
+        "PSYCH/620",
+        "PSYDA/620"
+    ],
+    "Behavioral Sciences": [
+        "PSYCH/599",
+        "PSYDA/599"
+    ],
+    "Psychological Perspectives": [
+        "PSYCH/599",
+        "PSYDA/599"
+    ],
+    "Psychological Concepts": [
+        "PSYCH/600",
+        "PSYDA/600"
+    ],
+    "Understanding of Self": [
+        "PSYCH/614",
+        "PSYDA/614"
+    ],
+    "Commercialization": [
+        "PSYCH/614",
+        "PSYDA/614"
+    ],
+    "Group Influence": [
+        "PSYCH/614",
+        "PSYDA/614"
+    ],
+    "People Management": [
+        "PSYCH/642",
+        "PSYCH/645",
+        "PSYDA/645"
+    ],
+    "Learning and Motivation": [
+        "PSYCH/644",
+        "PSYDA/644"
+    ],
+    "Life Skills": [
+        "PSYCH/644",
+        "PSYDA/644"
+    ],
+    "Scientific Inquiry": [
+        "PSYCH/645",
+        "PSYDA/645"
+    ],
+    "Clinical Research": [
+        "PSYCH/650",
+        "PSYDA/650"
+    ],
+    "Good Clinical Practices (GCP)": [
+        "PSYCH/650",
+        "PSYDA/650"
+    ],
+    "Psychometrics": [
+        "PSYCH/655",
+        "PSYDA/655"
+    ],
+    "Employee Engagement": [
+        "PSYCH/658"
+    ],
+    "Due Diligence": [
+        "PSYCH/660",
+        "PSYDA/660"
+    ],
+    "Quantitative and Qualitative Research": [
+        "PSYCH/664",
+        "PSYDA/664"
+    ],
+    "Research Methods": [
+        "PSYCH/664",
+        "PSYDA/664",
+        "RES/709"
+    ],
+    "Applied Psychology": [
+        "PSYCH/694",
+        "PSYDA/694"
+    ],
+    "Language Development and Acquisition": [
+        "RDG/201CA"
+    ],
+    "Developing Literacy": [
+        "RDG/201CA"
+    ],
+    "Language Arts Instruction": [
+        "RDG/201CA"
+    ],
+    "Literary Elements": [
+        "RDG/350"
+    ],
+    "Children\u2019s Literature Genres": [
+        "RDG/350"
+    ],
+    "Diversity in Literature": [
+        "RDG/350"
+    ],
+    "Literacy Concepts": [
+        "RDG/416"
+    ],
+    "Instructional Alignment": [
+        "RDG/416"
+    ],
+    "Literacy Instruction": [
+        "RDG/420CA",
+        "RDG/556"
+    ],
+    "Teaching Strategies": [
+        "RDG/420CA",
+        "RDG/556",
+        "RDG/558",
+        "SEC/534"
+    ],
+    "Literacy\u00a0Instruction": [
+        "RDG/558",
+        "SEC/534"
+    ],
+    "Reading Intervention": [
+        "RDG/570"
+    ],
+    "Summarization of Cultural Frameworks": [
+        "REL/134",
+        "RELDA/134"
+    ],
+    "Explanation of Religious Foundations": [
+        "REL/134",
+        "RELDA/134"
+    ],
+    "Comparative Religious Analysis": [
+        "REL/134",
+        "RELDA/134"
+    ],
+    "Research Concepts": [
+        "RES/709"
+    ],
+    "Quantitative Research": [
+        "RES/710"
+    ],
+    "Statistical Tests": [
+        "RES/710"
+    ],
+    "Quantitative Analysis": [
+        "RES/710"
+    ],
+    "Statistical Procedures": [
+        "RES/720"
+    ],
+    "Qualitative Research": [
+        "RES/724"
+    ],
+    "Research Ethics": [
+        "RES/724"
+    ],
+    "Qualitative Analysis": [
+        "RES/724"
+    ],
+    "Qualitative Case Study Research Design": [
+        "RES/728"
+    ],
+    "Qualitative Case Study Research Data Collection": [
+        "RES/728"
+    ],
+    "Qualitative Case Study Research Analysis": [
+        "RES/728"
+    ],
+    "Rhetorical Theory Analysis": [
+        "RHET/300"
+    ],
+    "Rhetorical Evaluation": [
+        "RHET/300"
+    ],
+    "Persuasive Argumentation": [
+        "RHET/300"
+    ],
+    "Social Media Analysis": [
+        "RHET/475"
+    ],
+    "Social Media Content Planning": [
+        "RHET/475"
+    ],
+    "Audience Engagement through Social Media": [
+        "RHET/475"
+    ],
+    "Scientific Application": [
+        "SCI/220",
+        "SCI/220T",
+        "SCIDA/220"
+    ],
+    "Microbial Identification": [
+        "SCI/250"
+    ],
+    "Microbial Growth Management": [
+        "SCI/250"
+    ],
+    "Infectious Disease Diagnostics": [
+        "SCI/250"
+    ],
+    "Clinical Microbiology": [
+        "SCI/250"
+    ],
+    "Metanalysis": [
+        "SCI/362"
+    ],
+    "Contemporary Issues": [
+        "SCI/362"
+    ],
+    "Academic Standards": [
+        "SEC/535"
+    ],
+    "Demonstration Skills": [
+        "SEC/536"
+    ],
+    "Math Standards": [
+        "SEC/538"
+    ],
+    "Physical Education Content Standards": [
+        "SEC/539"
+    ],
+    "Learning Environment": [
+        "SEC/539"
+    ],
+    "Adapting Instruction": [
+        "SEC/539"
+    ],
+    "Science Education": [
+        "SEC/540"
+    ],
+    "English Learner Law and Policy": [
+        "SEI/300",
+        "SEI/500"
+    ],
+    "Language Acquisition Elements": [
+        "SEI/300",
+        "SEI/500"
+    ],
+    "Language Acquisition Standards": [
+        "SEI/301",
+        "SEI/503"
+    ],
+    "Integrating Literature": [
+        "SEI/301"
+    ],
+    "Integrating Literature Strategies": [
+        "SEI/503"
+    ],
+    "Language Acquisition Technology": [
+        "SEI/503"
+    ],
+    "Educational Policies": [
+        "SEI/504",
+        "SEI/506"
+    ],
+    "ELP Strategies": [
+        "SEI/504",
+        "SEI/506"
+    ],
+    "Emotional Intelligence": [
+        "SOC/100",
+        "SOCDA/100"
+    ],
+    "Bilingual": [
+        "SPAN/110"
+    ],
+    "Spanish Language": [
+        "SPAN/110"
+    ],
+    "Spanish-Speaking Cultures": [
+        "SPAN/110"
+    ],
+    "Conversational Spanish": [
+        "SPAN/114"
+    ],
+    "Spanish Language Use": [
+        "SPAN/114"
+    ],
+    "Cross-Cultural Understanding": [
+        "SPAN/114"
+    ],
+    "Code of Federal Regulations": [
+        "SPE/512"
+    ],
+    "Emotional and Behavior Disorders": [
+        "SPE/544"
+    ],
+    "Individualized Instruction": [
+        "SPE/556"
+    ],
+    "Developmental Disabilities": [
+        "SPE/574"
+    ],
+    "Life Skills Development": [
+        "SPE/574"
+    ],
+    "Social Skills": [
+        "SPE/576"
+    ],
+    "SWOT Analysis": [
+        "STR/581",
+        "STRCB/581"
+    ],
+    "Competitive Advantage": [
+        "STR/581",
+        "STRCB/581"
+    ],
+    "Materials Management": [
+        "SUS/300"
+    ],
+    "Pollution Prevention": [
+        "SUS/300"
+    ],
+    "Self Care": [
+        "SWRK/220"
+    ],
+    "Culturally Competent Communication": [
+        "SWRK/301"
+    ],
+    "Empathy": [
+        "SWRK/311"
+    ],
+    "Theoretical Application": [
+        "SWRK/311"
+    ],
+    "Service Delivery": [
+        "SWRK/311"
+    ],
+    "Policy Gap Analysis": [
+        "SWRK/321"
+    ],
+    "Policy Change": [
+        "SWRK/321"
+    ],
+    "Advocacy Strategy": [
+        "SWRK/321"
+    ],
+    "Human Rights": [
+        "SWRK/346"
+    ],
+    "Advocacy Practice": [
+        "SWRK/346"
+    ],
+    "Generalist Practice": [
+        "SWRK/350"
+    ],
+    "Diverse Populations": [
+        "SWRK/350"
+    ],
+    "Social Service Delivery": [
+        "SWRK/350"
+    ],
+    "Research Bias": [
+        "SWRK/399"
+    ],
+    "Social Research": [
+        "SWRK/399"
+    ],
+    "Client Advocacy Skills": [
+        "SWRK/401"
+    ],
+    "Intersectionality of Bias": [
+        "SWRK/401"
+    ],
+    "Influence of Diversity": [
+        "SWRK/402"
+    ],
+    "Ethical Intervention": [
+        "SWRK/403"
+    ],
+    "Evidence-Informed Interventions": [
+        "SWRK/403"
+    ],
+    "Perspectives in Outcomes": [
+        "SWRK/404"
+    ],
+    "Case Management": [
+        "SWRK/404"
+    ],
+    "Discharge Planning": [
+        "SWRK/404"
+    ],
+    "Community Outreach": [
+        "SWRK/405",
+        "SWRK/425"
+    ],
+    "Community Advocacy": [
+        "SWRK/420",
+        "SWRK/425"
+    ],
+    "Student Learning": [
+        "TPA/200"
+    ],
+    "Web Applications": [
+        "WEB/240T"
+    ],
+    "Proposal Development": [
+        "WRIT/300"
+    ],
+    "Proposal Evaluation": [
+        "WRIT/300"
+    ],
+    "Proposal Writing": [
+        "WRIT/300"
+    ],
+    "Nonfiction": [
+        "WRIT/310"
+    ],
+    "Written Analysis": [
+        "WRIT/310"
+    ],
+    "Creative nonfiction": [
+        "WRIT/310"
+    ],
+    "Digital Content Analysis": [
+        "WRIT/350"
+    ],
+    "Social Media Posts": [
+        "WRIT/350"
+    ],
+    "Social Media Content Proposal": [
+        "WRIT/350"
+    ],
+    "Written Composition": [
+        "WRIT/480"
+    ],
+    "Continuous Improvement": [
+        "WRIT/480"
+    ]
+}

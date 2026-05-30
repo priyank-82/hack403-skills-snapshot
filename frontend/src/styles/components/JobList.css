@@ -1,0 +1,243 @@
+/* JobList Component Styles */
+.job-list {
+  padding: 24px;
+}
+
+.job-list__header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.job-list__title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #212121;
+  margin: 0;
+}
+
+.job-list__company-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.job-list__loading-container {
+  padding: 24px;
+  text-align: center;
+}
+
+.job-list__loading-spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid #f3f3f3;
+  border-top: 3px solid #DB3725;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: 0 auto 16px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.job-list__loading-text {
+  font-size: 1rem;
+  color: #757575;
+  margin: 0;
+}
+
+.job-list__error-container {
+  padding: 24px;
+}
+
+.job-list__error-alert {
+  background-color: #ffebee;
+  color: #c62828;
+  border: 1px solid #ffcdd2;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 0;
+}
+
+.job-list__empty-container {
+  padding: 24px;
+  text-align: center;
+}
+
+.job-list__empty-title {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #212121;
+  margin: 0 0 8px 0;
+}
+
+.job-list__empty-subtitle {
+  font-size: 0.875rem;
+  color: #757575;
+  margin: 0;
+}
+
+.job-list__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 24px;
+  margin-bottom: 32px;
+}
+
+.job-list__job-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid #e0e0e0;
+}
+
+.job-list__job-card:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.job-list__job-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.job-list__job-info {
+  flex: 1;
+}
+
+.job-list__job-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #212121;
+  margin: 0 0 8px 0;
+  line-height: 1.4;
+}
+
+.job-list__job-company {
+  font-size: 0.875rem;
+  color: #757575;
+  margin: 0;
+}
+
+.job-list__job-description {
+  font-size: 0.875rem;
+  color: #212121;
+  line-height: 1.6;
+  margin: 0 0 16px 0;
+  flex: 1;
+}
+
+.job-list__show-more-button {
+  background: transparent;
+  border: none;
+  color: #DB3725;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 8px 0;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  transition: color 0.2s ease-in-out;
+  align-self: flex-start;
+}
+
+.job-list__show-more-button:hover {
+  color: #B82E1F;
+}
+
+.job-list__expand-icon {
+  width: 16px;
+  height: 16px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.job-list__expand-icon--expanded {
+  transform: rotate(180deg);
+}
+
+.job-list__pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  margin-top: 32px;
+}
+
+.job-list__pagination-button {
+  background: transparent;
+  border: 1px solid #DB3725;
+  color: #DB3725;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.job-list__pagination-button:hover:not(:disabled) {
+  background-color: rgba(219, 55, 37, 0.1);
+}
+
+.job-list__pagination-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.job-list__pagination-info {
+  font-size: 0.875rem;
+  color: #757575;
+  margin: 0;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .job-list {
+    padding: 16px;
+  }
+  
+  .job-list__grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  
+  .job-list__job-card {
+    padding: 16px;
+  }
+  
+  .job-list__header {
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  
+  .job-list__title {
+    font-size: 1.25rem;
+  }
+  
+  .job-list__company-logo {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .job-list__pagination {
+    gap: 12px;
+    margin-top: 24px;
+  }
+  
+  .job-list__pagination-button {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+  }
+}
